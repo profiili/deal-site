@@ -1,0 +1,60 @@
+# main menu
+[[main]]
+name = "Etusivu"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Ajankohtaista"
+url = "blog"
+weight = 2
+
+[[main]]
+name = "Tarjoukset"
+url = "deals"
+weight = 3
+
+[[main]]
+name = "UKK"
+url = "faq"
+weight = 4
+
+# footer menu left
+[[footer_left]]
+name = "Meistä"
+url = "#"
+
+#[[footer_left]]
+#name = "Quick Start"
+#url = "#"
+
+#[[footer_left]]
+#name = "Pricing"
+#url = "pricing"
+
+
+# footer menu middle
+[[footer_middle]]
+name = "Puheliittymät"
+url = "/deals/sub_mob/"
+
+[[footer_middle]]
+name = "Laajakaistat"
+url = "/deals/sub_mob/"
+
+[[footer_middle]]
+name = "Uudet liittymät"
+url = "/deals/sub_new/"
+
+# footer menu right
+[[footer_right]]
+name = "Privacy Policy"
+url = "privacy-policy"
+
+[[footer_right]]
+name = "Terms & Conditions"
+url = "terms-conditions"
+
+[[footer_right]]
+name = "UKK"
+url = "faq"

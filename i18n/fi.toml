@@ -1,0 +1,24 @@
+[readmore]
+other = "Lue"
+
+[translations]
+other="Käännökset"
+
+[error404]
+other = "Täällä ei ole mitään. We are really sorry but there seems to be nothing here."
+
+[yourname]
+other = "Nimi"
+
+[youremail]
+other = "Sähköposti"
+
+[subject]
+other = "Aihe"
+
+[yourmessage]
+other = "Viesti"
+
+[sendnow]
+other = "Lähetä"
+
