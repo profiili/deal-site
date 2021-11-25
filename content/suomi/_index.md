@@ -60,7 +60,7 @@ service:
       button:
         enable : true
         label : "Ajankohtaista"
-        link : "/blog/"
+        link : "/blog"
         
     # service item loop
     - title : "Liittymät puhelimeen"
@@ -70,7 +70,7 @@ service:
       button:
         enable : true
         label : "Puheliittymät"
-        link : "/deals/sub_mob/"
+        link : "/deals/sub_mob"
         
     # service item loop
     - title : "Liittymät tablettiin ja kotiin"
@@ -80,7 +80,7 @@ service:
       button:
         enable : true
         label : "Laajakaistat"
-        link : "/deals/sub_tab/"
+        link : "/deals/sub_tab"
         
     # service item loop
     - title : "Uudet liittymät"

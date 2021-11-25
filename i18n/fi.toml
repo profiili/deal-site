@@ -1,11 +1,11 @@
 [readmore]
-other = "Lue"
+other = "LUE LISÄÄ"
 
 [translations]
 other="Käännökset"
 
 [error404]
-other = "Täällä ei ole mitään. We are really sorry but there seems to be nothing here."
+other = "404: Täällä ei ole mitään."
 
 [yourname]
 other = "Nimi"
@@ -20,5 +20,5 @@ other = "Aihe"
 other = "Viesti"
 
 [sendnow]
-other = "Lähetä"
+other = "LÄHETÄ"
 

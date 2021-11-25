@@ -1,14 +1,15 @@
 ---
-title: "Adversus is a web-based dialer and practical CRM solution"
-date: 2020-04-18T10:07:21+06:00
+title: "***Malli***"
+date: 2021-11-11T11:11:11+02:00
+expiryDate: 2121-11-11T11:11:11+02:00
 # post image
 image: "images/blog/post-1.jpg"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "This is meta description"
 # post draft
-draft: false
+draft: true
 ---
 
 

@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "http://examplesite.org/"
-title = "Tekninen vika"
+title = "TBA"
 theme = "bigspring-light"
 defaultContentLanguage = 'fi'
 disableLanguages = ['en', 'de']
