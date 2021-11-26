@@ -1,5 +1,5 @@
 ---
-title: "Tarjoukset"
+title: "Kaikki tarjoukset"
 subtitle: ""
 # meta description
 description: "This is meta description"

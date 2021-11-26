@@ -13,6 +13,31 @@ weight = 2
 name = "Tarjoukset"
 url = "deals"
 weight = 3
+hasChildren = true
+
+  [[main]]
+  parent = "Tarjoukset"
+  name = "Kaikki tarjoukset"
+  url = "deals"
+  weight = 1
+
+  [[main]]
+  parent = "Tarjoukset"
+  name = "Liittymät puhelimeen"
+  url = "deals/sub_mob"
+  weight = 2
+
+  [[main]]
+  parent = "Tarjoukset"
+  name = "Netti kotiin ja laitteisiin"
+  url = "deals/sub_tab"
+  weight = 3
+
+  [[main]]
+  parent = "Tarjoukset"
+  name = "Uudet liittymät"
+  url = "deals/sub_new"
+  weight = 4
 
 [[main]]
 name = "UKK"

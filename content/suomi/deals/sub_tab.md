@@ -12,19 +12,20 @@ description: "This is meta description"
 draft: false
 ---
 
-### Päivitetty 25.11.2021 (Black Friday)
+### Päivitetty 26.11.2021 (Black Friday)
 
-**Vinkki:** Mobiililaajakaistaksi käy erittäin hyvin myös normaali puheliittymä. Usein niissä on laajakaistoja paremmat tarjoukset kuten lahjakortti tai edullinen hinta kaksi vuotta. Olemassa olevan laajakaistan numeron voi siirtää kuten normaalin puhelinnumeron, jolloin mitään ei tarvitse erikseen irtisanoa.
+**Tiesitkö?** Mobiililaajakaistaksi käy erittäin hyvin myös normaali puhelinliittymä. Usein niissä on vieläpä laajakaistoja paremmat edut, kuten lahjakortti tai kahden vuoden tarjous. Olemassa olevan laajakaistan voi siirtää yhtä helposti kuin normaalin liittymän, jolloin mitään ei tarvitse erikseen irtisanoa. Kätevää,&nbsp;eikö!
 
 Tarjoukseen pääset painamalla liittymän nimeä. Voit joutua syöttämään puhelinnumeron ennen tarjousta.
 
+<!-- otin br pois -->
 <a name="knaps"></a>
->**KNAPS:**<br>
->**K**ortti: Maksut veloitetaan automaattisesti kortilta perinteisen laskun sijaan.<br>
->**N**umeronsiirto: Siirto toiselta operaattorilta. (Myös Telia – Telia Dot tai päinvastoin.)<br>
->**A**siakasetu: Saman operaattorin liittymä- tai laajakaista-asiakkaille.<br>
->**P**otti: Käytettävissä oleva data jaetaan kaikkien samanlaisten liittymien kesken.<br>
->**S**ovellus: Kaikki asiointi, ml. tilaaminen, tehdään sovelluksella.<br>
+>**KNAPS:**
+>**K**ortti: Maksut veloitetaan automaattisesti kortilta perinteisen laskun sijaan.
+>**N**umeronsiirto: Siirto toiselta operaattorilta. (Myös Telia – Telia Dot tai päinvastoin.)
+>**A**siakasetu: Saman operaattorin liittymä- tai laajakaista-asiakkaille.
+>**P**otti: Käytettävissä oleva data jaetaan kaikkien samanlaisten liittymien kesken.
+>**S**ovellus: Kaikki asiointi, ml. tilaaminen, tehdään sovelluksella.
 
 [K]: #knaps "Kortti"
 [N]: #knaps "Numeronsiirto"

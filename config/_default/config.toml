@@ -7,7 +7,7 @@ disableLanguages = ['en', 'de']
 # post pagination
 paginate = "6"
 # post excerpt
-summaryLength = "15"
+summaryLength = "10"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # google analytics

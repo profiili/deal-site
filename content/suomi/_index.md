@@ -51,7 +51,7 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "Ajankohtaiset tarjoukset"
+    - title : "Black Friday ja muut ajankohtaiset tarjoukset"
       images:
       - "images/service-1.png"
       - "images/service-2.png"

@@ -5,16 +5,16 @@ expiryDate: 2121-12-01T00:00:00+02:00
 # post image
 image: "images/blog/post-1.jpg"
 # post type (regular/featured)
-type: "regular"
+type: "featured"
 # meta description
 description: "This is meta description"
 # post draft
 draft: false
 ---
 
-### Päivitetty 25.11.2021 (Black Friday)
+### Päivitetty 26.11.2021 (Black Friday)
 
-Tältä sivulta löydät kaikki keräämämme liittymätarjoukset. Me uskomme, että puhelinliittymästä saa maksaa aivan korkeintaan 30 euroa kuukaudessa (360 euroa vuodessa!), joten sitä kalliimpia liittymiä emme listaa.
+Tältä sivulta löydät kaikki keräämämme liittymätarjoukset. Näitä ei suoraan etusivulta löydy! Me uskomme, että puhelinliittymästä saa maksaa aivan korkeintaan 30&nbsp;euroa kuukaudessa (360&nbsp;euroa vuodessa!), joten sitä kalliimpia liittymiä emme listaa.
 
 Jos olet täysin uuden numeron perässä, kannattaa vilkaista **[uudet liittymät täältä.](../sub_new)**
 
