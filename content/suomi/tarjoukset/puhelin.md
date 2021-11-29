@@ -16,7 +16,7 @@ draft: false
 
 Tältä sivulta löydät kaikki keräämämme liittymätarjoukset. Näitä ei suoraan etusivulta löydy! Me uskomme, että puhelinliittymästä saa maksaa aivan korkeintaan 30 euroa kuukaudessa (360 euroa vuodessa!), joten sitä kalliimpia liittymiä emme listaa.
 
-Jotkin liittymät vaativat numeronsiirtoa toiselta operaattorilta. Jos olet täysin uuden numeron perässä, kannattaa vilkaista **[uudet liittymät täältä](../sub_new)**.
+Useimmat tarjoukset vaativat numeronsiirtoa toiselta operaattorilta. Jos olet täysin uuden numeron perässä, kannattaa vilkaista **[uudet liittymät täältä](../uudet-liittymat)**.
 
 Tarjoukseen pääset painamalla liittymän nimeä. Voit joutua syöttämään puhelinnumeron ennen tarjousta.
 
@@ -106,7 +106,7 @@ Liittymä              |Hinta
 {{< faq "Apua valitsemiseen?" >}}
 Liikaa valinnanvaraa? Etkö ole varma, mitä kaikkea liittymältä tarvitset? Etsitään juuri sinulle sopiva ratkaisu!
 
-#### [Ota yhteyttä!](../../contact)
+#### [Ota yhteyttä!](../../ota-yhteytta)
 {{< /faq >}}
 
 

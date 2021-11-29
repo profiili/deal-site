@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Saatamme yhteen asiakkaat <br> ja sopuisat hinnat"
+  title : "Saatamme yhteen asiakkaat ja&nbsp;sopuisat hinnat"
   image : "images/banner-art.svg"
   content : "TBA erikoistunut tiimi kaivaa käsiinsä <br> parhaat diilit, joita ei noin vain etusivuilta löydy"
   button:
@@ -51,46 +51,46 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "Black Friday ja muut ajankohtaiset tarjoukset"
+    - title : "Cyber Monday ja muut ajankohtaiset tarjoukset"
       images:
       - "images/service-1.png"
       - "images/service-2.png"
       - "images/service-3.png"
-      content : "TBA tuoreimmat löydöt yhdessä paikassa."
+      content : "Ajankohtaiset tarjoukset ja vinkit yhdessä paikassa."
       button:
         enable : true
-        label : "Ajankohtaista"
-        link : "/blog"
+        label : "Blogiin"
+        link : "/blogi"
         
     # service item loop
-    - title : "Liittymät puhelimeen"
+    - title : "Liittymä puhelimeen"
       images:
       - "images/service-1.png"
-      content : "Yksi liittymä ei sovi jokaiselle. Puhuit paljon tai vähän, sopiva paketti löytyy täältä."
+      content : "Yksi liittymä ei sovi jokaiselle. Puhuit sitten paljon tai vähän, sopiva paketti löytyy täältä."
       button:
         enable : true
-        label : "Puheliittymät"
-        link : "/deals/sub_mob"
+        label : "Puhelinliittymiin"
+        link : "/tarjoukset/puhelin"
         
     # service item loop
-    - title : "Liittymät tablettiin ja kotiin"
+    - title : "Laajakaista kotiin tai mukaan"
       images:
       - "images/service-2.png"
       content : "Liikkuva laajakaista, mutta varaa jää myös siihen liikkumiseen."
       button:
         enable : true
-        label : "Laajakaistat"
-        link : "/deals/sub_tab"
+        label : "Nettiliittymiin"
+        link : "/tarjoukset/netti"
         
     # service item loop
-    - title : "Uudet liittymät"
+    - title : "Myös uudet liittymät"
       images:
       - "images/service-3.png"
-      content : "Oli tarve sitten lapsen ensiliittymälle tai maiseman vaihdokselle, täältä löytyy liittymä uudella numerolla."
+      content : "Olipa tarve lapsen ensiliittymälle tai maiseman vaihdokselle, täältä löytyy liittymät uusilla numeroilla."
       button:
         enable : true
-        label : "Uudet liittymät"
-        link : "/deals/sub_new"
+        label : "Uusiin liittymiin"
+        link : "/tarjoukset/uudet-liittymat"
         
 ################### Screenshot ########################
 screenshot:
@@ -109,5 +109,5 @@ call_to_action:
   button:
     enable : true
     label : "OTA YHTEYTTÄ"
-    link : "contact"
+    link : "ota-yhteytta"
 ---

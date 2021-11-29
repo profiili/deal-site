@@ -199,7 +199,7 @@ Moin Laitenetti-liittymässä viestit 5,5&nbsp;snt/kpl.
 {{< faq "Apua valitsemiseen?" >}}
 Liikaa valinnanvaraa? Etkö ole varma, mitä kaikkea liittymältä tarvitset? Etsitään juuri sinulle sopiva ratkaisu!
 
-#### [Ota yhteyttä!](../../contact)
+#### [Ota yhteyttä!](../../ota-yhteytta)
 {{< /faq >}}
 
 

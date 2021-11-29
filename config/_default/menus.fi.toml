@@ -5,43 +5,43 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Ajankohtaista"
-url = "blog"
-weight = 2
-
-[[main]]
 name = "Tarjoukset"
-url = "deals"
-weight = 3
+url = "tarjoukset"
+weight = 2
 hasChildren = true
 
   [[main]]
   parent = "Tarjoukset"
   name = "Kaikki tarjoukset"
-  url = "deals"
+  url = "tarjoukset"
   weight = 1
 
   [[main]]
   parent = "Tarjoukset"
   name = "Puhelinliittymät"
-  url = "deals/sub_mob"
+  url = "tarjoukset/puhelin"
   weight = 2
 
   [[main]]
   parent = "Tarjoukset"
   name = "Netti kotiin ja mukaan"
-  url = "deals/sub_tab"
+  url = "tarjoukset/netti"
   weight = 3
 
   [[main]]
   parent = "Tarjoukset"
   name = "Uudet liittymät"
-  url = "deals/sub_new"
+  url = "tarjoukset/uudet-liittymat"
   weight = 4
 
 [[main]]
+name = "Blogi"
+url = "blogi"
+weight = 3
+
+[[main]]
 name = "UKK"
-url = "faq"
+url = "ukk"
 weight = 4
 
 # footer menu left
@@ -56,7 +56,6 @@ url = "#"
 #[[footer_left]]
 #name = "Pricing"
 #url = "pricing"
-
 
 # footer menu middle
 [[footer_middle]]
