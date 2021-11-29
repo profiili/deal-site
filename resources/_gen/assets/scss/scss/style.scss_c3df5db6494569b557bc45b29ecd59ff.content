@@ -267,6 +267,25 @@ textarea.form-control {
     font-size: 25px;
     left: -30px;
     top: 3px; }
+    
+.check-mark-not {
+  position: relative;
+  padding-left: 0px; }
+  .check-mark-not::before {
+    position: absolute;
+    content: "\f058";
+    color: #c0c0c0;
+    font-size: 25px;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    left: -30px;
+    top: 3px; }
+  .check-mark-not svg {
+    position: absolute;
+    color: #0AA8A7;
+    font-size: 25px;
+    left: -30px;
+    top: 3px; }
 
 .nav-item {
   margin: 0; }

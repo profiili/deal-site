@@ -1,20 +1,20 @@
 ---
-title: "Black Fridayn parhaat liittymätarjoukset"
-date: 2021-11-25T16:07:03+02:00
+title: "Cyber Mondayn parhaat liittymätarjoukset"
+date: 2021-11-29T10:31:03+02:00
 expiryDate: 2121-12-01T00:00:00+02:00
 # post image
 image: "images/blog/post-1.jpg"
 # post type (regular/featured)
-type: "regular"
+type: "featured"
 # meta description
 description: "This is meta description"
 # post draft
 draft: false
 ---
 
-Jokavuotinen jo koko viikon pituiseksi venynyt Black Friday on taas täällä. Kokosimme liittymätarjoukset yhteen paikkaan. Erityishinnat ovat yleensä saatavilla vain rajoitetun ajan, joten kannattaa toimia nopeasti.
+Black Fridayn jälkeinen tarjousmaanantai on taas täällä. Jos et viikonloppuna ehtinyt päivittää liittymääsi, ei hätää! Vielä ehdit saada hyvän diilin, sillä Cyber Mondayn liittymätarjoukset eivät juuri eroa Black Fridayn tarjouksista. Erityishinnat ovat yleensä saatavilla vain rajoitetun ajan, joten kannattaa toimia nopeasti.
 
-Älä kuitenkaan anna seuraavien tarjouksien täysin sokaista, sillä tarjolla on muitakin sopivan hintaisia liittymiä ympäri vuoden. **[Katso kaikki liittymät täältä!](/deals)** (ml. Black Friday)
+Älä kuitenkaan anna seuraavien tarjouksien täysin sokaista, sillä tarjolla on muitakin sopivan hintaisia liittymiä ympäri vuoden. **[Katso kaikki liittymät täältä!](/deals)**
 
 Lista saattaa päivittyä uusien tarjouksien ilmetessä.
 
@@ -76,7 +76,7 @@ Numeronsiirto tai uusi liittymä:
 
 ### Mobiililaajakaista
 
-**Mobiililaajakaistaksi käy myös puheliittymä.** Olemassa olevan laajakaistan numeron voi siirtää kuten normaalin puhelinnumeron, jolloin mitään ei tarvitse irtisanoa. Laajakaistoja useammin puheliittymiin tarjotaan etuna usein myös lahjakorttia.
+**Mobiililaajakaistaksi käy myös puheliittymä.** Olemassa olevan laajakaistan numeron voi siirtää kuten normaalin puhelinnumeron, jolloin mitään ei tarvitse irtisanoa.
 
 * [Saunalahti Mobiililaajakaista 5G 300M][EM]: 29,90 1v (norm. 31,90)
 * [Saunalahti Mobiililaajakaista 4G 100M][EM]: 23,90 1v (norm. 27,90)

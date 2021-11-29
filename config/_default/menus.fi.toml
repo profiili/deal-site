@@ -23,13 +23,13 @@ hasChildren = true
 
   [[main]]
   parent = "Tarjoukset"
-  name = "Liittymät puhelimeen"
+  name = "Puhelinliittymät"
   url = "deals/sub_mob"
   weight = 2
 
   [[main]]
   parent = "Tarjoukset"
-  name = "Netti kotiin ja laitteisiin"
+  name = "Netti kotiin ja mukaan"
   url = "deals/sub_tab"
   weight = 3
 
