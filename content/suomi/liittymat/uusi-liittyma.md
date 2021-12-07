@@ -14,15 +14,13 @@ draft: false
 
 ### Päivitetty 7.12.2021
 
-Tältä sivulta löydät kaikki keräämämme tarjoukset uusille liittymille. Uusille liittymille ei ole yhtä hyviä tarjouksia kuin numeronsiirroille, mutta onneksi saat ne helposti käyttöösi – [lue lisää täältä]. Jos haluat päivittää nykyisen liittymäsi, kannattaa vilkaista **[kaikki puhelinliittymät](../puhelin)**.
+Tältä sivulta löydät kaikki keräämämme tarjoukset uusille liittymille. Uusille liittymille ei ole yhtä hyviä tarjouksia kuin numeronsiirroille, mutta onneksi saat ne helposti käyttöösi – [lue lisää täältä](#). Jos haluat päivittää nykyisen liittymäsi, kannattaa vilkaista **[kaikki puhelinliittymät](../puhelin)**.
 
 Me uskomme, että puhelinliittymästä saa maksaa aivan korkeintaan 30&nbsp;euroa kuukaudessa (360&nbsp;euroa vuodessa!), joten sitä kalliimpia liittymiä emme listaa.
 
 Jotkin liittymät ovat _lapselle_. Älä huoli, sillä lapsen liittymä tarkoittaa vain uuden puhelinnumeron ottamista.
 
 Tarjoukseen pääset painamalla liittymän nimeä.
-
-[lue lisää täältä]: #
 
 <hr>
 

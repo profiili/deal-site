@@ -35,14 +35,18 @@ Liittymä                     |Hinta
 [Telia Dot 5G 300M][lidl]    |0,00 1kk +30€ Lidl (29,90)
 [Moi Reilu 5G 400M]          |19–27
 
-**(!) Huom! Tarjouksessa norm. hinta 34,90, mutta tilatessa 44,90. Varmista operaattorilta.**
+**(!) Huom! Tarjouksessa norm. hinta 34,90, mutta tilatessa 44,90. Varmista oikea hinta operaattorilta.**
 
 [Saunalahti Huoleton 5G 300M]: https://elisa.fi/kauppa/erikoistarjous
+
 [DNA Rajaton 5G 400M]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-5G-400M/p/MCAMP-G4-QVS000014
 [DNA Rajaton 5G 200M]: https://kauppa4.dna.fi/Puhelinliittymät/Kiinteä-hinta,-rajaton-käyttö/DNA-Rajaton-5G-200M/p/QVS000017
+
 [Telia Rajaton 5G 450M (!)]: https://www.telia.fi/kampanjat/liittymat/huippudiili
 [Telia Rajaton 5G 450M (2)]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G450M&kampanja=R5G450M21103LK
+
 [lidl]: https://www.telia.fi/dot/lidlplus
+
 [Moi Reilu 5G 400M]: https://www.moi.fi/5g
 
 <hr>
@@ -70,6 +74,7 @@ Liittymä                    |Hinta
 
 [Super 4G Rajaton 300M]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Super-4G-Rajaton/p/MCAMP-PL-QVS000005
 [Nopea 4G Rajaton Plus 150M]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Nopea-4G-Rajaton-Plus-/p/MCAMP-QVS000012
+
 [dnum]: https://www.dna.fi/sinunhintasi
 
 <a name="4g-telia"></a>
@@ -82,6 +87,7 @@ Liittymä      |Hinta
 
 [Rajaton 200M]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21103LK
 [Rajaton 20M]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M21146
+
 [tnum]: https://www.telia.fi/kampanjat/liittymat/huippudiili
 
 <a name="4g-dot"></a>

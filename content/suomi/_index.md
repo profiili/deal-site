@@ -51,19 +51,19 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "Cyber Monday ja muut ajankohtaiset tarjoukset"
+    - title : "Ajankohtaiset tarjoukset"
       images:
       - "images/service-1.png"
       - "images/service-2.png"
       - "images/service-3.png"
-      content : "Ajankohtaiset tarjoukset ja vinkit yhdessä paikassa."
+      content : "Ajankohtaiset tarjoukset ja rahanarvoiset vinkit yhdessä paikassa."
       button:
         enable : true
         label : "Blogiin"
         link : "/blogi"
         
     # service item loop
-    - title : "Liittymä puhelimeen"
+    - title : "Liittymät puhelimeen"
       images:
       - "images/service-1.png"
       content : "Yksi liittymä ei sovi jokaiselle. Puhuit sitten paljon tai vähän, sopiva paketti löytyy täältä."
@@ -73,7 +73,7 @@ service:
         link : "/liittymat/puhelin"
         
     # service item loop
-    - title : "Laajakaista kotiin tai mukaan"
+    - title : "Netti kotiin ja mukaan"
       images:
       - "images/service-2.png"
       content : "Liikkuva laajakaista, mutta varaa jää myös siihen liikkumiseen."

@@ -27,12 +27,14 @@ Tarjoukseen pääset painamalla liittymän nimeä. Voit joutua syöttämään pu
 <a name="5g"></a>
 ### 5G-netti
 
-Tarkista kotiosoitteesi tarjonta: [Elisa][e5gkoti] | [DNA][d5gkoti] | [Telia (kaikille)][t5gkoti] | [Telia (keskittäjille)][t5gkoti2]
+Tarkista kotiosoitteesi tarjonta: [Elisa][e5gkoti] | [DNA][d5gkoti] | [Telia (keskittäjille)][t5gkoti2] | [Telia (kaikille)][t5gkoti]
 
 [e5gkoti]: https://elisa.fi/netti/omakotitalot/5g-kotinetti
+
 [d5gkoti]: https://kauppa4.dna.fi/laajakaista
-[t5gkoti]: https://www.telia.fi/kauppa/kodin-netti/5g-netti-kotiin
+
 [t5gkoti2]: https://www.telia.fi/kauppa/kodin-netti/asiakasetu-laajakaista
+[t5gkoti]: https://www.telia.fi/kauppa/kodin-netti/5g-netti-kotiin
 
 Liittymä                               |Hinta
 ---------------------------------------|--------------------------------
@@ -46,16 +48,22 @@ Liittymä                               |Hinta
 [Telia Dot 5G 300M][lidl]              |0,00 1kk +30€ Lidl (29,90)
 [Moi Reilu 5G 400M]                    |19–27
 
-**(!) Huom! Tarjouksessa norm. hinta 34,90, mutta tilatessa 44,90. Varmista operaattorilta.**
+**(!) Huom! Tarjouksessa norm. hinta 34,90, mutta tilatessa 44,90. Varmista oikea hinta operaattorilta.**
 
 [Saunalahti Huoleton 5G 300M (N)]: https://elisa.fi/kauppa/erikoistarjous
+
 [Saunalahti Mobiililaajakaista 5G 300M]: https://elisa.fi/kauppa/nettiliittymat/mobiililaajakaista?5G=true
+
 [DNA Rajaton 5G 200M]: https://kauppa4.dna.fi/Puhelinliittymät/Kiinteä-hinta,-rajaton-käyttö/DNA-Rajaton-5G-200M/p/QVS000017
 [DNA Rajaton 5G 400M]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-5G-400M/p/MCAMP-G4-QVS000014
+
 [DNA Liikkuva 5G 400M]: https://kauppa4.dna.fi/c/DNA-Liikkuva-5G-400M/p/VL5G000001
+
 [Telia Rajaton 5G 450M (N)(!)]: https://www.telia.fi/kampanjat/liittymat/huippudiili
 [Telia Rajaton 5G 450M]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G450M&kampanja=R5G450M21103LK
+
 [lidl]: https://www.telia.fi/dot/lidlplus
+
 [Moi Reilu 5G 400M]: https://www.moi.fi/5g
 
 <hr>
@@ -98,6 +106,7 @@ Liittymä                          |Hinta
 
 [Super 4G Rajaton 300M]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Super-4G-Rajaton/p/MCAMP-PL-QVS000005
 [Nopea 4G Rajaton Plus 150M]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Nopea-4G-Rajaton-Plus-/p/MCAMP-QVS000012
+
 [Liikkuva 4G 200M]: https://kauppa4.dna.fi/c/DNA-Liikkuva-4G-200M/p/VS4G000002
 [Liikkuva 4G 100M (keskittäjille)]: https://kauppa4.dna.fi/c/Keskittämisetu:-DNA-Liikkuva-4G-100M/p/MCAMP00020-VT4G000002
 [Liikkuva 4G 100M]: https://kauppa4.dna.fi/c/DNA-Liikkuva-4G-100M/p/VT4G000002
@@ -110,7 +119,7 @@ Liittymä                          |Hinta
 <a name="4g-telia"></a>
 #### Telia
 
-Tarkista kotiosoitteesi tarjonta: [Telia (kaikille)][t4gkoti] | [Telia (keskittäjille)][t5gkoti2]
+Tarkista kotiosoitteesi tarjonta: [Telia (keskittäjille)][t5gkoti2] | [Telia (kaikille)][t4gkoti]
 
 [t4gkoti]: https://www.telia.fi/kauppa/kodin-netti/netti-kotiin
 
@@ -123,9 +132,10 @@ Liittymä                            |Hinta
 [Yhteys Mukaan kotimaa 50M]         |9,90 1v (18,90)
 
 [Rajaton 200M]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21103LK
+[Rajaton 20M]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M21146
+
 [Yhteys Mukaan 200M (keskittäjille)]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKeskittajalle200M&kampanja=200MBT21103
 [Yhteys Mukaan 100M (keskittäjille)]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=Asiakasetu&kampanja=keskittajaMBT21103
-[Rajaton 20M]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M21146
 [Yhteys Mukaan kotimaa 50M]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKotimaassa&Kampanja=NMK50M21103
 
 [tnum]: https://www.telia.fi/kampanjat/liittymat/huippudiili
