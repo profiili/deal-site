@@ -1,5 +1,5 @@
 ---
-title: "Cyber Mondayn parhaat liittymätarjoukset"
+title: "Cyber Mondayn liittymätarjoukset"
 date: 2021-11-29T10:31:03+02:00
 expiryDate: 2121-12-01T00:00:00+02:00
 # post image

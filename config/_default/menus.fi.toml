@@ -5,33 +5,33 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Tarjoukset"
-url = "tarjoukset"
+name = "Liittymät"
+url = "liittymat"
 weight = 2
 hasChildren = true
 
-  [[main]]
-  parent = "Tarjoukset"
-  name = "Kaikki tarjoukset"
-  url = "tarjoukset"
-  weight = 1
+#  [[main]]
+#  parent = "Liittymät"
+#  name = "Kaikki liittymät"
+#  url = "liittymat"
+#  weight = 1
 
   [[main]]
-  parent = "Tarjoukset"
-  name = "Puhelinliittymät"
-  url = "tarjoukset/puhelin"
+  parent = "Liittymät"
+  name = "Puhelinliittymä"
+  url = "liittymat/puhelin"
   weight = 2
 
   [[main]]
-  parent = "Tarjoukset"
+  parent = "Liittymät"
   name = "Netti kotiin ja mukaan"
-  url = "tarjoukset/netti"
+  url = "liittymat/netti"
   weight = 3
 
   [[main]]
-  parent = "Tarjoukset"
-  name = "Uudet liittymät"
-  url = "tarjoukset/uudet-liittymat"
+  parent = "Liittymät"
+  name = "Uusi liittymä"
+  url = "liittymat/uusi-liittyma"
   weight = 4
 
 [[main]]
@@ -48,37 +48,48 @@ weight = 4
 [[footer_left]]
 name = "Meistä"
 url = "#"
+weight = 1
 
-#[[footer_left]]
-#name = "Quick Start"
-#url = "#"
+[[footer_left]]
+name = "Quick Start"
+url = "#"
+weight = 2
 
-#[[footer_left]]
-#name = "Pricing"
-#url = "pricing"
+[[footer_left]]
+name = "Pricing"
+url = "pricing"
+weight = 3
 
 # footer menu middle
 [[footer_middle]]
-name = "Puheliittymät"
-url = "/deals/sub_mob"
+name = "Puhelinliittymät"
+url = "/liittymat/puhelin"
+weight = 1
 
 [[footer_middle]]
-name = "Laajakaistat"
-url = "/deals/sub_mob"
+name = "Netti kotiin tai mukaan"
+url = "/liittymat/netti"
+weight = 2
 
 [[footer_middle]]
-name = "Uudet liittymät"
-url = "/deals/sub_new"
+name = "Uusi liittymä"
+url = "/liittymat/uusi-liittyma"
+weight = 3
 
 # footer menu right
 [[footer_right]]
 name = "Privacy Policy"
 url = "privacy-policy"
+weight = 1
 
 [[footer_right]]
 name = "Terms & Conditions"
 url = "terms-conditions"
+weight = 2
 
 [[footer_right]]
 name = "UKK"
-url = "faq"
+url = "ukk"
+weight = 3
+
+

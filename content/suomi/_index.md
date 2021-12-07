@@ -70,7 +70,7 @@ service:
       button:
         enable : true
         label : "Puhelinliittymiin"
-        link : "/tarjoukset/puhelin"
+        link : "/liittymat/puhelin"
         
     # service item loop
     - title : "Laajakaista kotiin tai mukaan"
@@ -80,7 +80,7 @@ service:
       button:
         enable : true
         label : "Nettiliittymiin"
-        link : "/tarjoukset/netti"
+        link : "/liittymat/netti"
         
     # service item loop
     - title : "Myös uudet liittymät"
@@ -90,7 +90,7 @@ service:
       button:
         enable : true
         label : "Uusiin liittymiin"
-        link : "/tarjoukset/uudet-liittymat"
+        link : "/liittymat/uusi-liittyma"
         
 ################### Screenshot ########################
 screenshot:
