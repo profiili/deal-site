@@ -19,7 +19,7 @@ feature:
       icon : "fas fa-mobile-alt"
       content : "Yksi liittymä ei sovi jokaiselle. Puhuit sitten paljon tai vähän, sopiva paketti löytyy kyllä. 
       <hr>
-      <a href='liittymat/puhelin'>**Puhelinliittymiin**</a>"
+      <a href='liittymat/puhelin'>**Puhelinliittymiin**</i></a>"
       
     # feature item loop
     - name : "Netti kotiin ja mukaan"

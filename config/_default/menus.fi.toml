@@ -17,7 +17,7 @@ hasChildren = true
 
   [[main]]
   parent = "Liittymät"
-  name = "Puhelinliittymä"
+  name = "Puhelinliittymät"
   url = "liittymat/puhelin"
   weight = 2
 
@@ -29,7 +29,7 @@ hasChildren = true
 
   [[main]]
   parent = "Liittymät"
-  name = "Uusi liittymä"
+  name = "Uudet liittymät"
   url = "liittymat/uusi-liittyma"
   weight = 4
 
