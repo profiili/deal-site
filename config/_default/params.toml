@@ -19,7 +19,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation buttons
 [navigation_button]
 enable = true
-label = "OTA YHTEYTTÄ"
+label = "Ota yhteyttä"
 link = "ota-yhteytta"
 
 # cookies

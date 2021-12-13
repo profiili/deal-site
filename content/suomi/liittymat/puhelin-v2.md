@@ -16,43 +16,78 @@ draft: false
 
 Tältä sivulta löydät kaikki keräämämme liittymätarjoukset. Näitä ei suoraan etusivulta löydy! Me uskomme, että puhelinliittymästä saa maksaa aivan korkeintaan 30 euroa kuukaudessa (360 euroa vuodessa!), joten sitä kalliimpia liittymiä emme listaa.
 
-Useimmat tarjoukset vaativat numeronsiirtoa toiselta operaattorilta. Jos olet täysin uuden numeron perässä, kannattaa vilkaista [uudet liittymät täältä](../uusi-liittyma).
+Useimmat tarjoukset vaativat numeronsiirtoa toiselta operaattorilta. Jos olet täysin uuden numeron perässä, kannattaa vilkaista **[uudet liittymät täältä](../uusi-liittyma)**.
 
-Tarjoukseen pääset painamalla liittymän nimeä. Voit joutua syöttämään puhelinnumeron ennen tarjousta.
+Voit joutua syöttämään puhelinnumeron ennen tarjousta.
+
+Hyppää: [4G-liittymät](#4g) | [Elisa](#4g-elisa) | [DNA](#4g-dna) | [Telia](#4g-telia) | [Telia Dot](#4g-dot) | [Moi](#4g-moi)
 
 <hr>
 
 <a name="5g"></a>
 ### 5G-liittymät
 
-Liittymä                     |Hinta
------------------------------|--------------------------------
-[Saunalahti Huoleton 5G 300M]|29,90 2v +50€ S-ryhmä (34,90)
-[DNA Rajaton 5G 400M]        |29,90 1v (36,90)
-[DNA Rajaton 5G 200M]        |29,90 1v (33,90)
-[Telia Rajaton 5G 450M (!)]  |29,90 1v +30€ S-ryhmä (34,90)
-[Telia Rajaton 5G 450M (2)]  |29,90 1v +30€ S-ryhmä (44,90)
-[Telia Dot 5G 300M][lidl]    |0,00 1kk +30€ Lidl (29,90)
-[Moi Reilu 5G 400M]          |19–27
+{{< sim-elisa "Saunalahti Huoleton 5G 300M" >}}
+* Kaikki rajatonta
+* 29,90 2v (34,90)
+* +50€ S-ryhmän lahjakortti
 
-**(!) Huom! Tarjouksessa norm. hinta 34,90, mutta tilatessa 44,90. Varmista oikea hinta operaattorilta.**
+#### [Tutustu](https://elisa.fi/kauppa/erikoistarjous)
+{{</ sim-elisa >}}
 
-[Saunalahti Huoleton 5G 300M]: https://elisa.fi/kauppa/erikoistarjous
+{{< sim-dna "DNA Rajaton 5G 400M" >}}
+* Kaikki rajatonta
+* 29,90 1v (36,90)
 
-[DNA Rajaton 5G 400M]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-5G-400M/p/MCAMP-G4-QVS000014
-[DNA Rajaton 5G 200M]: https://kauppa4.dna.fi/Puhelinliittymät/Kiinteä-hinta,-rajaton-käyttö/DNA-Rajaton-5G-200M/p/QVS000017
+#### [Tutustu](https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-5G-400M/p/MCAMP-G4-QVS000014)
+{{</ sim-dna >}}
 
-[Telia Rajaton 5G 450M (!)]: https://www.telia.fi/kampanjat/liittymat/huippudiili
-[Telia Rajaton 5G 450M (2)]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G450M&kampanja=R5G450M21103LK
+{{< sim-dna "DNA Rajaton 5G 200M" >}}
+* Kaikki rajatonta
+* 29,90 1v (33,90)
 
-[lidl]: https://www.telia.fi/dot/lidlplus
+#### [Tutustu](https://kauppa4.dna.fi/Puhelinliittymät/Kiinteä-hinta,-rajaton-käyttö/DNA-Rajaton-5G-200M/p/QVS000017)
+{{</ sim-dna >}}
 
-[Moi Reilu 5G 400M]: https://www.moi.fi/5g
+{{< sim-telia "Telia Rajaton 5G 450M" >}}
+* Kaikki rajatonta
+* 29,90 1v (34,90)(!)
+* +30€ S-ryhmän lahjakortti
+
+**(!) Huom! Tarjouksessa norm. hinta 34,90, mutta tilatessa 44,90. Varmista hinta operaattorilta.**
+
+#### [Tutustu](https://www.telia.fi/kampanjat/liittymat/huippudiili)
+{{</ sim-telia >}}
+
+{{< sim-telia "Telia Rajaton 5G 450M (2)" >}}
+* Kaikki rajatonta
+* 29,90 1v (44,90)
+* +30€ S-ryhmän lahjakortti
+
+#### [Tutustu](https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G450M&kampanja=R5G450M21103LK)
+{{</ sim-telia >}}
+
+{{< sim-telia "Telia Dot 5G 300M" >}}
+* Kaikki rajatonta
+* 0,00 1kk (29,90)
+* +30€ Lidlin lahjakortti
+
+#### [Tutustu](https://www.telia.fi/dot/lidlplus)
+{{</ sim-telia >}}
+
+{{< sim-moi "Moi Reilu 5G 400M" >}}
+* Rajaton netti
+* Puh/sms maks. +4€/kk
+* 19,00–27,00
+* Hinta riippuu käytetystä verkosta (4G/5G)
+
+#### [Tutustu](https://www.moi.fi/5g)
+{{</ sim-moi >}}
 
 <hr>
 
 <a name="4g"></a>
-### 4G-liittymät
+### 4G-liittymä
 
 <a name="4g-elisa"></a>
 #### Elisa Saunalahti

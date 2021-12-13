@@ -6,7 +6,6 @@ weight = 1
 
 [[main]]
 name = "Liittymät"
-url = "liittymat"
 weight = 2
 hasChildren = true
 
@@ -40,7 +39,7 @@ url = "blogi"
 weight = 3
 
 [[main]]
-name = "UKK"
+name = "Usein kysyttyä"
 url = "ukk"
 weight = 4
 

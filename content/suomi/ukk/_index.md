@@ -7,38 +7,36 @@ draft: false
 ---
 
 
-{{< faq "Mikä TBA on?" >}}
-"Ei tyhmä ole se, joka pyytää," alkaa vanha sananlasku. Mielestämme tänä päivänä jo pakolliseksi luokiteltavien palveluiden – kuten puhelinliittymä tai kotinetti – hinnat ovat aivan liian korkeita. 
-
-Nyt kun 5G-tuki leviää kuin sienet sateella, ottaa operaattorit kaiken hyödyn irti ja tyrkyttää liittymiä monilla täysin hukkaan menevillä ominaisuuksilla. TBA perustettiin, jotta voisimme auttaa asiakkaita ja sopuisia hintoja löytämään toisensa. 
+{{< faq "Meistä" >}}
+"Ei tyhmä ole se, joka pyytää," alkaa vanha sananlasku. Mielestämme tänä päivänä jo pakolliseksi luokiteltavien palveluiden – kuten puhelinliittymä tai kotinetti – tulisivat olla kaikkien saavutettavissa, mutta niiden hinnat ovat usein aivan liian korkeita. Kuten lähes kaikissa elämän osa-alueissa: perehtymällä säästät.
 {{</ faq >}}
 
 
-{{< faq "Mitä palveluita TBA halpuuttaa?" >}}
-Tällä hetkellä keskitymme operaattoreihin kattaen puhelinliittymät, mobiililaajakaistat sekä kotinetit.
-
-Erikoistunut tiimimme kaivaa käsiinsä parhaat diilit, joita ei noin vain parilla klikkauksella löydy, säästäen näin aikaasi ja käämejäsi. 
+{{< faq "Mitä TBA tekee?" >}}
+Tällä hetkellä keskitymme puhelinliittymiin. Nyt kun 5G leviää kuin sienet sateella, ottaa operaattorit kaiken hyödyn irti ja tyrkyttää liittymiä monilla täysin hukkaan menevillä ominaisuuksilla. Saatat törmätä hyvältä kuulostavaan tarjoukseen, mutta usein vuoden jälkeen hinnat pomppaavat pilviin ja näin saatu alennus _peritään_ takaisin. 
 {{</ faq >}}
 
 
 {{< faq "Eikö näitä sivustoja ole jo riittämiin?" >}}
-On toki, mutta siinä missä muut listaavat vain etusivun tarjonnan – ja päivittää ehkä kerran vuodessa – meidän tiimimme metsästää jatkuvasti parhaita hintoja myös pintaa syvemmältä. 
-
-Muut sivustot saavat kiksinsä datan keräämisestä henkilötietojen tai seurantalinkkien muodossa, me taas pidämme yksityisyydestä.
+On. Meistä tekeekin erilaisen seuraavat syyt:
+* Olemme täysin puolueettomia, emme seuraa sinua, emmekä saa välityspalkkiota.
+* Kaivamme tarjoukset käsin palveluiden sivujen uumenista ja päivitämme ne vähintään viikoittain.
+* Tarjoamme maksutonta henkilökohtaista neuvontaa juuri sinulle sopivan liittymän hankkimiseksi – jopa halvemmalla kuin listaamamme tarjoukset.
+* Voimme halutessasi ottaa yhteyttä ennen tarjoushinnan päättymistä.
 {{</ faq >}}
 
 
-{{< faq "Miten TBA hyötyy?" >}}
-Varallisesti ei mitenkään. Sivuston ylläpitäminen on puoli-ilmaista, ja suurin sijoituksemme on tarjouksiin käytetty aika.
+{{< faq "Maksaako TBA?" >}}
+TBA ei maksa mitään, ei edes henkilökohtainen neuvonta. Emme usko ns. _gatekeepingiin_, vaan jaamme tietomme kaikkien hyödyksi.
 
-Me etsimme parhaat tarjoukset, sinä teet loput. Emme edusta ketään emmekä jaa meille annettuja tietoja ulkopuolisille. Toimintaohjeiden lisäksi tarjoamme tietenkin lisäapua tarvittaessa.
+Myös sivuston ylläpitäminen on tällä hetkellä puoli-ilmaista. Mikäli asia tulevaisuudessa muuttuu, tutkimme tietenkin eri vaihtoehtoja.
 {{</ faq >}}
 
 
-{{< faq "En jaksa perehtyä asiaan x, mutta haluan parhaan hinnan" >}}
+{{< faq "En jaksa perehtyä asiaan x, haluan vain parhaan hinnan" >}}
 Listaamme useimpien hyödynnettävissä olevia tarjouksia. Ymmärrämme kuitenkin täysin, että nämä asiat eivät kaikkia kiinnosta tai niistä ei saa selvyyttä.
 
-Pyydämmekin ottamaan yhteyttä, niin etsimme juuri sinun tarpeen ja budjetin mukaisen palvelun. Pieni varoituksen sana: Mututuntuma ei riitä – tarvitsemme vanhat laskusi _oikeasti_ sopivan palvelun löytämiseen.
+Ota yhteyttä, niin etsimme juuri sinun tarpeen ja budjetin mukaisen palvelun. Pieni varoituksen sana, jos haluat asiat kerralla kuntoon: Mututuntuma ei riitä – tarvitsemme vanhat laskusi _oikeasti_ sopivan palvelun löytämiseen.
 {{</ faq >}}
 
 

@@ -1,11 +1,11 @@
 ---
-title: "Liittymä puhelimeen"
+title: "Liittymä puhelimeen v2"
 date: 2021-11-25T16:07:03+02:00
 expiryDate: 2121-12-01T00:00:00+02:00
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "This is meta description"
 # post draft
@@ -16,14 +16,28 @@ draft: false
 
 Tältä sivulta löydät kaikki keräämämme liittymätarjoukset. Näitä ei suoraan etusivulta löydy! Me uskomme, että puhelinliittymästä saa maksaa aivan korkeintaan 30 euroa kuukaudessa (360 euroa vuodessa!), joten sitä kalliimpia liittymiä emme listaa.
 
-Useimmat tarjoukset vaativat numeronsiirtoa toiselta operaattorilta. Jos olet täysin uuden numeron perässä, kannattaa vilkaista [uudet liittymät täältä](../uusi-liittyma).
+Useimmat tarjoukset vaativat numeronsiirtoa toiselta operaattorilta. Jos olet täysin uuden numeron perässä, kannattaa vilkaista **[uudet liittymät täältä](../uusi-liittyma)**.
 
-Tarjoukseen pääset painamalla liittymän nimeä. Voit joutua syöttämään puhelinnumeron ennen tarjousta.
+Voit joutua syöttämään puhelinnumeron ennen tarjousta.
 
 <hr>
 
 <a name="5g"></a>
-### 5G-liittymät
+### 5G-liittymä
+
+{{< sim "Saunalahti Huoleton 5G 300M" >}}
+Rajaton netti
+<hr>
+29,90 2v +50€ S-ryhmä (34,90)
+<hr>
+<a href="https://elisa.fi/kauppa/erikoistarjous">Tutustu</a>
+{{</ sim >}}
+
+{{< sim "Saunalahti Huoleton 5G 300M" >}}
+Rajaton netti
+<hr>
+29,90 2v +50€ S-ryhmä (34,90)
+{{</ sim >}}
 
 Liittymä                     |Hinta
 -----------------------------|--------------------------------
@@ -52,7 +66,7 @@ Liittymä                     |Hinta
 <hr>
 
 <a name="4g"></a>
-### 4G-liittymät
+### 4G-liittymä
 
 <a name="4g-elisa"></a>
 #### Elisa Saunalahti

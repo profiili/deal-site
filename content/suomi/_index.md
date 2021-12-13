@@ -1,54 +1,64 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Saatamme yhteen asiakkaat ja&nbsp;sopuisat hinnat"
-  image : "images/banner-art.svg"
-  content : "TBA erikoistunut tiimi kaivaa käsiinsä <br> parhaat diilit, joita ei noin vain etusivuilta löydy"
+  title : "Laskut kuntoon helposti"
+  #image : "images/banner-art.svg"
+  content : "TBA erikoistunut tiimi kaivaa käsiinsä <br> parhaat diilit, joita ei aina heti etusivuilta löydy"
   button:
     enable : false
-    label : "Contact Us"
-    link : "contact"
+    label : "Liittymiin"
+    link : "liittymat/puhelin"
 
 ##################### Feature ##########################
 feature:
-  enable : false
-  title : "Something You Need To Know"
+  enable : true
+  title : "Kaikki liittymät"
   feature_item:
     # feature item loop
-    - name : "Clean Code"
-      icon : "fas fa-code"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Liittymä puhelimeen"
+      icon : "fas fa-mobile-alt"
+      content : "Yksi liittymä ei sovi jokaiselle. Puhuit sitten paljon tai vähän, sopiva paketti löytyy kyllä. 
+      <hr>
+      <a href='liittymat/puhelin'>**Puhelinliittymiin**</a>"
       
     # feature item loop
-    - name : "Object Oriented"
-      icon : "fas fa-object-group"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Netti kotiin ja mukaan"
+      icon : "fas fa-laptop-house"
+      content : "Liikkuva laajakaista, mutta varaa jää myös siihen liikkumiseen.
+      <hr>
+      <a href='liittymat/netti'>**Nettiliittymiin**</a>"
       
     # feature item loop
-    - name : "24h Service"
-      icon : "fas fa-user-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Uusi liittymä"
+      icon : "fas fa-sim-card"
+      content : "Olipa tarve lapsen ensiliittymälle tai maiseman vaihdokselle, täältä löytyy liittymät uusilla numeroilla.
+      <hr>
+      <a href='liittymat/uusi-liittyma'>**Uusiin liittymiin**</a>"
       
     # feature item loop
-    - name : "Value For Money"
-      icon : "fas fa-heart"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Ajankohtaista"
+      icon : "fas fa-clock"
+      content : "Ajankohtaiset tarjoukset ja rahanarvoiset vinkit yhdessä paikassa.
+      <hr>
+      <a href='blogi'>**Blogiin**</a>"
       
     # feature item loop
-    - name : "Faster Response"
-      icon : "fas fa-tachometer-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Usein kysyttyä"
+      icon : "fas fa-question-circle"
+      content : "Mitä teemme? Miksi teemme? Vastaukset yleisimpiin kysymyksiin täältä.
+      <hr>
+      <a href='ukk'>**Usein kysytyt kysymykset**</a>"
       
     # feature item loop
-    - name : "Cloud Support"
-      icon : "fas fa-cloud"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    #- name : "Cloud Support"
+    #  icon : "fas fa-cloud"
+    #  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
 
 
 ######################### Service #####################
 service:
-  enable : true
+  enable : false
   service_item:
     # service item loop
     - title : "Ajankohtaiset tarjoukset"
@@ -94,7 +104,7 @@ service:
         
 ################### Screenshot ########################
 screenshot:
-  enable : true
+  enable : false
   title : "Experience the best <br> workflow with us"
   image : "images/screenshot.svg"
 
@@ -103,11 +113,11 @@ screenshot:
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Henkilökohtaista palvelua"
+  title : "Henkilökohtaista neuvontaa"
   image : "images/cta.svg"
   content : "Kenellä ihmeellä on aikaa vertailla liittymiä? Meillä. Etsitäänkö sinullekin sopiva?"
   button:
     enable : true
-    label : "OTA YHTEYTTÄ"
+    label : "Ota yhteyttä"
     link : "ota-yhteytta"
 ---
