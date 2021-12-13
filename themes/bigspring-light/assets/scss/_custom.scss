@@ -1,2 +1,110 @@
 // This file is empty within the template
 // You can use it to override CSS from within your project
+.sim-card {
+    position: relative;
+    padding-left: 0px; }
+    .sim-card::before {
+      position: absolute;
+      content: "\f7c4";
+      color: #0AA8A7;
+      font-size: 25px;
+      font-family: "Font Awesome 5 Free";
+      font-weight: 900;
+      left: -30px;
+      top: 3px; }
+    .sim-card svg {
+      position: absolute;
+      color: #0AA8A7;
+      font-size: 25px;
+      left: -30px;
+      top: 3px; }
+  
+.sim-elisa {
+    position: relative;
+    padding-left: 0px; }
+    .sim-elisa::before {
+      position: absolute;
+      content: "\f7c4";
+      color: blue;
+      font-size: 25px;
+      font-family: "Font Awesome 5 Free";
+      font-weight: 900;
+      left: -30px;
+      top: 3px; }
+    .sim-elisa svg {
+      position: absolute;
+      color: blue;
+      font-size: 25px;
+      left: -30px;
+      top: 3px; }
+  
+.sim-dna {
+    position: relative;
+    padding-left: 0px; }
+    .sim-dna::before {
+      position: absolute;
+      content: "\f7c4";
+      color: fuchsia;
+      font-size: 25px;
+      font-family: "Font Awesome 5 Free";
+      font-weight: 900;
+      left: -30px;
+      top: 3px; }
+    .sim-dna svg {
+      position: absolute;
+      color: fuchsia;
+      font-size: 25px;
+      left: -30px;
+      top: 3px; }
+  
+.sim-telia {
+    position: relative;
+    padding-left: 0px; }
+    .sim-telia::before {
+      position: absolute;
+      content: "\f7c4";
+      color: blueviolet;
+      font-size: 25px;
+      font-family: "Font Awesome 5 Free";
+      font-weight: 900;
+      left: -30px;
+      top: 3px; }
+    .sim-telia svg {
+      position: absolute;
+      color: blueviolet;
+      font-size: 25px;
+      left: -30px;
+      top: 3px; }
+  
+.sim-moi {
+    position: relative;
+    padding-left: 0px; }
+    .sim-moi::before {
+      position: absolute;
+      content: "\f7c4";
+      color: crimson;
+      font-size: 25px;
+      font-family: "Font Awesome 5 Free";
+      font-weight: 900;
+      left: -30px;
+      top: 3px; }
+    .sim-moi svg {
+      position: absolute;
+      color: crimson;
+      font-size: 25px;
+      left: -30px;
+      top: 3px; }
+
+.feature-card a {
+        color: #0AA8A7;
+      }
+
+.btn {
+    text-transform: none;
+}
+
+.nav-item .nav-link {
+    text-transform: none;
+    font-weight: 700; 
+}
+
