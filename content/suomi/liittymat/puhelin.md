@@ -287,6 +287,8 @@ Laskut veloitetaan kortilta. Samanlaisten liittymien data kasvaa yhdeksi potiksi
 
 <hr>
 
+<a name="help"></a>
+
 {{< faq "Apua valitsemiseen?" >}}
 Liikaa valinnanvaraa? Etkö ole varma, mitä kaikkea liittymältä tarvitset? Etsitään juuri sinulle sopiva ratkaisu!
 
