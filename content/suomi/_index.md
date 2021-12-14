@@ -3,7 +3,7 @@
 banner:
   title : "Laskut kuntoon helposti"
   #image : "images/banner-art.svg"
-  content : "TBA erikoistunut tiimi kaivaa käsiinsä <br> parhaat diilit, joita ei aina heti etusivuilta löydy"
+  content : "Erikoistunut tiimimme kaivaa käsiinsä parhaat hinnat, joita ei aina heti etusivuilta löydy."
   button:
     enable : false
     label : "Liittymiin"
@@ -12,7 +12,7 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Kaikki liittymät"
+  title : "Palvelut"
   feature_item:
     # feature item loop
     - name : "Liittymä puhelimeen"

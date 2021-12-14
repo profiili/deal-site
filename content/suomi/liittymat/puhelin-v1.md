@@ -12,15 +12,17 @@ description: "This is meta description"
 draft: false
 ---
 
-[< Perusnäkymään](../puhelin)
+[<i class="fas fa-arrow-left"></i> Perusnäkymään](../puhelin)
 
 ### Päivitetty 13.12.2021
+
+Hyppää: [4G-liittymät](#4g) | [Elisa](#4g-elisa) | [DNA](#4g-dna) | [Telia](#4g-telia) | [Telia Dot](#4g-dot) | [Moi](#4g-moi)
+
+<hr>
 
 Tarjoukseen pääset painamalla liittymän nimeä. Voit joutua syöttämään puhelinnumeron ennen tarjousta.
 
 Liittymät järjestetty seuraavasti: operaattori > ominaisuudet > hinta.
-
-Hyppää: [4G-liittymät](#4g) | [Elisa](#4g-elisa) | [DNA](#4g-dna) | [Telia](#4g-telia) | [Telia Dot](#4g-dot) | [Moi](#4g-moi)
 
 <hr>
 
@@ -126,7 +128,7 @@ Liittymä              |Hinta
 {{< faq "Apua valitsemiseen?" >}}
 Liikaa valinnanvaraa? Etkö ole varma, mitä kaikkea liittymältä tarvitset? Etsitään juuri sinulle sopiva ratkaisu!
 
-#### [Ota yhteyttä!](../../ota-yhteytta)
+#### [Ota yhteyttä <i class="fas fa-arrow-right"></i>](../../ota-yhteytta)
 {{< /faq >}}
 
 <hr>
