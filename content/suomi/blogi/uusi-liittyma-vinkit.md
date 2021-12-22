@@ -23,9 +23,11 @@ Nopein tapa avata uusi liittymä on tarkistaa listamme [uusista liittymistä](/l
 
 <hr>
 
-### Vinkki 2 – suurin säästö
+### Vinkki 2 – suurin hyöty
 
 Jos sinulla on käytössäsi älypuhelin ja maksukortti, hyvä valinta on [Telia Dot](/liittymat/uusi-liittyma#4g-dot). Kirjoitushetkellä liittymissä ei ole avausmaksua, saat kuukauden ilmaista peruskäyttöä ja vielä 30&nbsp;euroa ostosrahaa Lidliin. Lue ja noudata ehtoja huolellisesti.
+
+**Huom! 5G-liittymän tilaajalle lisäksi 30&nbsp;euroa Telian verkkokauppaan 8.–22.12.**
 
 Kun lahjakortit saapuvat, vilkaise [numeronsiirron vaativat liittymät](/liittymat/puhelin). Liittymän voi siirtää normaalisti toiselle operaattorille. Vaikka Telia ja Telia Dot ovat erillisiä, suoraan Telialle siirtäminen saattaa tuottaa ongelmia. Siirto onnistuu kuitenkin toisen operaattorin kautta.
 

@@ -95,6 +95,25 @@
       left: -30px;
       top: 3px; }
 
+.sim-globetel {
+    position: relative;
+    padding-left: 0px; }
+    .sim-globetel::before {
+      position: absolute;
+      content: "\f7c4";
+      color: darkslateblue;
+      font-size: 25px;
+      font-family: "Font Awesome 5 Free";
+      font-weight: 900;
+      left: -30px;
+      top: 3px; }
+    .sim-globetel svg {
+      position: absolute;
+      color: darkslateblue;
+      font-size: 25px;
+      left: -30px;
+      top: 3px; }
+
 .feature-card a {
         color: #0AA8A7;
       }

@@ -12,9 +12,9 @@ description: "This is meta description"
 draft: false
 ---
 
-[<i class="fas fa-arrow-left"></i> Perusnäkymään](../puhelin)
+[<i class="fas fa-arrow-left"></i> Perusnäkymään](/liittymat/puhelin)
 
-### Päivitetty 13.12.2021
+### Päivitetty 21.12.2021
 
 Hyppää: [4G-liittymät](#4g) | [Elisa](#4g-elisa) | [DNA](#4g-dna) | [Telia](#4g-telia) | [Telia Dot](#4g-dot) | [Moi](#4g-moi)
 
@@ -22,27 +22,30 @@ Hyppää: [4G-liittymät](#4g) | [Elisa](#4g-elisa) | [DNA](#4g-dna) | [Telia](#
 
 Tarjoukseen pääset painamalla liittymän nimeä. Voit joutua syöttämään puhelinnumeron ennen tarjousta.
 
-Liittymät järjestetty seuraavasti: operaattori > ominaisuudet > hinta.
+**Huom. Taulukosta puuttuu yksityiskohtaisempia tietoja, kuten täydet edellytykset tarjouksen saamiseksi.**
 
 <hr>
 
 <a name="5g"></a>
 ### 5G-liittymät
 
-Liittymä                     |Hinta
------------------------------|-----------------------------
-[Saunalahti Huoleton 5G 300M]|29,90 2v (34,90) +50€ S-ryhmä
-[DNA Rajaton 5G 400M]        |29,90 1v (36,90)
-[DNA Rajaton 5G 200M]        |29,90 1v (33,90)
-[Telia Rajaton 5G 300M]      |29,90 2v (34,90) +30€ S-ryhmä
-[Telia Dot 5G 300M][lidl]    |0,00 1kk (29,90) +30€ Lidl
-[Moi Reilu 5G 400M]          |19,00–27,00
+Liittymä                       |Hinta
+-------------------------------|-----------------------------
+[Saunalahti Huoleton 5G 300M]  |29,90 2v (34,90) +50€ S-ryhmä
+[DNA Rajaton 5G 400M]          |29,90 1v (36,90)
+[DNA Rajaton 5G 200M]          |29,90 1v (33,90)
+[Telia Rajaton 5G 450M (kesk.)]|29,90 2v (44,90) +30€ S-ryhmä
+[Telia Rajaton 5G 300M]        |29,90 2v (34,90) +30€ S-ryhmä
+[Telia Dot 5G 300M][lidl]      |0,00 1kk (29,90) +30€ Lidl +30€ Telia (8.-22.12.)
+[Moi Reilu 5G 400M]            |19,00–27,00
 
 [Saunalahti Huoleton 5G 300M]: https://elisa.fi/kauppa/erikoistarjous
 
 [DNA Rajaton 5G 400M]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-5G-400M/p/MCAMP-G4-QVS000014
 
 [DNA Rajaton 5G 200M]: https://kauppa4.dna.fi/Puhelinliittymät/Kiinteä-hinta,-rajaton-käyttö/DNA-Rajaton-5G-200M/p/QVS000017
+
+[Telia Rajaton 5G 450M (kesk.)]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G450M&kampanja=R450M21145LK
 
 [Telia Rajaton 5G 300M]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M21103LK
 
@@ -56,7 +59,7 @@ Liittymä                     |Hinta
 ### 4G-liittymät
 
 <a name="4g-elisa"></a>
-#### Elisa Saunalahti
+### Elisa Saunalahti
 
 Liittymä             |Hinta
 ---------------------|-----------------------------
@@ -66,7 +69,7 @@ Liittymä             |Hinta
 [enum]: https://elisa.fi/kauppa/erikoistarjous
 
 <a name="4g-dna"></a>
-#### DNA
+### DNA
 
 Liittymä                    |Hinta
 ----------------------------|----------------
@@ -83,15 +86,17 @@ Liittymä                    |Hinta
 [dnum]: https://www.dna.fi/sinunhintasi
 
 <a name="4g-telia"></a>
-#### Telia
+### Telia
 
-Liittymä          |Hinta
-------------------|-----------------------------
-~~[Rajaton 200M]~~|19,90 1v (32,90) +30€ S-ryhmä
-[Rajaton 150M]    |19,90 2v (29,90) +30€ S-ryhmä
-[Rajaton 20M]     |14,90 1v (26,90)
+Liittymä              |Hinta
+----------------------|-----------------------------
+[Rajaton 200M] (kesk.)|18,90 2v (32,90) +30€ S-ryhmä
+[Rajaton 150M]        |19,90 2v (29,90) +30€ S-ryhmä
+[Rajaton 20M]         |14,90 1v (26,90)
 
-[Rajaton 200M]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21103LK
+[Rajaton 200M (kesk.)]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21146LK
+
+[Rajaton 200M vanha]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21103LK
 
 [Rajaton 150M]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton150M&kampanja=R150M21103LK
 
@@ -100,7 +105,7 @@ Liittymä          |Hinta
 [tnum]: https://www.telia.fi/kampanjat/liittymat/huippudiili
 
 <a name="4g-dot"></a>
-#### Telia Dot
+### Telia Dot
 
 Liittymä                     |Hinta
 -----------------------------|--------------------------------
@@ -109,7 +114,7 @@ Liittymä                     |Hinta
 [4G Käytön mukaan 100M][lidl]|0,00 1kk (5–25) +30€ Lidl
 
 <a name="4g-moi"></a>
-#### Moi
+### Moi
 
 Liittymä              |Hinta
 ----------------------|----------
@@ -128,9 +133,9 @@ Liittymä              |Hinta
 {{< faq "Apua valitsemiseen?" >}}
 Liikaa valinnanvaraa? Etkö ole varma, mitä kaikkea liittymältä tarvitset? Etsitään juuri sinulle sopiva ratkaisu!
 
-#### [Ota yhteyttä <i class="fas fa-arrow-right"></i>](../../ota-yhteytta)
+#### [Ota yhteyttä <i class="fas fa-arrow-right"></i>](/ota-yhteytta)
 {{< /faq >}}
 
 <hr>
 
-Huomioithan: Sivun tarjoukset eivät välttämättä ole kaikkien hyödynnettävissä. Liittymien ehdot ja ominaisuudet voivat muuttua ilman eri ilmoitusta. Tutustu tuotteeseen huolella ja varmista mahdollinen lisäetu (kuten lahjakortti) suoraan operaattorilta.
+Huomioithan: Sivun tarjoukset eivät välttämättä ole kaikkien hyödynnettävissä. Liittymien ehdot ja ominaisuudet voivat muuttua ilman eri ilmoitusta. Tutustu tuotteeseen huolella ja varmista mahdollinen lisäetu (kuten lahjakortti) itse operaattorilta.
