@@ -14,13 +14,15 @@ draft: false
 
 ### Päivitetty 21.12.2021
 
-Hyppää: [Elisa](#laite-elisa) | [DNA](#laite-dna) | [Telia](#laite-telia) | [Moi](#laite-moi)
+Hyppää: [Elisa](#elisa) | [DNA](#dna) | [Telia](#telia) | [Moi](#moi) | [Globetel](#globetel)
 
 Etsitkö [mobiililaajakaistaa](/liittymat/netti)?
 
+Lähetysnopeus merkitty suluilla.
+
 <hr>
 
-<a name="laite-elisa"></a>
+<a name="elisa"></a>
 ### Elisa
 
 Elisan Laitenetti-liittymässä puhelut 14&nbsp;snt/min. Sisältää 100 viestiä, yli menevät 9,1&nbsp;snt/kpl (Saunalahti-liittymiin 6&nbsp;snt/kpl). Multimediaviestit 19,2&nbsp;snt/kpl.
@@ -32,7 +34,7 @@ Elisan Laitenetti-liittymässä puhelut 14&nbsp;snt/min. Sisältää 100 viesti�
 [EL]: https://elisa.fi/laitesim
 [ELT]: https://elisa.fi/kauppa/tarjoukset#services
 
-<a name="laite-dna"></a>
+<a name="dna"></a>
 ### DNA
 
 DNA:n Laitenetti-liittymässä puhelut 14&nbsp;snt/min. Sisältää 100 viestiä, yli menevät 9&nbsp;snt/kpl. Multimediaviestit 40&nbsp;snt/kpl. Keskittäjähinta asiakaspalvelusta.
@@ -48,7 +50,7 @@ Kaikille:
 [Laitenetti Plus 0,512M (5M)]: https://kauppa4.dna.fi/c/DNA-Laitenetti-Plus/p/QDS00002
 [Laitenetti 0,128M]: https://kauppa4.dna.fi/c/DNA-Laitenetti/p/QDS00001
 
-<a name="laite-telia"></a>
+<a name="telia"></a>
 ### Telia
 
 Telian Yhteys Mukaan laitteeseen -liittymässä puhelut ja viestit 9&nbsp;snt/min/kpl. Rajaton Litessä 7&nbsp;snt/min/kpl.
@@ -66,7 +68,7 @@ Kaikille:
 
 [TL]: https://www.telia.fi/kauppa/liittymat/laitenetti
 
-<a name="laite-moi"></a>
+<a name="moi"></a>
 ### Moi
 
 Moin Laitenetti-liittymässä viestit 5,5&nbsp;snt/kpl.
@@ -74,6 +76,15 @@ Moin Laitenetti-liittymässä viestit 5,5&nbsp;snt/kpl.
 * [Laitenetti 0,512M (5M)][ML]: 4,00
 
 [ML]: https://www.moi.fi/laitenetti
+
+<a name="globetel"></a>
+### Globetel
+
+Globetelin Laite-liittymä sisältää rajattomasti viestejä. Puhelut 6,9&nbsp;snt/min.
+
+* [Globetel Laite 0,256M][GL]: 6,90
+
+[GL]: https://globetel.fi/tilaa-liittyma?liittyma=globetel-laite
 
 <hr>
 

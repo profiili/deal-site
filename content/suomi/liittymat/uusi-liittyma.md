@@ -14,7 +14,7 @@ draft: false
 
 ### Päivitetty 21.12.2021
 
-Hyppää: [5G-liittymät](#5g) | [4G-liittymät](#4g) | [Elisa](#4g-elisa) | [DNA](#4g-dna) | [Telia](#4g-telia) | [Telia Dot](#4g-dot) | [Moi](#4g-moi)
+Hyppää: [5G-liittymät](#5g) | [4G-liittymät](#4g) | [Elisa](#4g-elisa) | [DNA](#4g-dna) | [Telia](#4g-telia) | [Telia Dot](#4g-dot) | [Moi](#4g-moi) | [Globetel](#4g-globetel)
 
 <hr>
 
@@ -161,7 +161,7 @@ Puhelinnumeron muoto 045&nbsp;xxx&nbsp;xxxx.
 <hr>
 
 <a name="4g-dna"></a>
-#### DNA
+### DNA
 
 Puhelinnumeron muoto 044&nbsp;xxx&nbsp;xxxx.
 
@@ -241,7 +241,7 @@ Puhelinnumeron muoto 044&nbsp;xxx&nbsp;xxxx.
 <hr>
 
 <a name="4g-telia"></a>
-#### Telia
+### Telia
 
 Puhelinnumeron muoto 040&nbsp;xxx&nbsp;xxxx.
 
@@ -298,7 +298,7 @@ Puhelinnumeron muoto 040&nbsp;xxx&nbsp;xxxx.
 <hr>
 
 <a name="4g-dot"></a>
-#### Telia Dot
+### Telia Dot
 
 Puhelinnumeron muoto 040&nbsp;22x&nbsp;xxxx.
 
@@ -349,7 +349,7 @@ Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 <hr>
 
 <a name="4g-moi"></a>
-#### Moi
+### Moi
 
 Puhelinnumeron muoto 045&nbsp;7xx&nbsp;xxxxx.
 
@@ -390,17 +390,59 @@ Laskut veloitetaan kortilta. Samanlaisten liittymien data kasvaa yhdeksi potiksi
 
 [1]: https://www.moi.fi/moipotti
 {{</ sim-moi >}}
+
 <hr>
 
-### Testi
+<a name="4g-globetel"></a>
+### Globetel
 
-{{< sim-globetel "jotain on tulossa" >}}
-jotain jännittävää
+{{< sim-globetel "Jätti" >}}
+#### 11,95
+* Netti lisämaksusta
+* Rajaton puhe
+
+Ulkomaanpuhelut –50 % käyttäessä 99588-numeroa [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
+
+#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+
+[1]: https://www.globetel.fi/tilaa-liittyma?liittyma=globetel-jatti
 {{</ sim-globetel >}}
 
-{{< sim "jotain on tulossa" >}}
-jotain jännittävää
-{{</ sim >}}
+{{< sim-globetel "Pieni" >}}
+#### 9,90
+* Netti lisämaksusta
+* Puh/sms 500&nbsp;min/kpl, ylimenevät +6,9&nbsp;snt/min/kpl
+
+Ulkomaanpuhelut –50 % käyttäessä 99588-numeroa [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
+
+#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+
+[1]: https://www.globetel.fi/tilaa-liittyma?liittyma=globetel-pieni
+{{</ sim-globetel >}}
+
+{{< sim-globetel "Mini" >}}
+#### 7,90
+* Netti lisämaksusta
+* Puh/sms 300&nbsp;min/kpl, ylimenevät +6,9&nbsp;snt/min/kpl
+
+Ulkomaanpuhelut –50 % käyttäessä 99588-numeroa [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
+
+#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+
+[1]: https://www.globetel.fi/tilaa-liittyma?liittyma=globetel-mini
+{{</ sim-globetel >}}
+
+{{< sim-globetel "Perus" >}}
+#### 4,90
+* Netti lisämaksusta
+* Puh/sms +5,9&nbsp;snt/min/kpl
+
+Ulkomaanpuhelut –50 % käyttäessä 99588-numeroa [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
+
+#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+
+[1]: https://www.globetel.fi/tilaa-liittyma?liittyma=globetel-perus
+{{</ sim-globetel >}}
 
 <hr>
 
