@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
-title = "My New Hugo Site"
+baseURL = "https://www.laskutkuntoon.fi"
+title = "Laskut kuntoon – Laskutkuntoon.fi"
 theme = "bigspring-light"
 # post pagination
 paginate = "6"

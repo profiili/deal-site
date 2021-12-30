@@ -47,7 +47,7 @@ feature:
       icon : "fas fa-question-circle"
       content : "Mitä teemme? Miksi teemme? Vastaukset yleisimpiin kysymyksiin täältä.
       <hr>
-      <a href='ukk'>**Usein kysytyt kysymykset**</a>"
+      <a href='ukk'>**Meistä**</a>"
       
     # feature item loop
     #- name : "Cloud Support"

@@ -7,7 +7,6 @@ draft: false
 ---
 
 
-### Kannattaa ottaa yhteyttä!
-Esillä olevat tarjoukset sopivat useimmille, mutta juuri sinun tarpeidesti mukaisen saa vain kysymällä. Myös useammalle puhelinliittymälle kerralla! Varaudu toimittamaan vanhoja laskujasi.
+Esillä olevat tarjoukset sopivat monille, mutta juuri sinun tarpeesi mukaisen saa vain kysymällä. Myös useammalle liittymälle kerralla! Varaudu toimittamaan vanhoja laskujasi.
 
-* **Yhteydenotot myös: info@TBA**
+> Yhteydenotot myös info@laskutkuntoon.fi

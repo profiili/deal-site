@@ -1,38 +1,42 @@
 ---
-title: "Usein kysytyt kysymykset"
+title: "Meistä"
 subtitle: ""
 # meta description
 description: "This is meta description"
 draft: false
 ---
 
-{{< faq "Lorem ipsumin tarina" >}}
-Lorem ipsumin idea lähti siitä, kun kuulimme jatkuvasti ystäviltä ja&nbsp;sukulaisilta siitä, kuinka paljon nykyään jo&nbsp;pakolliseksi luokiteltavat palvelut, kuten puhelinliittymä tai kotinetti, maksavat heille kuukaudessa.
+{{< faq "Mikä on Laskutkuntoon.fi?" >}}
+Laskutkuntoon.fi on vuodesta 2021 asti toiminut tarjoussivusto. Keskitymme toistaiseksi operaattoreiden tarjontaan.
 
-Kuten lähes kaikissa elämän osa-alueissa: perehtymällä säästät. Täysin ymmärrettävästi kaikilla ei ole aikaa tai kiinnostusta etsiä juuri itselleen sopivaa liittymää. Tässä me astumme kuvaan.
-
-Pikaisella katsauksella säästöä kertyi kolmannes jo pelkästään edelliseen laskuun verrattuna. Todellinen käyttö selviää useammasta laskusta, joten on täysin mahdollista säästää enemmänkin.
-
-Keskitymme aluksi operaattoreiden tarjontaan.
+Kuten monissa elämän osa-alueissa: perehtymällä säästää. Täysin ymmärrettävästi kaikilla ei ole aikaa tai kiinnostusta etsiä juuri omaa käyttöä vastaavaa liittymää. Tässä me astumme kuvaan.
 {{</ faq >}}
 
-{{< faq "Miten Lorem ipsum eroaa muista vertailusivuista?" >}}
+{{< faq "Laskutkuntoon.fi:n tarina" >}}
+Homman idea lähti siitä, kun kuulimme jatkuvasti ystäviltä ja sukulaisilta, kuinka paljon nykyään jo pakolliseksi luokiteltavat palvelut, kuten puhelinliittymä tai kotinetti, maksavat heille kuukaudessa.
+
+Tiimillämme taas useampi liittymä maksoi yhteensä vähemmän kuin yksi "perusliittymä".
+
+Apua pyytäneille tuttaville säästöä kertyi jopa kolmannes pelkästään edelliseen laskuun verrattuna. Todellinen tarve selviää useammasta laskusta, joten sopivassa liittymässä on mahdollista säästää enemmän.
+{{</ faq >}}
+
+{{< faq "Miten Laskutkuntoon.fi eroaa muista vertailusivuista?" >}}
 Mielestämme erityisen meistä tekee seuraavat seikat:
 
-1. Olemme täysin puolueettomia, emme seuraa sinua, emmekä saa välityspalkkiota.
+– Olemme täysin puolueettomia, emme seuraa sinua, emmekä saa välityspalkkiota.
 
-2. Kaivamme tarjoukset käsin pintaa syvemmältä ja listaamme parhaat vähintään viikoittain.
+– Erikoistunut tiimimme kaivaa tarjoukset käsin pintaa syvemmältä ja listaamme parhaat vähintään viikoittain.
 
-3. Tarjoamme henkilökohtaista neuvontaa juuri sinulle sopivan liittymän hankkimiseksi. Saatat päästä vielä halvemmalla kuin listaamamme tarjoukset.
+– Tarjoamme henkilökohtaista neuvontaa juuri sinulle sopivan liittymän hankkimiseksi. Saatat päästä vielä halvemmalla kuin sivumme tarjoukset.
 
-4. Voimme halutessasi muistuttaa sinua ennen saamasi tarjoushinnan päättymistä.
+– Voimme halutessasi muistuttaa sinua ennen tarjoushinnan loppumista.
 {{</ faq >}}
 
 
-{{< faq "Maksaako Lorem ipsum?" >}}
-Lorem ipsum ei maksa mitään, ei edes henkilökohtainen neuvonta. 
+{{< faq "Maksaako Laskutkuntoon.fi?" >}}
+Sivuston käyttö ei maksa mitään. Toistaiseksi ei henkilökohtainen neuvontakaan.
 
-Emme usko ns. _gatekeepingiin_, vaan jaamme tietomme kaikkien hyödyksi.
+Vältämme ns. _gatekeepingiä_, joten jaamme tietomme julkisesti ja ilmaiseksi kaikkien hyödyksi.
 
 Myös sivuston ylläpitäminen on tällä hetkellä puoli-ilmaista. Mikäli tilanne tulevaisuudessa muuttuu, tutkimme tietenkin eri vaihtoehtoja.
 {{</ faq >}}

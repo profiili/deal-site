@@ -12,6 +12,16 @@ description: "This is meta description"
 draft: false
 ---
 
+<!-- 
+
+
+Tervetuloa lukemaan koodia!
+
+Täältä saattaa löytää vanhentuneita tarjouksia, mutta eipä juuri muuta ihmeellistä.
+
+
+-->
+
 ### Päivitetty 21.12.2021
 
 Hyppää: [5G-liittymät](#5g) | [4G-liittymät](#4g) | [Elisa](#4g-elisa) | [DNA](#4g-dna) | [Telia](#4g-telia) | [Telia Dot](#4g-dot) | [Moi](#4g-moi) | [Globetel](#4g-globetel)

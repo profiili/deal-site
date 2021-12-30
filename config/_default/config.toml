@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org/"
-title = "TBA"
+baseURL = "https://www.laskutkuntoon.fi/"
+title = "Laskut kuntoon – Laskutkuntoon.fi"
 theme = "bigspring-light"
 defaultContentLanguage = 'fi'
 disableLanguages = ['en', 'de']

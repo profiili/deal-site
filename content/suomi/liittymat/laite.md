@@ -12,6 +12,16 @@ description: "This is meta description"
 draft: false
 ---
 
+<!-- 
+
+
+Tervetuloa lukemaan koodia!
+
+Täältä saattaa löytää vanhentuneita tarjouksia, mutta eipä juuri muuta ihmeellistä.
+
+
+-->
+
 ### Päivitetty 21.12.2021
 
 Hyppää: [Elisa](#elisa) | [DNA](#dna) | [Telia](#telia) | [Moi](#moi) | [Globetel](#globetel)

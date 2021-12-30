@@ -12,7 +12,10 @@ description: "This is meta description"
 draft: false
 ---
 
-[<i class="fas fa-arrow-left"></i> Perusnäkymään](/liittymat/puhelin)
+> ### Taulukkoja ei enää päivitetä. Käytä perusnäkymää.
+> [<i class="fas fa-arrow-left"></i> Perusnäkymään](/liittymat/puhelin)
+
+<hr>
 
 ### Päivitetty 21.12.2021
 
@@ -90,7 +93,7 @@ Liittymä                    |Hinta
 
 Liittymä              |Hinta
 ----------------------|-----------------------------
-[Rajaton 200M] (kesk.)|18,90 2v (32,90) +30€ S-ryhmä
+[Rajaton 200M (kesk.)]|18,90 2v (32,90) +30€ S-ryhmä
 [Rajaton 150M]        |19,90 2v (29,90) +30€ S-ryhmä
 [Rajaton 20M]         |14,90 1v (26,90)
 

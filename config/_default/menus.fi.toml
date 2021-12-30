@@ -39,25 +39,21 @@ url = "blogi"
 weight = 3
 
 [[main]]
-name = "Usein kysyttyä"
+name = "Meistä"
 url = "ukk"
 weight = 4
 
 # footer menu left
 [[footer_left]]
 name = "Meistä"
-url = "#"
+url = "/ukk"
 weight = 1
 
+# footer menu left
 [[footer_left]]
-name = "Quick Start"
-url = "#"
+name = "Blogi"
+url = "/blogi"
 weight = 2
-
-[[footer_left]]
-name = "Pricing"
-url = "pricing"
-weight = 3
 
 # footer menu middle
 [[footer_middle]]
@@ -77,18 +73,17 @@ weight = 3
 
 # footer menu right
 [[footer_right]]
-name = "Privacy Policy"
-url = "privacy-policy"
+name = "Ota yhteyttä"
+url = "/ota-yhteytta"
 weight = 1
 
 [[footer_right]]
-name = "Terms & Conditions"
-url = "terms-conditions"
+name = "Käyttöehdot"
+url = "/ehdot"
 weight = 2
 
+# footer menu right
 [[footer_right]]
-name = "UKK"
-url = "ukk"
+name = "Tietosuoja"
+url = "/tietosuoja"
 weight = 3
-
-
