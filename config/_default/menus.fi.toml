@@ -77,10 +77,10 @@ name = "Ota yhteyttä"
 url = "/ota-yhteytta"
 weight = 1
 
-[[footer_right]]
-name = "Käyttöehdot"
-url = "/ehdot"
-weight = 2
+#[[footer_right]]
+#name = "Käyttöehdot"
+#url = "/ehdot"
+#weight = 2
 
 # footer menu right
 [[footer_right]]

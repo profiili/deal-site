@@ -3,11 +3,13 @@
 banner:
   title : "Laskut kuntoon helposti"
   #image : "images/banner-art.svg"
-  content : "Erikoistunut tiimimme kaivaa käsiinsä parhaat hinnat, joita ei aina heti etusivuilta löydy."
+  content : "Erikoistunut tiimimme kaivaa käsiinsä parhaat hinnat, joita ei aina heti etusivuilta löydy.<hr>
+  
+  ### Laskutkuntoon.fi on nyt julkaistu!"
   button:
-    enable : false
-    label : "Liittymiin"
-    link : "liittymat/puhelin"
+    enable : true
+    label : "Lue lisää"
+    link : "blogi/laskutkuntoon-julkaistu"
 
 ##################### Feature ##########################
 feature:
