@@ -1,6 +1,6 @@
 ---
-title: "Liittymät puhelimeen"
-subtitle: "Päivitetty 5.1.2022"
+title: "Liittymät puhelimeen v3"
+subtitle: "Päivitetty XX.XX.20XX"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -38,6 +38,8 @@ Ideoita saa lähettää laskutkuntoon.fi/ota-yhteytta.
 
 
 -->
+
+### Suunnitteluun, ei ajan tasalla
 
 Hyppää: [5G-liittymät](#5g) | [4G-liittymät](#4g) | [Elisa](#4g-elisa) | [DNA](#4g-dna) | [Telia](#4g-telia) | [Telia Dot](#4g-dot) | [Moi](#4g-moi) | [Globetel](#4g-globetel)
 
@@ -140,8 +142,6 @@ Laskut veloitetaan kortilta.
 [1]: https://www.moi.fi/5g
 {{</ sim-moi >}}
 
-[Takaisin ylös](#)
-
 <hr>
 
 <a name="4g"></a>
@@ -177,8 +177,6 @@ Laskut veloitetaan kortilta.
 <!-- /liittymat -->
 
 [enum]: https://elisa.fi/kauppa/erikoistarjous
-
-[Takaisin ylös](#)
 
 <hr>
 
@@ -218,8 +216,6 @@ Laskut veloitetaan kortilta.
 {{</ sim-dna >}}
 
 [dnum]: https://www.dna.fi/sinunhintasi
-
-[Takaisin ylös](#)
 
 <hr>
 
@@ -262,16 +258,6 @@ Huom. Samaan hintaan tarjolla myös nopeampi 200M vuoden tarjouksella ilman lahj
 [1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M21146
 {{</ sim-telia >}}
 
-{{< sim-telia "Rajaton Lite 0,5M" >}}
-#### 9,90
-* Rajaton netti
-* Puh/sms +0,07€/min/kpl
-
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
-
-[1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=RajatonLite05M
-{{</ sim-telia >}}
-
 {{< faq "Sama liittymä toiseen laitteeseen?" >}}
 * Sama netti, maks. 300M
 * Puhelut ja viestit
@@ -289,8 +275,6 @@ Huom. Samaan hintaan tarjolla myös nopeampi 200M vuoden tarjouksella ilman lahj
 
 [taloyhtiolle2]: https://telia.fi/liittymaetu
 
-[Takaisin ylös](#)
-
 <hr>
 
 <!-- Telia Dot 4G -->
@@ -305,8 +289,6 @@ Huom. Samaan hintaan tarjolla myös nopeampi 200M vuoden tarjouksella ilman lahj
 * 30€ Lidlin lahjakortti
 
 **Uutta:** –10% alennus seuraavan kuukauden laskusta, kun peruskäyttöä on vähintään kahdella liittymällä yli 5€/kk/liittymä.
-
-<!-- Keskittäjille –10 % alennus, lisää: https://www.telia.fi/dot/ukk/#dot-keskittajaetu -->
 
 Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
@@ -344,8 +326,6 @@ Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 [1]: https://www.telia.fi/dot/lidlplus
 {{</ sim-telia >}}
 
-[Takaisin ylös](#)
-
 <hr>
 
 <!-- Moi 4G -->
@@ -357,9 +337,7 @@ Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 #### 19,00
 * Rajaton netti
 * Puh/sms +0,055€/min/kpl, maks. +4€
-* Hinta 4G-verkossa
-
-Huom. Netti ei välttämättä yllä 400M nopeuteen 4G-verkossa.
+* Hinta pelkässä 4G-verkossa
 
 Laskut veloitetaan kortilta.
 
@@ -393,8 +371,6 @@ Laskut veloitetaan kortilta. Samanlaisten liittymien data kasvaa yhdeksi potiksi
 [1]: https://www.moi.fi/moipotti
 {{</ sim-moi >}}
 
-[Takaisin ylös](#)
-
 <hr>
 
 <!-- Globetel 4G -->
@@ -404,10 +380,10 @@ Laskut veloitetaan kortilta. Samanlaisten liittymien data kasvaa yhdeksi potiksi
 
 {{< sim-globetel "Jätti" >}}
 #### 11,95
-* Netti lisämaksusta, maks. 100M
+* Netti lisämaksusta
 * Rajaton puhe
 
-Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
+Ulkomaanpuhelut –50 % käyttäessä 99588-numeroa [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
 
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -416,10 +392,10 @@ Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut
 
 {{< sim-globetel "Pieni" >}}
 #### 9,90
-* Netti lisämaksusta, maks. 100M
-* Puh/sms 500min/kpl, ylimenevät +0,069€/min/kpl
+* Netti lisämaksusta
+* Puh/sms 500&nbsp;min/kpl, ylimenevät +6,9&nbsp;snt/min/kpl
 
-Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
+Ulkomaanpuhelut –50 % käyttäessä 99588-numeroa [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
 
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -428,10 +404,10 @@ Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut
 
 {{< sim-globetel "Mini" >}}
 #### 7,90
-* Netti lisämaksusta, maks. 100M
-* Puh/sms 300min/kpl, ylimenevät +0,069€/min/kpl
+* Netti lisämaksusta
+* Puh/sms 300&nbsp;min/kpl, ylimenevät +6,9&nbsp;snt/min/kpl
 
-Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
+Ulkomaanpuhelut –50 % käyttäessä 99588-numeroa [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
 
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -440,28 +416,16 @@ Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut
 
 {{< sim-globetel "Perus" >}}
 #### 4,90
-* Netti lisämaksusta, maks. 100M
-* Puh/sms +0,059€/min/kpl
+* Netti lisämaksusta
+* Puh/sms +5,9&nbsp;snt/min/kpl
 
-Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
+Ulkomaanpuhelut –50 % käyttäessä 99588-numeroa [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
 
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.globetel.fi/tilaa-liittyma?liittyma=globetel-perus
 {{</ sim-globetel >}}
 
-[Takaisin ylös](#)
 
-<hr>
-
-<a name="help"></a>
-
-{{< faq "Apua valintaan?" >}}
-Liikaa valinnanvaraa? Etkö ole varma, mitä kaikkea liittymältä tarvitset? Etsitään juuri sinulle sopiva ratkaisu!
-
-#### [Ota yhteyttä <i class="fas fa-arrow-right"></i>](/ota-yhteytta)
-{{< /faq >}}
-
-<hr>
-
-Huomioithan: Sivun tarjoukset eivät välttämättä ole kaikkien hyödynnettävissä. Liittymien ehdot ja ominaisuudet voivat muuttua ilman eri ilmoitusta. Tutustu tuotteeseen huolella ja varmista mahdollinen lisäetu (kuten lahjakortti) itse operaattorilta.
+> #### Tietoa
+> Sivun tarjoukset eivät välttämättä ole kaikkien hyödynnettävissä. Liittymien ehdot ja ominaisuudet voivat muuttua ilman eri ilmoitusta. Tutustu tuotteeseen huolella ja varmista mahdollinen lisäetu (kuten lahjakortti) itse operaattorilta.

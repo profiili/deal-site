@@ -12,19 +12,21 @@ description: "This is meta description"
 draft: false
 ---
 
+25.11.2021
+
 Jokavuotinen jo koko viikon pituiseksi venynyt Black Friday on taas täällä. Kokosimme liittymätarjoukset yhteen paikkaan. Erityishinnat ovat yleensä saatavilla vain rajoitetun ajan, joten kannattaa toimia nopeasti.
 
-Älä kuitenkaan anna seuraavien tarjouksien täysin sokaista, sillä tarjolla on muitakin sopivan hintaisia liittymiä ympäri vuoden. **[Katso kaikki liittymät täältä!](/tarjoukset)**
+Älä kuitenkaan anna seuraavien tarjouksien täysin sokaista, sillä tarjolla on muitakin sopivan hintaisia liittymiä ympäri vuoden. **[Katso kaikki liittymät täältä!](/liittymat/puhelin)**
 
 Lista saattaa päivittyä uusien tarjouksien ilmetessä.
 
 <hr>
 
-### Puheliittymät
+### Puhelinliittymät
 
 Tarjoukseen pääset painamalla liittymän nimeä. Voit joutua syöttämään puhelinnumerosi ennen tarjousta.
 
-### 5G-liittymä
+### 5G-liittymät
 
 Vain numeronsiirto:
 * [Saunalahti Huoleton 5G 300M][EP5]: 29,90 2v +50€ S-ryhmän lahjakortti (norm. 34,90)
@@ -35,7 +37,7 @@ Numeronsiirto tai uusi liittymä:
 
 <hr>
 
-### 4G-liittymä
+### 4G-liittymät
 
 #### Elisa Saunalahti
 
@@ -74,7 +76,7 @@ Numeronsiirto tai uusi liittymä:
 
 <hr>
 
-### Mobiililaajakaista
+### Mobiililaajakaistat
 
 **Mobiililaajakaistaksi käy myös puheliittymä.** Olemassa olevan laajakaistan numeron voi siirtää kuten normaalin puhelinnumeron, jolloin mitään ei tarvitse irtisanoa. Laajakaistoja useammin puheliittymiin tarjotaan etuna usein myös lahjakorttia.
 

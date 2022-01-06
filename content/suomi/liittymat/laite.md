@@ -1,7 +1,6 @@
 ---
 title: "Laitenetti"
-date: 2021-11-25T16:07:03+02:00
-expiryDate: 2121-12-01T00:00:00+02:00
+subtitle: "Päivitetty 5.1.2022"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -10,32 +9,48 @@ type: "regular"
 description: "This is meta description"
 # post draft
 draft: false
+
+call_to_action:
+  enable : true
+  title : "Apua valintaan?"
+  image : "images/cta.svg"
+  content : "Liikaa valinnanvaraa? Etkö ole varma, mitä kaikkea liittymältä tarvitset? Etsitään juuri sinulle sopiva ratkaisu!"
+  button:
+    enable : true
+    label : "Ota yhteyttä"
+    link : "/ota-yhteytta"
 ---
 
 <!-- 
 
 
+*    *   ** * * * * *** * * * * *** *** *** *** ***   *** *
+*   * * *   * * * *  *  * * * * * *  *  * * * * * *   *   *
+*   ***  *  **  * *  *  **  * * * *  *  * * * * * *   **  *
+*   * *   * * * * *  *  * * * * * *  *  * * * * * *   *   *
+*** * * **  * * ***  *  * * *** * *  *  *** *** * * * *   *
+
 Tervetuloa lukemaan koodia!
 
-Täältä saattaa löytää vanhentuneita tarjouksia, mutta eipä juuri muuta ihmeellistä.
+Täältä saattaa löytää vanhentuneita tarjouksia, tuskinpa muuta ihmeellistä. 
+
+Ideoita saa lähettää laskutkuntoon.fi/ota-yhteytta.
 
 
 -->
-
-### Päivitetty 21.12.2021
 
 Hyppää: [Elisa](#elisa) | [DNA](#dna) | [Telia](#telia) | [Moi](#moi) | [Globetel](#globetel)
 
 Etsitkö [mobiililaajakaistaa](/liittymat/netti)?
 
-Lähetysnopeus merkitty suluilla.
+Netin lähetysnopeus ilmoitettu suluissa mikäli eri kuin latausnopeus.
 
 <hr>
 
 <a name="elisa"></a>
 ### Elisa
 
-Elisan Laitenetti-liittymässä puhelut 14&nbsp;snt/min. Sisältää 100 viestiä, yli menevät 9,1&nbsp;snt/kpl (Saunalahti-liittymiin 6&nbsp;snt/kpl). Multimediaviestit 19,2&nbsp;snt/kpl.
+Elisan Laitenetti-liittymässä puhelut +0,14€/min. Sisältää 100 viestiä, yli menevät +0,091€/kpl (Saunalahti-liittymiin +0,06€/kpl). Multimediaviestit 0,192€/kpl.
 
 * [Laitenetti L 0,512M (5M)][EL]: 8,90
 * [Laitenetti M 0,256M (2M)][EL]: 6,90
@@ -44,26 +59,30 @@ Elisan Laitenetti-liittymässä puhelut 14&nbsp;snt/min. Sisältää 100 viesti�
 [EL]: https://elisa.fi/laitesim
 [ELT]: https://elisa.fi/kauppa/tarjoukset#services
 
+<hr>
+
 <a name="dna"></a>
 ### DNA
 
-DNA:n Laitenetti-liittymässä puhelut 14&nbsp;snt/min. Sisältää 100 viestiä, yli menevät 9&nbsp;snt/kpl. Multimediaviestit 40&nbsp;snt/kpl. Keskittäjähinta asiakaspalvelusta.
+DNA:n Laitenetti-liittymässä puhelut +0,14€/min. Sisältää 100 viestiä, yli menevät +0,09€/kpl. Multimediaviestit +0,40€/kpl.
 
-Keskittäjille:
-* [Laitenetti Plus 0,512M (5M)]: 4,90 1v (9,90)
-* [Laitenetti 0,128M]: 1,90 1v (4,90)
+Keskittäjille (tilattava myyntipalvelusta):
+* [Laitenetti Plus 0,512M (5M)][dl1]: 4,90
+* [Laitenetti 0,128M][dl2]: 1,90
 
 Kaikille:
-* [Laitenetti Plus 0,512M (5M)]: 8,90 1v (9,90)
-* [Laitenetti 0,128M]: 3,90 1v (4,90)
+* [Laitenetti Plus 0,512M (5M)][dl1]: 8,90 1v (9,90)
+* [Laitenetti 0,128M:][dl2]: 3,90 1v (4,90)
 
-[Laitenetti Plus 0,512M (5M)]: https://kauppa4.dna.fi/c/DNA-Laitenetti-Plus/p/QDS00002
-[Laitenetti 0,128M]: https://kauppa4.dna.fi/c/DNA-Laitenetti/p/QDS00001
+[dl1]: https://kauppa4.dna.fi/c/DNA-Laitenetti-Plus/p/QDS00002
+[dl2]: https://kauppa4.dna.fi/c/DNA-Laitenetti/p/QDS00001
+
+<hr>
 
 <a name="telia"></a>
 ### Telia
 
-Telian Yhteys Mukaan laitteeseen -liittymässä puhelut ja viestit 9&nbsp;snt/min/kpl. Rajaton Litessä 7&nbsp;snt/min/kpl.
+Telian Yhteys Mukaan laitteeseen -liittymässä puhelut ja viestit +0,09€/min/kpl. Rajaton Litessä +0,07€/min/kpl.
 
 Keskittäjille:
 * [Yhteys Mukaan laitteeseen 0,256M (5M)][tl2m-keski]: 3,90
@@ -78,19 +97,23 @@ Kaikille:
 
 [TL]: https://www.telia.fi/kauppa/liittymat/laitenetti
 
+<hr>
+
 <a name="moi"></a>
 ### Moi
 
-Moin Laitenetti-liittymässä viestit 5,5&nbsp;snt/kpl.
+Moin Laitenetti-liittymässä viestit +0,055€/kpl.
 
 * [Laitenetti 0,512M (5M)][ML]: 4,00
 
 [ML]: https://www.moi.fi/laitenetti
 
+<hr>
+
 <a name="globetel"></a>
 ### Globetel
 
-Globetelin Laite-liittymä sisältää rajattomasti viestejä. Puhelut 6,9&nbsp;snt/min.
+Globetelin Laite-liittymä sisältää rajattomasti viestejä. Puhelut +0,069€/min.
 
 * [Globetel Laite 0,256M][GL]: 6,90
 

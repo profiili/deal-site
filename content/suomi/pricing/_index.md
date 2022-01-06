@@ -7,8 +7,8 @@ draft: false
 
 basic:
   name : "Basic Plan"
-  price: "$49"
-  price_per : "month"
+  price: "49,90 €"
+  price_per : "kk 1v (69,90)"
   info : "Best For Small Individuals"
   services:
   - "Express Service"

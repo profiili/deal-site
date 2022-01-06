@@ -1,7 +1,6 @@
 ---
 title: "Uusi liittymä puhelimeen"
-date: 2021-11-25T16:07:03+02:00
-expiryDate: 2121-12-01T00:00:00+02:00
+subtitle: "Päivitetty 5.1.2022"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -10,19 +9,35 @@ type: "regular"
 description: "This is meta description"
 # post draft
 draft: false
+
+call_to_action:
+  enable : true
+  title : "Apua valintaan?"
+  image : "images/cta.svg"
+  content : "Liikaa valinnanvaraa? Etkö ole varma, mitä kaikkea liittymältä tarvitset? Etsitään juuri sinulle sopiva ratkaisu!"
+  button:
+    enable : true
+    label : "Ota yhteyttä"
+    link : "/ota-yhteytta"
 ---
 
 <!-- 
 
 
+*    *   ** * * * * *** * * * * *** *** *** *** ***   *** *
+*   * * *   * * * *  *  * * * * * *  *  * * * * * *   *   *
+*   ***  *  **  * *  *  **  * * * *  *  * * * * * *   **  *
+*   * *   * * * * *  *  * * * * * *  *  * * * * * *   *   *
+*** * * **  * * ***  *  * * *** * *  *  *** *** * * * *   *
+
 Tervetuloa lukemaan koodia!
 
-Täältä saattaa löytää vanhentuneita tarjouksia, mutta eipä juuri muuta ihmeellistä.
+Täältä saattaa löytää vanhentuneita tarjouksia, tuskinpa muuta ihmeellistä. 
+
+Ideoita saa lähettää laskutkuntoon.fi/ota-yhteytta.
 
 
 -->
-
-### Päivitetty 21.12.2021
 
 Hyppää: [5G-liittymät](#5g) | [4G-liittymät](#4g) | [Elisa](#4g-elisa) | [DNA](#4g-dna) | [Telia](#4g-telia) | [Telia Dot](#4g-dot) | [Moi](#4g-moi) | [Globetel](#4g-globetel)
 
@@ -53,7 +68,7 @@ Jotkin liittymistä ovat tarkoitettu _lapselle_. Älä huoli, sillä lapsen liit
 [1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-5G-400M/p/MCAMP-G4-QVS000014
 {{</ sim-dna >}}
 
-
+<!-- tarjolla nopeampi
 {{< sim-dna "DNA Rajaton 5G 200M" >}}
 #### 29,90 1v (33,90)
 * Rajaton netti
@@ -62,7 +77,7 @@ Jotkin liittymistä ovat tarkoitettu _lapselle_. Älä huoli, sillä lapsen liit
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://kauppa4.dna.fi/Puhelinliittymät/Kiinteä-hinta,-rajaton-käyttö/DNA-Rajaton-5G-200M/p/QVS000017
-{{</ sim-dna >}}
+{{</ sim-dna >}} -->
 
 <!-- Telia 5G -->
 <!-- Piilotettu: nyt liian kallis
@@ -119,6 +134,8 @@ Laskut veloitetaan kortilta.
 [1]: https://www.moi.fi/5g
 {{</ sim-moi >}}
 
+[Takaisin ylös](#)
+
 <hr>
 
 <a name="4g"></a>
@@ -168,6 +185,8 @@ Puhelinnumeron muoto 045&nbsp;xxx&nbsp;xxxx.
 
 [elapsi]: https://elisa.fi/kauppa/liittyma-lapselle
 
+[Takaisin ylös](#)
+
 <hr>
 
 <a name="4g-dna"></a>
@@ -197,7 +216,7 @@ Puhelinnumeron muoto 044&nbsp;xxx&nbsp;xxxx.
 [1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta%2C-rajaton-k%C3%A4ytt%C3%B6/DNA-Nopea-4G-Rajaton-Plus-/p/MCAMP-PP2-QVS000012
 {{</ sim-dna >}}
 
-
+<!-- halvempi yllä
 {{< sim-dna "Nopea 4G Rajaton Plus 150M" >}}
 #### 19,90 1v (34,90)
 * Lapselle
@@ -207,7 +226,7 @@ Puhelinnumeron muoto 044&nbsp;xxx&nbsp;xxxx.
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.dna.fi/kouluun/liittymat
-{{</ sim-dna >}}
+{{</ sim-dna >}} -->
 
 
 {{< sim-dna "Rajaton 4G 10M" >}}
@@ -221,7 +240,7 @@ Puhelinnumeron muoto 044&nbsp;xxx&nbsp;xxxx.
 [1]: https://www.dna.fi/kouluun/liittymat
 {{</ sim-dna >}}
 
-
+<!-- halvempi yllä
 {{< sim-dna "Rajaton 4G 10M" >}}
 #### 15,90 1v (26,90)
 * Rajaton netti
@@ -230,7 +249,7 @@ Puhelinnumeron muoto 044&nbsp;xxx&nbsp;xxxx.
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta%2C-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-PP4-QVS000016
-{{</ sim-dna >}}
+{{</ sim-dna >}} -->
 
 
 {{< sim-dna "Jämpti 1M" >}}
@@ -247,6 +266,8 @@ Puhelinnumeron muoto 044&nbsp;xxx&nbsp;xxxx.
 
 [dnum]: https://www.dna.fi/sinunhintasi
 [dlapsi]: https://www.dna.fi/kouluun/liittymat
+
+[Takaisin ylös](#)
 
 <hr>
 
@@ -267,12 +288,24 @@ Puhelinnumeron muoto 040&nbsp;xxx&nbsp;xxxx.
 [1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21103LK
 {{</ sim-telia >}} -->
 
+{{< sim-telia "Rajaton 200M" >}}
+#### 19,90 1v (32,90)
+* Rajaton netti
+* Rajaton puhe
+
+#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+
+[1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21103
+{{</ sim-telia >}}
+
 
 {{< sim-telia "Rajaton 150M" >}}
 #### 19,90 2v (29,90)
 * Rajaton netti
 * Rajaton puhe
 * 30€ S-ryhmän lahjakortti
+
+Huom. Samaan hintaan tarjolla myös nopeampi 200M vuoden tarjouksella ilman lahjakorttia.
 
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -304,6 +337,8 @@ Puhelinnumeron muoto 040&nbsp;xxx&nbsp;xxxx.
 
 [tnum]: https://www.telia.fi/kampanjat/liittymat/huippudiili
 [tlapsi]: https://www.telia.fi/kauppa/liittymat/liittyma-lapselle
+
+[Takaisin ylös](#)
 
 <hr>
 
@@ -356,6 +391,8 @@ Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 [1]: https://www.telia.fi/dot/lidlplus
 {{</ sim-telia >}}
 
+[Takaisin ylös](#)
+
 <hr>
 
 <a name="4g-moi"></a>
@@ -401,6 +438,8 @@ Laskut veloitetaan kortilta. Samanlaisten liittymien data kasvaa yhdeksi potiksi
 [1]: https://www.moi.fi/moipotti
 {{</ sim-moi >}}
 
+[Takaisin ylös](#)
+
 <hr>
 
 <a name="4g-globetel"></a>
@@ -411,7 +450,7 @@ Laskut veloitetaan kortilta. Samanlaisten liittymien data kasvaa yhdeksi potiksi
 * Netti lisämaksusta
 * Rajaton puhe
 
-Ulkomaanpuhelut –50 % käyttäessä 99588-numeroa [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
+Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
 
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -421,9 +460,9 @@ Ulkomaanpuhelut –50 % käyttäessä 99588-numeroa [(Lue lisää)](https://glob
 {{< sim-globetel "Pieni" >}}
 #### 9,90
 * Netti lisämaksusta
-* Puh/sms 500&nbsp;min/kpl, ylimenevät +6,9&nbsp;snt/min/kpl
+* Puh/sms 500min/kpl, ylimenevät +0,069€/min/kpl
 
-Ulkomaanpuhelut –50 % käyttäessä 99588-numeroa [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
+Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
 
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -433,9 +472,9 @@ Ulkomaanpuhelut –50 % käyttäessä 99588-numeroa [(Lue lisää)](https://glob
 {{< sim-globetel "Mini" >}}
 #### 7,90
 * Netti lisämaksusta
-* Puh/sms 300&nbsp;min/kpl, ylimenevät +6,9&nbsp;snt/min/kpl
+* Puh/sms 300min/kpl, ylimenevät +0,069€/min/kpl
 
-Ulkomaanpuhelut –50 % käyttäessä 99588-numeroa [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
+Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
 
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -445,18 +484,20 @@ Ulkomaanpuhelut –50 % käyttäessä 99588-numeroa [(Lue lisää)](https://glob
 {{< sim-globetel "Perus" >}}
 #### 4,90
 * Netti lisämaksusta
-* Puh/sms +5,9&nbsp;snt/min/kpl
+* Puh/sms +0,059€/min/kpl
 
-Ulkomaanpuhelut –50 % käyttäessä 99588-numeroa [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
+Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
 
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.globetel.fi/tilaa-liittyma?liittyma=globetel-perus
 {{</ sim-globetel >}}
 
+[Takaisin ylös](#)
+
 <hr>
 
-{{< faq "Apua valitsemiseen?" >}}
+{{< faq "Apua valintaan?" >}}
 Liikaa valinnanvaraa? Etkö ole varma, mitä kaikkea liittymältä tarvitset? Etsitään juuri sinulle sopiva ratkaisu!
 
 #### [Ota yhteyttä <i class="fas fa-arrow-right"></i>](/ota-yhteytta)

@@ -10,7 +10,7 @@
       </div>
 
       <div class="col-lg-7 mb-4 mb-lg-0">
-        <form action="{{ site.Params.contact_form_action | safeURL }}" method="POST">
+        <form name="contact-form" netlify>
           <select type="text" class="form-control mb-3" id="subject" name="subject" placeholder="{{ i18n `subject` }}">
             <option value="feedback">Palaute</option>
             <option value="sub_mob">Puhelinliittymä</option>

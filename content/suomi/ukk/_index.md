@@ -1,6 +1,6 @@
 ---
 title: "Meistä"
-subtitle: ""
+subtitle: "Täältä löytyy vastaus yleisimpiin kysymyksiin. Jos et löydä etsimääsi, [ota yhteyttä!](/ota-yhteytta)"
 # meta description
 description: "This is meta description"
 draft: false

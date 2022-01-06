@@ -5,11 +5,20 @@ subtitle: ""
 description: "This is meta description"
 draft: false
 ---
+#### wtf
 
-{{< progress-0 "Netti" >}}
-Valitsematta
-{{< /progress-0 >}}
+<br>
 
-{{< progress-0 "Puhe" >}}
+asdasd asd wtf
+
+<hr>
+
+<!-- wtf -->
+
+{{< sim-elisa "Netti" >}}
 Valitsematta
-{{< /progress-0 >}}
+{{< /sim-elisa >}}
+
+{{< sim-telia "Puhe" >}}
+Valitsematta
+{{< /sim-telia >}}

@@ -11,24 +11,24 @@ description: "This is meta description"
 draft: false
 ---
 
+30.12.2021
+
 Tiimimme on loppuvuoden 2021 rakentaneet kaikessa hiljaisuudessa projektia, jonka tavoite on koota parhaat liittymätarjoukset yhteen paikkaan ja pitää ne ajan tasalla.
 
 Idea sivustoon lähti siitä, kun kuulimme jatkuvasti ystäviltä ja sukulaisilta, kuinka paljon nykyään jo pakolliseksi luokiteltavat palvelut, kuten puhelinliittymä tai kotinetti, maksavat kuukaudessa.
 
-Samaan aikaan tiimillämme taas useampi liittymä maksoi yhteensä vähemmän kuin yksi “perusliittymä”.
+Samaan aikaan tiimillämme taas useampi liittymä maksoi yhteensä vähemmän kuin yksi *perusliittymä*.
 
 Apua pyytäneille tuttaville säästöä kertyi jopa kolmannes pelkästään edelliseen laskuun verrattuna. Todellinen tarve paljastuu useammasta laskusta, joten juuri sinulle sopivalla liittymällä on mahdollista säästää enemmän.
 
 Kuten monissa elämän osa-alueissa: **perehtymällä säästää.** Täysin ymmärrettävästi kaikilla ei ole aikaa tai kiinnostusta etsiä juuri omaa käyttöä vastaavaa liittymää. Tässä me astumme kuvaan.
 
-Ei kun vertailemaan!
+– Tiimi
+
 * [Puhelinliittymät](/liittymat/puhelin)
 * [Netti kotiin ja mukaan](/liittymat/netti)
 * [Uudet liittymät](/liittymat/uusi-liittyma)
-
-– Tiimi
-
-[Lue lisää meistä](/ukk)
+* [Usein kysyttyä](/ukk)
 
 {{< faq "Apua liittymän valintaan?" >}}
 Etkö ole varma, mitä kaikkea liittymältä tarvitset? Etsitään juuri sinulle sopiva ratkaisu!
