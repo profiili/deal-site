@@ -1,6 +1,6 @@
 ---
 title: "Netti kotiin ja mukaan"
-subtitle: "Päivitetty 5.1.2022"
+subtitle: "Päivitetty 17.1.2022"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -50,6 +50,16 @@ Etsitkö [laitenettiä?](/liittymat/laite)
 Mobiililaajakaistaksi käy erittäin hyvin myös normaali puhelinliittymä. Usein niissä on vieläpä laajakaistoja paremmat edut, kuten lahjakortti tai kahden vuoden tarjoushinta. Listasimme alle sekä puhelinliittymät että liikkuvat netit, jotta voit itse vertailla.
 
 Olemassa olevan mobiililaajakaistan voi siirtää kuten normaalin liittymän, jolloin mitään ei tarvitse erikseen irtisanoa. Voit joutua syöttämään puhelinnumeron ennen tarjousta.
+
+{{< faq "Huolettaako määräaikaisuus?" >}}
+Tarkista nykyisen liittymäsi määraikaisuus helposti:
+
+Lähetä maksuton viesti **SOPIMUS** numeroon **18321**. Saat paluuviestinä tiedon määräaikaisuudesta ja sen kestosta. Viesti kertoo myös, jos liittymäsi on voimassa toistaiseksi.
+
+Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
+
+[1]: https://www.traficom.fi/fi/ajankohtaista/kuluttajille-mahdollisuus-tarkastaa-tekstiviestilla-matkapuhelinsopimuksensa
+{{</ faq >}}
 
 <hr>
 
@@ -135,13 +145,13 @@ Huom. Samaan hintaan tarjolla myös nopeampi 400M.
 #### 29,90 2v (34,90)
 * Puhelinliittymä
 * Rajaton netti
-* 30€ S-ryhmän lahjakortti
 
 Vain numeronsiirto tai siirron ohella uusi liittymä.
 
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
-[1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M21103LK
+[1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M21103
+[2]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M21103LK
 {{</ sim-telia >}}
 
 <!-- Telia Dot 5G -->

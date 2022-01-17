@@ -25,6 +25,8 @@ Kuten monissa elämän osa-alueissa: **perehtymällä säästää.** Täysin ymm
 
 – Tiimi
 
+Tutustu sivustoon:
+
 * [Puhelinliittymät](/liittymat/puhelin)
 * [Netti kotiin ja mukaan](/liittymat/netti)
 * [Uudet liittymät](/liittymat/uusi-liittyma)

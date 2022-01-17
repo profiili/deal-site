@@ -1,6 +1,6 @@
 ---
 title: "Uusi liittymä puhelimeen"
-subtitle: "Päivitetty 5.1.2022"
+subtitle: "Päivitetty 17.1.2022"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -97,11 +97,10 @@ Jotkin liittymistä ovat tarkoitettu _lapselle_. Älä huoli, sillä lapsen liit
 #### 29,90 2v (34,90)
 * Rajaton netti
 * Rajaton puhe
-* 30€ S-ryhmän lahjakortti
 
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
-[1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M21103LK
+[1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M21103
 {{</ sim-telia >}}
 
 <!-- Telia Dot 5G -->
@@ -218,7 +217,7 @@ Puhelinnumeron muoto 044&nbsp;xxx&nbsp;xxxx.
 
 <!-- halvempi yllä
 {{< sim-dna "Nopea 4G Rajaton Plus 150M" >}}
-#### 19,90 1v (34,90)
+#### 19,99 1v (34,90)
 * Lapselle
 * Rajaton netti
 * Rajaton puhe
@@ -228,19 +227,6 @@ Puhelinnumeron muoto 044&nbsp;xxx&nbsp;xxxx.
 [1]: https://www.dna.fi/kouluun/liittymat
 {{</ sim-dna >}} -->
 
-
-{{< sim-dna "Rajaton 4G 10M" >}}
-#### 14,90 1v (26,90)
-* Lapselle
-* Rajaton netti
-* Rajaton puhe
-
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
-
-[1]: https://www.dna.fi/kouluun/liittymat
-{{</ sim-dna >}}
-
-<!-- halvempi yllä
 {{< sim-dna "Rajaton 4G 10M" >}}
 #### 15,90 1v (26,90)
 * Rajaton netti
@@ -249,8 +235,19 @@ Puhelinnumeron muoto 044&nbsp;xxx&nbsp;xxxx.
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta%2C-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-PP4-QVS000016
-{{</ sim-dna >}} -->
+{{</ sim-dna >}}
 
+<!-- 9 snt halvempi yllä...
+{{< sim-dna "Rajaton 4G 10M" >}}
+#### 15,99 1v (26,90)
+* Lapselle
+* Rajaton netti
+* Rajaton puhe
+
+#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+
+[1]: https://www.dna.fi/kouluun/liittymat
+{{</ sim-dna >}} -->
 
 {{< sim-dna "Jämpti 1M" >}}
 #### 9,90 1v (12,90)
@@ -303,13 +300,12 @@ Puhelinnumeron muoto 040&nbsp;xxx&nbsp;xxxx.
 #### 19,90 2v (29,90)
 * Rajaton netti
 * Rajaton puhe
-* 30€ S-ryhmän lahjakortti
 
-Huom. Samaan hintaan tarjolla myös nopeampi 200M vuoden tarjouksella ilman lahjakorttia.
+Huom. Samaan hintaan tarjolla myös nopeampi 200M vuoden tarjouksella.
 
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
-[1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton150M&kampanja=R150M21103LK
+[1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton150M&kampanja=R150M21103
 {{</ sim-telia >}}
 
 
