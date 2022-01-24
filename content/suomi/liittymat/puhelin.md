@@ -1,6 +1,6 @@
 ---
 title: "Liittymät puhelimeen"
-subtitle: "Päivitetty 17.1.2022"
+subtitle: "Päivitetty 24.1.2022"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -70,10 +70,9 @@ Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
 <!-- Elisa Saunalahti 5G -->
 
 {{< sim-elisa "Saunalahti Huoleton 5G 300M" >}}
-#### 29,90 2v (34,90)
+#### 29,99 2v (34,99)
 * Rajaton netti
 * Rajaton puhe
-* 50€ S-ryhmän lahjakortti
 
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -86,6 +85,8 @@ Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
 #### 29,90 1v (36,90)
 * Rajaton netti
 * Rajaton puhe
+
+Kaksi hintaa, valitse ylempi _Lisää koriin_.
 
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -111,11 +112,15 @@ Huom. Samaan hintaan tarjolla myös nopeampi 400M.
 #### 29,90 2v (34,90)
 * Rajaton netti
 * Rajaton puhe
+* 30€ Lidlin lahjakortti
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+#### [Tutustu <i class="fas fa-external-link-alt"></i>][3]
 
 [1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M21103
+
 [2]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M21103LK
+
+[3]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M22032LK
 {{</ sim-telia >}}
 
 <!-- Telia Dot 5G -->
@@ -124,7 +129,7 @@ Huom. Samaan hintaan tarjolla myös nopeampi 400M.
 #### 0,00 1kk (29,90)
 * Rajaton netti
 * Rajaton puhe
-* 30€ Lidlin lahjakortti
+* 30€ Lidlin lahjakortti (31.1. asti)
 
 **Uutta:** –10% alennus seuraavan kuukauden laskusta, kun peruskäyttöä on vähintään kahdella liittymällä yli 5€/kk/liittymä.
 
@@ -162,7 +167,7 @@ Laskut veloitetaan kortilta.
 <a name="4g-elisa"></a>
 ### Elisa Saunalahti
 
-<!-- liittymat -->
+<!-- vanhentunut
 {{< sim-elisa "Huoleton 200M" >}}
 #### 19,90 2v (31,90)
 * Rajaton netti
@@ -172,13 +177,22 @@ Laskut veloitetaan kortilta.
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://elisa.fi/kauppa/erikoistarjous
+{{</ sim-elisa >}} -->
+
+{{< sim-elisa "Huoleton 150M" >}}
+#### 21,99 1v (29,99)
+* Rajaton netti
+* Rajaton puhe
+
+#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+
+[1]: https://elisa.fi/kauppa/erikoistarjous
 {{</ sim-elisa >}}
 
 {{< sim-elisa "Huoleton 10M" >}}
-#### 14,90 1v (26,90)
+#### 17,99 1v (26,99)
 * Rajaton netti
 * Rajaton puhe
-* 20€ S-ryhmän lahjakortti
 
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -205,18 +219,9 @@ Laskut veloitetaan kortilta.
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta%2C-rajaton-k%C3%A4ytt%C3%B6/DNA-Super-4G-Rajaton/p/MCAMP-YO1-QVS000005
+
+[2]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Super-4G-Rajaton/p/MCAMP-SH-QVS000005
 {{</ sim-dna >}}
-
-<!-- halvempi yllä
-{{< sim-dna "Super 4G Rajaton 300M" >}}
-#### 21,99 1v (39,90)
-* Rajaton netti
-* Rajaton puhe
-
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
-
-[1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta%2C-rajaton-k%C3%A4ytt%C3%B6/DNA-Super-4G-Rajaton/p/MCAMP-SH-QVS000005
-{{</ sim-dna >}} -->
 
 {{< sim-dna "Nopea 4G Rajaton Plus 150M" >}}
 #### 18,90 1v (34,90)
@@ -226,18 +231,9 @@ Laskut veloitetaan kortilta.
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta%2C-rajaton-k%C3%A4ytt%C3%B6/DNA-Nopea-4G-Rajaton-Plus-/p/MCAMP-PP2-QVS000012
+
+[2]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Nopea-4G-Rajaton-Plus-/p/MCAMP-SH-QVS000012
 {{</ sim-dna >}}
-
-<!-- halvempi yllä
-{{< sim-dna "Nopea 4G Rajaton Plus 150M" >}}
-#### 19,99 1v (34,90)
-* Rajaton netti
-* Rajaton puhe
-
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
-
-[1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta%2C-rajaton-k%C3%A4ytt%C3%B6/DNA-Nopea-4G-Rajaton-Plus-/p/MCAMP-SH-QVS000012
-{{</ sim-dna >}} -->
 
 {{< sim-dna "Rajaton 4G 10M" >}}
 #### 15,90 1v (26,90)
@@ -247,18 +243,9 @@ Laskut veloitetaan kortilta.
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta%2C-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-PP4-QVS000016
+
+[2]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-SH-QVS000016
 {{</ sim-dna >}}
-
-<!-- halvempi yllä
-{{< sim-dna "Rajaton 4G 10M" >}}
-#### 17,99 1v (26,90)
-* Rajaton netti
-* Rajaton puhe
-
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
-
-[1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta%2C-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-SH-QVS000016
-{{</ sim-dna >}} -->
 
 [dnum]: https://www.dna.fi/sinunhintasi
 
@@ -276,12 +263,18 @@ Laskut veloitetaan kortilta.
 #### 19,90 1v (32,90)
 * Rajaton netti
 * Rajaton puhe
+* 30€ Lidlin lahjakortti
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+#### [Tutustu <i class="fas fa-external-link-alt"></i>][3]
 
 [1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21103
+
+[2]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21103LK
+
+[3]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M22017LK
 {{</ sim-telia >}}
 
+<!-- vanhentunut
 {{< sim-telia "Rajaton 150M" >}}
 #### 19,90 2v (29,90)
 * Rajaton netti
@@ -292,54 +285,26 @@ Huom. Samaan hintaan tarjolla myös nopeampi 200M vuoden tarjouksella.
 #### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton150M&kampanja=R150M21103
-{{</ sim-telia >}}
 
-<!-- ei oikeen järkeä
-{{< sim-telia "Rajaton 150M" >}}
-#### 27,90 1v (29,90)
-* Rajaton netti
-* Rajaton puhe
-* 30€ S-ryhmän lahjakortti (varmista)
-
-Huom. Tarjolla myös halvemmalla ilman lahjakorttia. Tarjolla myös nopeampi 200M vuoden tarjouksella.
-
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
-
-[1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton150M&kampanja=R150M21103LK
+[2]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton150M&kampanja=R150M21103LK
 {{</ sim-telia >}} -->
 
+
 {{< sim-telia "Rajaton 20M" >}}
-#### 14,90 1v (26,90)
+#### 16,90 1v (26,90)
 * Rajaton netti
 * Rajaton puhe
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+#### [Tutustu <i class="fas fa-external-link-alt"></i>][4]
 
 [1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M21146
+
+[2]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M21146LK
+
+[3]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M21135
+
+[4]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M22016
 {{</ sim-telia >}}
-
-<!-- yllä oleva lahjakortilla
-{{< sim-telia "Rajaton 20M" >}}
-#### 24,90 1v (26,90)
-* Rajaton netti
-* Rajaton puhe
-* xx€ x lahjakortti
-
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
-
-[1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M21146LK
-{{</ sim-telia >}} -->
-
-<!-- kalliimpi
-{{< sim-telia "Rajaton 20M" >}}
-#### 17,90 1v (26,90)
-* Rajaton netti
-* Rajaton puhe
-
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
-
-[1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M21135
-{{</ sim-telia >}} -->
 
 {{< sim-telia "Rajaton Lite 0,5M" >}}
 #### 9,90
@@ -381,11 +346,9 @@ Huom. Tarjolla myös halvemmalla ilman lahjakorttia. Tarjolla myös nopeampi 200
 #### 0,00 1kk (26,00)
 * Rajaton netti
 * Rajaton puhe
-* 30€ Lidlin lahjakortti
+* 30€ Lidlin lahjakortti (31.1. asti)
 
 **Uutta:** –10% alennus seuraavan kuukauden laskusta, kun peruskäyttöä on vähintään kahdella liittymällä yli 5€/kk/liittymä.
-
-<!-- Keskittäjille –10 % alennus, lisää: https://www.telia.fi/dot/ukk/#dot-keskittajaetu -->
 
 Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
@@ -398,7 +361,7 @@ Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 #### 0,00 1kk (23,00)
 * Rajaton netti
 * Rajaton puhe
-* 30€ Lidlin lahjakortti
+* 30€ Lidlin lahjakortti (31.1. asti)
 
 **Uutta:** –10% alennus seuraavan kuukauden laskusta, kun peruskäyttöä on vähintään kahdella liittymällä yli 5€/kk/liittymä.
 
@@ -412,7 +375,7 @@ Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 {{< sim-telia "4G Käytön mukaan 100M" >}}
 #### 0,00 1kk (5,00–25,00)
 * Netti ja puhe käytön mukaan
-* 30€ Lidlin lahjakortti
+* 30€ Lidlin lahjakortti (31.1. asti)
 
 **Uutta:** –10% alennus seuraavan kuukauden laskusta, kun peruskäyttöä on vähintään kahdella liittymällä yli 5€/kk/liittymä.
 

@@ -1,6 +1,6 @@
 ---
 title: "Laitenetti"
-subtitle: "Päivitetty 17.1.2022"
+subtitle: "Päivitetty 24.1.2022"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -66,9 +66,9 @@ Elisan Laitenetti-liittymässä puhelut +0,14€/min. Sisältää 100 viestiä, 
 
 DNA:n Laitenetti-liittymässä puhelut +0,14€/min. Sisältää 100 viestiä, yli menevät +0,09€/kpl. Multimediaviestit +0,40€/kpl.
 
-Keskittäjille (tilattava myyntipalvelusta):
-* [Laitenetti Plus 0,512M (5M)][dl1]: 4,90
-* [Laitenetti 0,128M][dl2]: 1,90
+Keskittäjille:
+* [Laitenetti Plus 0,512M (5M)][dl3]: 4,90 5v (9,90)
+* [Laitenetti 0,128M][dl4]: 1,90 5v (4,90)
 
 Kaikille:
 * [Laitenetti Plus 0,512M (5M)][dl1]: 8,90 1v (9,90)
@@ -76,6 +76,8 @@ Kaikille:
 
 [dl1]: https://kauppa4.dna.fi/c/DNA-Laitenetti-Plus/p/QDS00002
 [dl2]: https://kauppa4.dna.fi/c/DNA-Laitenetti/p/QDS00001
+[dl3]: https://kauppa4.dna.fi/c/DNA-Laitenetti-Plus/p/MCAMP-QDS00002
+[dl4]: https://kauppa4.dna.fi/c/DNA-Laitenetti/p/MCAMP-QDS00001
 
 <hr>
 
