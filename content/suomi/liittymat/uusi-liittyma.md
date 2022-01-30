@@ -1,6 +1,6 @@
 ---
 title: "Uusi liittymä puhelimeen"
-subtitle: "Päivitetty 24.1.2022"
+subtitle: "Päivitetty 30.1.2022"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -57,6 +57,8 @@ Jotkin liittymistä ovat tarkoitettu _lapselle_. Älä huoli, sillä lapsen liit
 <a name="5g"></a>
 ### 5G-liittymät
 
+4 liittymää
+
 <!-- DNA 5G -->
 {{< sim-dna "DNA Rajaton 5G 400M" >}}
 #### 29,90 1v (36,90)
@@ -65,7 +67,7 @@ Jotkin liittymistä ovat tarkoitettu _lapselle_. Älä huoli, sillä lapsen liit
 
 Kaksi hintaa, valitse ylempi _Lisää koriin_.
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-5G-400M/p/MCAMP-G4-QVS000014
 {{</ sim-dna >}}
@@ -76,7 +78,7 @@ Kaksi hintaa, valitse ylempi _Lisää koriin_.
 * Rajaton netti
 * Rajaton puhe
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://kauppa4.dna.fi/Puhelinliittymät/Kiinteä-hinta,-rajaton-käyttö/DNA-Rajaton-5G-200M/p/QVS000017
 {{</ sim-dna >}} -->
@@ -89,7 +91,7 @@ Kaksi hintaa, valitse ylempi _Lisää koriin_.
 * Rajaton puhe
 * 30€ S-ryhmän lahjakortti
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G450M&kampanja=R5G450M21103LK
 {{</ sim-telia >}} -->
@@ -101,7 +103,7 @@ Kaksi hintaa, valitse ylempi _Lisää koriin_.
 * Rajaton puhe
 * 30€ Lidlin lahjakortti
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][3]
+[Tutustu <i class="fas fa-external-link-alt"></i>][3]
 
 [1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M21103
 
@@ -121,7 +123,7 @@ Kaksi hintaa, valitse ylempi _Lisää koriin_.
 
 Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.telia.fi/dot/lidlplus
 {{</ sim-telia >}}
@@ -135,7 +137,7 @@ Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
 Laskut veloitetaan kortilta.
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.moi.fi/5g
 {{</ sim-moi >}}
@@ -150,7 +152,7 @@ Laskut veloitetaan kortilta.
 <a name="4g-elisa"></a>
 ### Elisa Saunalahti
 
-Puhelinnumeron muoto 045&nbsp;xxx&nbsp;xxxx.
+3 liittymää. Puhelinnumeron muoto 045&nbsp;xxx&nbsp;xxxx.
 
 
 {{< sim-elisa "Huoleton 150M" >}}
@@ -159,7 +161,7 @@ Puhelinnumeron muoto 045&nbsp;xxx&nbsp;xxxx.
 * Rajaton netti
 * Rajaton puhe
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://elisa.fi/kauppa/liittyma-lapselle
 {{</ sim-elisa >}}
@@ -171,7 +173,7 @@ Puhelinnumeron muoto 045&nbsp;xxx&nbsp;xxxx.
 * Rajaton netti
 * Rajaton puhe
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://elisa.fi/kauppa/liittyma-lapselle
 {{</ sim-elisa >}}
@@ -183,7 +185,7 @@ Puhelinnumeron muoto 045&nbsp;xxx&nbsp;xxxx.
 * Rajaton netti
 * Puh/sms +0,069€/min/kpl
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://elisa.fi/kauppa/liittyma-lapselle
 {{</ sim-elisa >}}
@@ -198,7 +200,7 @@ Puhelinnumeron muoto 045&nbsp;xxx&nbsp;xxxx.
 <a name="4g-dna"></a>
 ### DNA
 
-Puhelinnumeron muoto 044&nbsp;xxx&nbsp;xxxx.
+4 liittymää. Puhelinnumeron muoto 044&nbsp;xxx&nbsp;xxxx.
 
 
 {{< sim-dna "Super 4G Rajaton 300M" >}}
@@ -206,7 +208,7 @@ Puhelinnumeron muoto 044&nbsp;xxx&nbsp;xxxx.
 * Rajaton netti
 * Rajaton puhe
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta%2C-rajaton-k%C3%A4ytt%C3%B6/DNA-Super-4G-Rajaton/p/MCAMP-YO1-QVS000005
 
@@ -219,7 +221,7 @@ Puhelinnumeron muoto 044&nbsp;xxx&nbsp;xxxx.
 * Rajaton netti
 * Rajaton puhe
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta%2C-rajaton-k%C3%A4ytt%C3%B6/DNA-Nopea-4G-Rajaton-Plus-/p/MCAMP-PP2-QVS000012
 
@@ -234,7 +236,7 @@ Puhelinnumeron muoto 044&nbsp;xxx&nbsp;xxxx.
 * Rajaton netti
 * Rajaton puhe
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta%2C-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-PP4-QVS000016
 
@@ -243,12 +245,12 @@ Puhelinnumeron muoto 044&nbsp;xxx&nbsp;xxxx.
 {{</ sim-dna >}}
 
 {{< sim-dna "Jämpti 1M" >}}
-#### 9,90 1v (12,90)
+#### 9,99 1v (12,90)
 * Lapselle
 * Rajaton netti
 * Puh/sms +0,07€/min/kpl
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.dna.fi/kouluun/liittymat
 {{</ sim-dna >}}
@@ -264,7 +266,7 @@ Puhelinnumeron muoto 044&nbsp;xxx&nbsp;xxxx.
 <a name="4g-telia"></a>
 ### Telia
 
-Puhelinnumeron muoto 040&nbsp;xxx&nbsp;xxxx.
+3 liittymää. Puhelinnumeron muoto 040&nbsp;xxx&nbsp;xxxx.
 
 
 {{< sim-telia "Rajaton 200M" >}}
@@ -273,13 +275,15 @@ Puhelinnumeron muoto 040&nbsp;xxx&nbsp;xxxx.
 * Rajaton puhe
 * 30€ Lidlin lahjakortti
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][3]
+[Tutustu <i class="fas fa-external-link-alt"></i>][3]
 
 [1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21103
 
 [2]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21103LK
 
 [3]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M22017LK
+
+[4]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M22017
 {{</ sim-telia >}}
 
 <!-- vanhentunut
@@ -290,7 +294,7 @@ Puhelinnumeron muoto 040&nbsp;xxx&nbsp;xxxx.
 
 Huom. Samaan hintaan tarjolla myös nopeampi 200M vuoden tarjouksella.
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton150M&kampanja=R150M21103
 {{</ sim-telia >}} -->
@@ -300,7 +304,7 @@ Huom. Samaan hintaan tarjolla myös nopeampi 200M vuoden tarjouksella.
 * Rajaton netti
 * Rajaton puhe
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][4]
+[Tutustu <i class="fas fa-external-link-alt"></i>][4]
 
 [1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M21146
 
@@ -317,7 +321,7 @@ Huom. Samaan hintaan tarjolla myös nopeampi 200M vuoden tarjouksella.
 * Rajaton netti
 * Puh/sms +0,07€/min/kpl
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=RajatonLite05M
 {{</ sim-telia >}}
@@ -333,7 +337,7 @@ Huom. Samaan hintaan tarjolla myös nopeampi 200M vuoden tarjouksella.
 <a name="4g-dot"></a>
 ### Telia Dot
 
-Puhelinnumeron muoto 040&nbsp;22x&nbsp;xxxx.
+3 liittymää. Puhelinnumeron muoto 040&nbsp;22x&nbsp;xxxx.
 
 {{< sim-telia "4G Rajaton+ 200M" >}}
 #### 0,00 1kk (26,00)
@@ -345,7 +349,7 @@ Puhelinnumeron muoto 040&nbsp;22x&nbsp;xxxx.
 
 Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.telia.fi/dot/lidlplus
 {{</ sim-telia >}}
@@ -360,7 +364,7 @@ Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
 Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.telia.fi/dot/lidlplus
 {{</ sim-telia >}}
@@ -374,7 +378,7 @@ Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
 Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.telia.fi/dot/lidlplus
 {{</ sim-telia >}}
@@ -386,7 +390,7 @@ Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 <a name="4g-moi"></a>
 ### Moi
 
-Puhelinnumeron muoto 045&nbsp;7xx&nbsp;xxxxx.
+3 liittymää. Puhelinnumeron muoto 045&nbsp;7xx&nbsp;xxxxx.
 
 {{< sim-moi "Reilu 5G 400M" >}}
 #### 19,00
@@ -396,7 +400,7 @@ Puhelinnumeron muoto 045&nbsp;7xx&nbsp;xxxxx.
 
 Laskut veloitetaan kortilta.
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.moi.fi/5g
 {{</ sim-moi >}}
@@ -408,7 +412,7 @@ Laskut veloitetaan kortilta.
 
 Laskut veloitetaan kortilta.
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.moi.fi/tilaa
 {{</ sim-moi >}}
@@ -421,7 +425,7 @@ Laskut veloitetaan kortilta.
 
 Laskut veloitetaan kortilta. Samanlaisten liittymien data kasvaa yhdeksi potiksi, joka jaetaan käyttäjien kesken. Esimerkiksi 3 liittymää x 6Gt = yhteensä 18Gt kaikkien käytettävissä.
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.moi.fi/moipotti
 {{</ sim-moi >}}
@@ -433,6 +437,8 @@ Laskut veloitetaan kortilta. Samanlaisten liittymien data kasvaa yhdeksi potiksi
 <a name="4g-globetel"></a>
 ### Globetel
 
+4 liittymää
+
 {{< sim-globetel "Jätti" >}}
 #### 11,95
 * Netti lisämaksusta
@@ -440,7 +446,7 @@ Laskut veloitetaan kortilta. Samanlaisten liittymien data kasvaa yhdeksi potiksi
 
 Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.globetel.fi/tilaa-liittyma?liittyma=globetel-jatti
 {{</ sim-globetel >}}
@@ -452,7 +458,7 @@ Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut
 
 Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.globetel.fi/tilaa-liittyma?liittyma=globetel-pieni
 {{</ sim-globetel >}}
@@ -464,7 +470,7 @@ Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut
 
 Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.globetel.fi/tilaa-liittyma?liittyma=globetel-mini
 {{</ sim-globetel >}}
@@ -476,7 +482,7 @@ Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut
 
 Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
 
-#### [Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.globetel.fi/tilaa-liittyma?liittyma=globetel-perus
 {{</ sim-globetel >}}
@@ -488,7 +494,7 @@ Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut
 {{< faq "Apua valintaan?" >}}
 Liikaa valinnanvaraa? Etkö ole varma, mitä kaikkea liittymältä tarvitset? Etsitään juuri sinulle sopiva ratkaisu!
 
-#### [Ota yhteyttä <i class="fas fa-arrow-right"></i>](/ota-yhteytta)
+[Ota yhteyttä <i class="fas fa-arrow-right"></i>](/ota-yhteytta)
 {{< /faq >}}
 
 <hr>

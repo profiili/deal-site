@@ -1,6 +1,6 @@
 ---
 title: "Laitenetti"
-subtitle: "Päivitetty 24.1.2022"
+subtitle: "Päivitetty 30.1.2022"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -126,7 +126,7 @@ Globetelin Laite-liittymä sisältää rajattomasti viestejä. Puhelut +0,069€
 {{< faq "Apua valitsemiseen?" >}}
 Liikaa valinnanvaraa? Etkö ole varma, mitä kaikkea liittymältä tarvitset? Etsitään juuri sinulle sopiva ratkaisu!
 
-#### [Ota yhteyttä <i class="fas fa-arrow-right"></i>](/ota-yhteytta)
+[Ota yhteyttä <i class="fas fa-arrow-right"></i>](/ota-yhteytta)
 {{< /faq >}}
 
 <hr>
