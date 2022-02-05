@@ -1,6 +1,6 @@
 ---
 title: "Netti kotiin ja mukaan"
-subtitle: "Päivitetty 30.1.2022"
+subtitle: "Päivitetty 5.2.2022"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -143,19 +143,34 @@ Huom. Samaan hintaan tarjolla myös nopeampi 400M.
 
 <!-- Telia 5G -->
 
+<!-- Piilotettu: nyt liian kallis
+{{< sim-telia "Telia Rajaton 5G 450M" >}}
+#### 32,90 1v (44,90)
+* Rajaton netti
+* Rajaton puhe
+* 30€ S-ryhmän lahjakortti
+
+[Tutustu <i class="fas fa-external-link-alt"></i>][1b]
+
+[1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G450M&kampanja=R5G450M21103
+
+[1b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G450M&kampanja=R5G450M21103LK
+{{</ sim-telia >}} -->
+
 {{< sim-telia "Telia Rajaton 5G 300M" >}}
 #### 29,90 2v (34,90)
 * Puhelinliittymä
 * Rajaton netti
-* 30€ Lidlin lahjakortti
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][3]
+[Tutustu <i class="fas fa-external-link-alt"></i>][2a]
 
-[1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M21103
+[1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M21103
 
-[2]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M21103LK
+[1b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M21103LK
 
-[3]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M22032LK
+[2a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M22032
+
+[2b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M22032LK
 {{</ sim-telia >}}
 
 {{< sim-telia "Telia Yhteys mukaan 5G 300M" >}}
@@ -163,11 +178,11 @@ Huom. Samaan hintaan tarjolla myös nopeampi 400M.
 * Mobiililaajakaista
 * Rajaton netti
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1a]
 
-[1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=Yhteysmukaan5G300M&kampanja=5G300MBT22031
+[1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=Yhteysmukaan5G300M&kampanja=5G300MBT22031
 
-[2]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=Yhteysmukaan5G300M&kampanja=5G300MBT22031LK
+[1b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=Yhteysmukaan5G300M&kampanja=5G300MBT22031LK
 {{< /sim-telia >}}
 
 <!-- Telia Dot 5G -->
@@ -176,9 +191,9 @@ Huom. Samaan hintaan tarjolla myös nopeampi 400M.
 #### 0,00 1kk (29,90)
 * Puhelinliittymä / mobiililaajakaista
 * Rajaton netti
-* 30€ Lidlin lahjakortti (31.1. asti)
+* 30€ Lidlin lahjakortti per liittymä (30.4. asti)
 
-**Uutta:** –10% alennus seuraavan kuukauden laskusta, kun peruskäyttöä on vähintään kahdella liittymällä yli 5€/kk/liittymä.
+Keskitysetu: –10% alennus seuraavan kuukauden laskusta, kun peruskäyttöä on vähintään kahdella liittymällä yli 5€/kk/liittymä.
 
 Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
@@ -191,7 +206,7 @@ Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 #### 19,00–27,00
 * Puhelinliittymä / mobiililaajakaista
 * Rajaton netti
-* Hinta riippuu käytetystä verkosta tai niiden sekoituksesta (4G/5G)
+* Hinta käytetyn verkon mukaan (4G/5G)
 
 Laskut veloitetaan kortilta.
 
@@ -286,7 +301,6 @@ Vain numeronsiirron yhteydessä tilattuna.
 [1]: https://elisa.fi/kauppa/nettiliittymat/mobiililaajakaista
 {{</ sim-elisa >}}
 
-
 [enum]: https://elisa.fi/kauppa/erikoistarjous
 
 [Takaisin ylös](#)
@@ -301,7 +315,6 @@ Vain numeronsiirron yhteydessä tilattuna.
 9 liittymää. Tarkista kotiosoitteesi tarjonta: [DNA][d4gkoti]
 
 [d4gkoti]: https://kauppa4.dna.fi/laajakaista
-
 
 {{< sim-dna "Super 4G Rajaton 300M" >}}
 #### 19,90 1v (39,90)
@@ -358,7 +371,7 @@ Vain numeronsiirron yhteydessä tilattuna.
 * Rajaton netti
 * 1v määräaika
 
-Vain keskittäjille. Vaatii kodin laajakaistan (kiinteä: väh. 100M; 4G/5G: väh. 150M).
+Vain keskittäjille.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -366,7 +379,7 @@ Vain keskittäjille. Vaatii kodin laajakaistan (kiinteä: väh. 100M; 4G/5G: vä
 {{</ sim-dna >}}
 
 {{< sim-dna "Liikkuva 4G 100M" >}}
-#### 17,90 2v (24,90)
+#### 17,99 2v (24,90)
 * Mobiililaajakaista
 * Rajaton netti
 
@@ -393,7 +406,7 @@ Vain keskittäjille.
 * Rajaton netti
 * 1v määräaika
 
-Vain keskittäjille. Vaatii kodin laajakaistan (kiinteä: väh. 100M; 4G/5G: väh. 150M).
+Vain keskittäjille.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -434,24 +447,29 @@ Vain keskittäjille. Vaatii kodin laajakaistan (kiinteä: väh. 100M; 4G/5G: vä
 * Rajaton netti
 * 30€ S-ryhmän lahjakortti
 
-Vain keskittäjille. Vaatii (taloyhtiö)laajakaistan.
+Vain keskittäjille.
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1b]
 
-[1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21146LK
+[1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21146
+
+[1b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21146LK
 {{</ sim-telia >}} -->
 
 {{< sim-telia "Rajaton 200M" >}}
 #### 19,90 1v (32,90)
 * Puhelinliittymä
 * Rajaton netti
-* 30€ Lidlin lahjakortti
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][2]
+[Tutustu <i class="fas fa-external-link-alt"></i>][2a]
 
-[1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21103
+[1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21103
 
-[2]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M22017LK
+[1b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21103LK
+
+[2a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M22017
+
+[2b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M22017LK
 {{</ sim-telia >}}
 
 <!-- vanhentunut
@@ -463,11 +481,11 @@ Vain keskittäjille. Vaatii (taloyhtiö)laajakaistan.
 
 Huom. Samaan hintaan tarjolla myös nopeampi 200M vuoden tarjouksella ilman lahjakorttia.
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1a]
 
-[1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton150M&kampanja=R150M21103
+[1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton150M&kampanja=R150M21103
 
-[2]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton150M&kampanja=R150M21103LK
+[1b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton150M&kampanja=R150M21103LK
 {{</ sim-telia >}} -->
 
 {{< sim-telia "Rajaton 20M" >}}
@@ -475,19 +493,23 @@ Huom. Samaan hintaan tarjolla myös nopeampi 200M vuoden tarjouksella ilman lahj
 * Puhelinliittymä
 * Rajaton netti
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][5]
+[Tutustu <i class="fas fa-external-link-alt"></i>][3a]
 
-[1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M21146
+[1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M21146
 
-[2]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M21146LK
+[1b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M21146LK
 
-[3]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M21135
+[2a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M21135
 
-[4]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M21135LK
+[2b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M21135LK
 
-[5]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M22016
+[3a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M22016
 
-[6]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M22016LK
+[3b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M22016LK
+
+[4a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M22017
+
+[4b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M22017LK
 {{</ sim-telia >}}
 
 {{< sim-telia "Rajaton Lite 0,5M" >}}
@@ -516,11 +538,15 @@ Huom. Samaan hintaan tarjolla myös nopeampi 200M vuoden tarjouksella ilman lahj
 
 Vain keskittäjille.
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][2]
+[Tutustu <i class="fas fa-external-link-alt"></i>][2a]
 
-[1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKeskittajalle200M&kampanja=200MBT21103
+[1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKeskittajalle200M&kampanja=200MBT21103
 
-[2]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKeskittajalle200M&kampanja=200MBT22016
+[1b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKeskittajalle200M&kampanja=200MBT21103LK
+
+[2a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKeskittajalle200M&kampanja=200MBT22016
+
+[2b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKeskittajalle200M&kampanja=200MBT22016LK
 {{</ sim-telia >}}
 
 {{< sim-telia "Yhteys Mukaan 100M" >}}
@@ -530,11 +556,15 @@ Vain keskittäjille.
 
 Vain keskittäjille.
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][2]
+[Tutustu <i class="fas fa-external-link-alt"></i>][2a]
 
-[1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=Asiakasetu&kampanja=keskittajaMBT21103
+[1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=Asiakasetu&kampanja=keskittajaMBT21103
 
-[2]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=Asiakasetu&kampanja=100MBT22016
+[1b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=Asiakasetu&kampanja=keskittajaMBT21103LK
+
+[2a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=Asiakasetu&kampanja=100MBT22016
+
+[2b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=Asiakasetu&kampanja=100MBT22016LK
 {{</ sim-telia >}}
 
 
@@ -543,11 +573,15 @@ Vain keskittäjille.
 * Mobiililaajakaista
 * Rajaton netti
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][2]
+[Tutustu <i class="fas fa-external-link-alt"></i>][2a]
 
-[1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKotimaassa&Kampanja=NMK50M21103
+[1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKotimaassa&Kampanja=NMK50M21103
 
-[2]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKotimaassa&Kampanja=NMK50M22016
+[1b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKotimaassa&Kampanja=NMK50M21103LK
+
+[2a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKotimaassa&Kampanja=NMK50M22016
+
+[2b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKotimaassa&Kampanja=NMK50M22016LK
 {{</ sim-telia >}}
 
 
@@ -570,9 +604,9 @@ Vain keskittäjille.
 #### 0,00 1kk (26,00)
 * Puhelinliittymä / mobiililaajakaista
 * Rajaton netti
-* 30€ Lidlin lahjakortti (31.1. asti)
+* 30€ Lidlin lahjakortti per liittymä (30.4. asti)
 
-**Uutta:** –10% alennus seuraavan kuukauden laskusta, kun peruskäyttöä on vähintään kahdella liittymällä yli 5€/kk/liittymä.
+Keskitysetu: –10% alennus seuraavan kuukauden laskusta, kun peruskäyttöä on vähintään kahdella liittymällä yli 5€/kk/liittymä.
 
 Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
@@ -585,9 +619,9 @@ Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 #### 0,00 1kk (23,00)
 * Puhelinliittymä / mobiililaajakaista
 * Rajaton netti
-* 30€ Lidlin lahjakortti (31.1. asti)
+* 30€ Lidlin lahjakortti per liittymä (30.4. asti)
 
-**Uutta:** –10% alennus seuraavan kuukauden laskusta, kun peruskäyttöä on vähintään kahdella liittymällä yli 5€/kk/liittymä.
+Keskitysetu: –10% alennus seuraavan kuukauden laskusta, kun peruskäyttöä on vähintään kahdella liittymällä yli 5€/kk/liittymä.
 
 Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
@@ -601,9 +635,9 @@ Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 #### 0,00 1kk (5,00–25,00)
 * Puhelinliittymä / mobiililaajakaista
 * Netti käytön mukaan
-* 30€ Lidlin lahjakortti (31.1. asti)
+* 30€ Lidlin lahjakortti per liittymä (30.4. asti)
 
-**Uutta:** –10% alennus seuraavan kuukauden laskusta, kun peruskäyttöä on vähintään kahdella liittymällä yli 5€/kk/liittymä.
+Keskitysetu: –10% alennus seuraavan kuukauden laskusta, kun peruskäyttöä on vähintään kahdella liittymällä yli 5€/kk/liittymä.
 
 Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 

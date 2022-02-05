@@ -1,6 +1,6 @@
 ---
 title: "Laitenetti"
-subtitle: "Päivitetty 30.1.2022"
+subtitle: "Päivitetty 5.2.2022"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -52,9 +52,9 @@ Netin lähetysnopeus ilmoitettu suluissa mikäli eri kuin latausnopeus.
 
 Elisan Laitenetti-liittymässä puhelut +0,14€/min. Sisältää 100 viestiä, yli menevät +0,091€/kpl (Saunalahti-liittymiin +0,06€/kpl). Multimediaviestit 0,192€/kpl.
 
-* [Laitenetti L 0,512M (5M)][EL]: 8,90
-* [Laitenetti M 0,256M (2M)][EL]: 6,90
-* [Laitenetti S 0,128M][ELT] (sivun lopussa): 0,00 1kk (3,90)
+* [Laitenetti L 0,512M (5M)][EL]: 8,99
+* [Laitenetti M 0,256M (2M)][EL]: 6,99
+* [Laitenetti S 0,128M][EL]: 3,99
 
 [EL]: https://elisa.fi/laitesim
 [ELT]: https://elisa.fi/kauppa/tarjoukset#services
@@ -72,7 +72,7 @@ Keskittäjille:
 
 Kaikille:
 * [Laitenetti Plus 0,512M (5M)][dl1]: 8,90 1v (9,90)
-* [Laitenetti 0,128M:][dl2]: 3,90 1v (4,90)
+* [Laitenetti 0,128M][dl2]: 3,90 1v (4,90)
 
 [dl1]: https://kauppa4.dna.fi/c/DNA-Laitenetti-Plus/p/QDS00002
 [dl2]: https://kauppa4.dna.fi/c/DNA-Laitenetti/p/QDS00001

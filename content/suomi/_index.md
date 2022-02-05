@@ -3,13 +3,13 @@
 banner:
   title : "Laskut kuntoon helposti"
   #image : "images/banner-art.svg"
-  content : "Erikoistunut tiimimme kaivaa käsiinsä parhaat hinnat, joita ei aina heti etusivuilta löydy.<hr>
+  content : "Erikoistunut tiimimme kaivaa käsiinsä parhaat hinnat, joita ei aina heti etusivuilta löydy.<hr> 
   
-  ### Laskutkuntoon.fi on nyt julkaistu!"
+  ### Avaamassa uutta liittymää? Lue vinkit ja säästä"
   button:
     enable : true
-    label : "Lue lisää"
-    link : "blogi/laskutkuntoon-julkaistu"
+    label : "Blogiin"
+    link : "blogi/uusi-liittyma-vinkit"
 
 ##################### Feature ##########################
 feature:
@@ -26,7 +26,7 @@ feature:
     # feature item loop
     - name : "Netti kotiin ja mukaan"
       icon : "fas fa-laptop-house"
-      content : "Liikkuva laajakaista, mutta varaa jää myös siihen liikkumiseen.
+      content : "Liikkuva laajakaista, mutta varaa jää myös siihen liikkumiseen. Myös laitenetit.
       <hr>
       <a href='liittymat/netti'>**Nettiliittymiin**</a>"
       
