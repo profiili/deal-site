@@ -1,6 +1,6 @@
 ---
 title: "Uusi liittymä puhelimeen"
-subtitle: "Päivitetty 5.2.2022"
+subtitle: "Päivitetty 12.2.2022"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -104,7 +104,7 @@ Kaksi hintaa, valitse ylempi _Lisää koriin_.
 * Rajaton netti
 * Rajaton puhe
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][2a]
+[Tutustu <i class="fas fa-external-link-alt"></i>][2b]
 
 [1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M21103
 
@@ -277,7 +277,7 @@ Laskut veloitetaan kortilta.
 * Rajaton netti
 * Rajaton puhe
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][2a]
+[Tutustu <i class="fas fa-external-link-alt"></i>][2b]
 
 [1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21103
 
