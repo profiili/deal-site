@@ -4,7 +4,7 @@ date: 2021-12-30T00:00:00+02:00
 # post image
 image: "images/blog/julkaistu-001.png"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "This is meta description"
 # post draft

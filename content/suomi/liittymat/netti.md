@@ -1,6 +1,6 @@
 ---
 title: "Netti kotiin ja mukaan"
-subtitle: "Päivitetty 12.2.2022"
+subtitle: "Päivitetty 19.2.2022"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -270,7 +270,7 @@ Vain numeronsiirto tai siirron ohella uusi liittymä.
 {{</ sim-elisa >}}
 
 {{< sim-elisa "Mobiililaajakaista 4G 100M" >}}
-#### 14,20 1v (27,90)
+#### 16,90 1v (27,90)
 * Mobiililaajakaista
 * Rajaton netti
 

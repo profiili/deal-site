@@ -1,6 +1,6 @@
 ---
 title: "Uusi liittymä puhelimeen"
-subtitle: "Päivitetty 12.2.2022"
+subtitle: "Päivitetty 19.2.2022"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -43,13 +43,11 @@ Hyppää: [5G-liittymät](#5g) | [4G-liittymät](#4g) | [Elisa](#4g-elisa) | [DN
 
 <hr>
 
-Olipa tarve lapsen ensiliittymälle tai maiseman vaihdokselle, täältä löytyy liittymät uusilla numeroilla. Uusille liittymille ei yleisesti ole yhtä hyviä tarjouksia kuin numeronsiirroille, mutta esimerkiksi siirron yhteydessä voi usein avata uuden liittymän samalla tarjouksella.
-
-Jos haluat päivittää nykyisen liittymäsi, kannattaa vilkaista [kaikki puhelinliittymät](/liittymat/puhelin).
+Olipa tarve lapsen ensiliittymälle tai maiseman vaihdokselle, täältä löytyy liittymät uusilla numeroilla. Uusille liittymille ei yleisesti ole yhtä hyviä tarjouksia kuin numeronsiirroille, mutta esimerkiksi siirron yhteydessä voi usein avata toisen liittymän samalla tarjouksella. Jos haluat päivittää nykyisen liittymäsi (ja avata samalla uuden), kannattaa vilkaista [kaikki puhelinliittymät](/liittymat/puhelin).
 
 Me uskomme, että puhelinliittymästä saa maksaa aivan korkeintaan 30&nbsp;euroa kuukaudessa (360&nbsp;euroa vuodessa!), joten sitä kalliimpia liittymiä emme listaa.
 
-Jotkin liittymistä ovat tarkoitettu _lapselle_. Älä huoli, sillä lapsen liittymä edellyttää pelkästään uuden puhelinnumeron ottamista.
+> Uuden liittymän tilaaminen voi vaatia olemassa olevaa puhelinnumeroa esim. omissa henkilötiedoissa. Jotkin liittymät ovat merkitty _lapselle_. Lapsen liittymä edellyttää pelkästään uuden puhelinnumeron ottamista.
 
 
 <hr>
@@ -252,6 +250,8 @@ Laskut veloitetaan kortilta.
 * Lapselle
 * Rajaton netti
 * Puh/sms +0,07€/min/kpl
+
+Huom. Tilaus vahvistetaan puhelulla, joten hetkellinen pääsy olemassa olevaan numeroon vaaditaan.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 

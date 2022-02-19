@@ -7,37 +7,35 @@ draft: false
 ---
 
 {{< faq "Mikä on Laskutkuntoon.fi?" >}}
-Laskutkuntoon.fi on vuodesta 2021 asti toiminut tarjoussivusto. Keskitymme toistaiseksi operaattoreiden tarjontaan.
+Laskutkuntoon.fi on vuodesta 2021 asti toiminut tarjouksien koontisivusto. Keskitymme toistaiseksi operaattoreiden tarjontaan.
 
-Kuten monissa elämän osa-alueissa: perehtymällä säästää. Täysin ymmärrettävästi kaikilla ei ole aikaa tai kiinnostusta etsiä juuri omaa käyttöä vastaavaa liittymää. Tässä me astumme kuvaan.
+Kuten monissa elämän osa-alueissa: perehtymällä säästää. Täysin ymmärrettävästi kaikilla ei ole aikaa tai kiinnostusta etsiä juuri omaa käyttöä vastaavaa palvelua sopuhintaan. Tässä me astumme kuvaan.
 {{</ faq >}}
 
-{{< faq "Laskutkuntoon.fi:n tarina" >}}
+{{< faq "Tarinamme" >}}
 Homman idea lähti siitä, kun kuulimme jatkuvasti ystäviltä ja sukulaisilta, kuinka paljon nykyään jo pakolliseksi luokiteltavat palvelut, kuten puhelinliittymä tai kotinetti, maksavat heille kuukaudessa.
 
 Tiimillämme taas useampi liittymä maksoi yhteensä vähemmän kuin yksi "perusliittymä".
 
-Apua pyytäneille tuttaville säästöä kertyi jopa kolmannes pelkästään edelliseen laskuun verrattuna. Todellinen tarve selviää useammasta laskusta, joten sopivassa liittymässä on mahdollista säästää enemmän.
+Apua pyytäneille tuttaville säästöä kertyi heti kolmannes pelkästään edelliseen laskuun verrattuna. Todellinen käyttö ja tarve selviää useammasta edellisestä laskusta, joten juuri sinulle sopivassa liittymässä on mahdollista säästää enemmän.
 {{</ faq >}}
 
-{{< faq "Miten Laskutkuntoon.fi eroaa muista vertailusivuista?" >}}
+{{< faq "Miten eroamme muista vertailusivuista?" >}}
 Mielestämme erityisen meistä tekee seuraavat seikat:
 
-– Olemme täysin puolueettomia, emme seuraa sinua, emmekä saa välityspalkkiota.
+– Olemme täysin puolueettomia, emme imuroi tietojasi, emmekä saa välityspalkkiota.
 
 – Erikoistunut tiimimme kaivaa tarjoukset käsin pintaa syvemmältä ja listaamme parhaat vähintään viikoittain.
 
-– Tarjoamme henkilökohtaista neuvontaa juuri sinulle sopivan liittymän hankkimiseksi. Saatat päästä vielä halvemmalla kuin sivumme tarjoukset.
-
-– Voimme halutessasi muistuttaa sinua ennen tarjoushinnan loppumista.
+– Tarjoamme henkilökohtaista neuvontaa juuri sinulle sopivan liittymän hankkimiseksi. Saatat päästä vielä halvemmalla kuin listaamamme tarjoukset.
 {{</ faq >}}
 
 
 {{< faq "Maksaako Laskutkuntoon.fi?" >}}
 Sivuston käyttö ei maksa mitään. Toistaiseksi ei henkilökohtainen neuvontakaan.
 
-Vältämme ns. _gatekeepingiä_, joten jaamme tietomme julkisesti ja ilmaiseksi kaikkien hyödyksi.
+Jaamme tietomme julkisesti ja ilmaiseksi. Näin vältämme ns. _gatekeepingiä_. Haluamme vain olla hyödyksi.
 
-Myös sivuston ylläpitäminen on tällä hetkellä puoli-ilmaista. Mikäli tilanne tulevaisuudessa muuttuu, tutkimme tietenkin eri vaihtoehtoja.
+Sivuston ylläpitäminen on tällä hetkellä puoli-ilmaista. Mikäli tilanne tulevaisuudessa muuttuu, tutkimme tietenkin eri vaihtoehtoja.
 {{</ faq >}}
 

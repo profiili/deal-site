@@ -1,6 +1,6 @@
 ---
 title: "Liittymät puhelimeen"
-subtitle: "Päivitetty 12.2.2022"
+subtitle: "Päivitetty 19.2.2022"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -251,22 +251,6 @@ Laskut veloitetaan kortilta.
 [3]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Super-4G-Rajaton/p/MCAMP-PP-QVS000005
 {{</ sim-dna >}}
 
-<!-- ei järkevä
-{{< sim-dna "Nopea 4G Rajaton Plus 150M" >}}
-#### 17,90 1v (34,90)
-* Rajaton netti
-* Rajaton puhe
-* 1v määräaika
-
-[Tutustu <i class="fas fa-external-link-alt"></i>][3]
-
-[1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta%2C-rajaton-k%C3%A4ytt%C3%B6/DNA-Nopea-4G-Rajaton-Plus-/p/MCAMP-PP2-QVS000012
-
-[2]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Nopea-4G-Rajaton-Plus-/p/MCAMP-SH-QVS000012
-
-[3]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Nopea-4G-Rajaton-Plus-/p/MCAMP-PP-QVS000012
-{{</ sim-dna >}} -->
-
 {{< sim-dna "Nopea 4G Rajaton Plus 150M" >}}
 #### 18,90 1v (34,90)
 * Rajaton netti
@@ -278,26 +262,9 @@ Laskut veloitetaan kortilta.
 
 [2]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Nopea-4G-Rajaton-Plus-/p/MCAMP-SH-QVS000012
 
+<!-- 17,90 1v määräaika -->
 [3]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Nopea-4G-Rajaton-Plus-/p/MCAMP-PP-QVS000012
 {{</ sim-dna >}}
-
-<!-- ei järkevä 
-{{< sim-dna "Rajaton 4G 10M" >}}
-#### 14,90 1v (26,90)
-* Rajaton netti
-* Rajaton puhe
-* 1v määräaika
-
-[Tutustu <i class="fas fa-external-link-alt"></i>][4]
-
-[1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta%2C-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-PP4-QVS000016
-
-[2]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-SH-QVS000016
-
-[3]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-PP5-QVS000016
-
-[4]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-PP3-QVS000016
-{{</ sim-dna >}} -->
 
 {{< sim-dna "Rajaton 4G 10M" >}}
 #### 15,90 1v (26,90)
@@ -312,6 +279,7 @@ Laskut veloitetaan kortilta.
 
 [3]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-PP5-QVS000016
 
+<!-- 14,90 1v määräaika -->
 [4]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-PP3-QVS000016
 {{</ sim-dna >}}
 
