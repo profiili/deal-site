@@ -5,7 +5,7 @@ banner:
   #image : "images/banner-art.svg"
   content : "Erikoistunut tiimimme kaivaa käsiinsä parhaat hinnat, joita ei aina heti etusivuilta löydy.<hr> 
   
-  Ajankohtaista
+  **Ajankohtaista**
 
   ### Avaamassa uutta liittymää? Lue vinkit ja säästä"
   button:

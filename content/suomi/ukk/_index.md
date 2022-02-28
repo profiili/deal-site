@@ -4,6 +4,16 @@ subtitle: "Täältä löytyy vastaus yleisimpiin kysymyksiin. Jos et löydä ets
 # meta description
 description: "This is meta description"
 draft: false
+
+call_to_action:
+  enable : true
+  title : "Apua valintaan?"
+  image : "images/cta.svg"
+  content : "Liikaa valinnanvaraa? Etkö ole varma, mitä kaikkea liittymältä tarvitset? Etsitään juuri sinulle sopiva ratkaisu!"
+  button:
+    enable : true
+    label : "Ota yhteyttä"
+    link : "/ota-yhteytta"
 ---
 
 {{< faq "Mikä on Laskutkuntoon.fi?" >}}

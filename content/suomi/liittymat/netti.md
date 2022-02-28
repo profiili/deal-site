@@ -1,6 +1,6 @@
 ---
 title: "Netti kotiin ja mukaan"
-subtitle: "Päivitetty 19.2.2022"
+subtitle: "Päivitetty 28.2.2022"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -79,7 +79,7 @@ Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
 <!-- Elisa Saunalahti 5G -->
 
 {{< sim-elisa "Saunalahti Huoleton 5G 300M" >}}
-#### 29,99 2v (34,99)
+#### 29,99 1v (34,99)
 * Puhelinliittymä
 * Rajaton netti
 * 50€ S-ryhmän lahjakortti
@@ -161,9 +161,8 @@ Huom. Samaan hintaan tarjolla myös nopeampi 400M.
 #### 29,90 2v (34,90)
 * Puhelinliittymä
 * Rajaton netti
-* 30€ Lidlin lahjakortti
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][2b]
+[Tutustu <i class="fas fa-external-link-alt"></i>][2a]
 
 [1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M21103
 
@@ -461,9 +460,8 @@ Vain keskittäjille.
 #### 19,90 1v (32,90)
 * Puhelinliittymä
 * Rajaton netti
-* 30€ Lidlin lahjakortti
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][2b]
+[Tutustu <i class="fas fa-external-link-alt"></i>][2a]
 
 [1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21103
 
@@ -558,7 +556,7 @@ Vain keskittäjille.
 
 Vain keskittäjille.
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][2b]
+[Tutustu <i class="fas fa-external-link-alt"></i>][2a]
 
 [1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=Asiakasetu&kampanja=keskittajaMBT21103
 
@@ -569,6 +567,7 @@ Vain keskittäjille.
 [2b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=Asiakasetu&kampanja=100MBT22016LK
 {{</ sim-telia >}}
 
+<!-- vanhentunut
 {{< sim-telia "Yhteys Mukaan kotimaa 50M" >}}
 #### 6,90 1v (18,90)
 * Mobiililaajakaista
@@ -588,7 +587,7 @@ Vain keskittäjille.
 [3a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKotimaassa&Kampanja=YMK50M22015
 
 [3b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKotimaassa&Kampanja=YMK50M22015LK
-{{</ sim-telia >}}
+{{</ sim-telia >}} -->
 
 {{< sim-telia "Yhteys Mukaan kotimaa 50M" >}}
 #### 12,90 1v (18,90)

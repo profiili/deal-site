@@ -1,24 +1,10 @@
 ---
-title: "Uusi liittymä puhelimeen"
+title: "Liittymät puhelimeen"
 subtitle: "Päivitetty 28.2.2022"
-# post image
-image: "/images/blog/post-1.jpg"
-# post type (regular/featured)
-type: "regular"
 # meta description
 description: "This is meta description"
 # post draft
 draft: false
-
-call_to_action:
-  enable : true
-  title : "Apua valintaan?"
-  image : "images/cta.svg"
-  content : "Liikaa valinnanvaraa? Etkö ole varma, mitä kaikkea liittymältä tarvitset? Etsitään juuri sinulle sopiva ratkaisu!"
-  button:
-    enable : true
-    label : "Ota yhteyttä"
-    link : "/ota-yhteytta"
 ---
 
 <!-- 
@@ -43,31 +29,69 @@ Hyppää: [5G-liittymät](#5g) | [4G-liittymät](#4g) | [Elisa](#4g-elisa) | [DN
 
 <hr>
 
-Olipa tarve lapsen ensiliittymälle tai maiseman vaihdokselle, täältä löytyy liittymät uusilla numeroilla. Uusille liittymille ei yleisesti ole yhtä hyviä tarjouksia kuin numeronsiirroille, mutta esimerkiksi siirron yhteydessä voi usein avata toisen liittymän samalla tarjouksella. Jos haluat päivittää nykyisen liittymäsi (ja avata samalla uuden), kannattaa vilkaista [kaikki puhelinliittymät](/liittymat/puhelin).
+Tältä sivulta löydät keräämämme liittymätarjoukset. Suurinta osaa ei heti etusivulta löydy! Me uskomme, että puhelinliittymästä saa maksaa aivan korkeintaan 30 euroa kuukaudessa (360 euroa vuodessa!), joten sitä kalliimpia liittymiä emme listaa.
 
-Me uskomme, että puhelinliittymästä saa maksaa aivan korkeintaan 30&nbsp;euroa kuukaudessa (360&nbsp;euroa vuodessa!), joten sitä kalliimpia liittymiä emme listaa.
+Useimmat tarjoukset vaativat numeronsiirtoa toiselta operaattorilta. Jos olet täysin uuden numeron perässä, kannattaa vilkaista [uudet liittymät](/liittymat/uusi-liittyma).
 
-> Uuden liittymän tilaaminen voi vaatia olemassa olevaa puhelinnumeroa esim. omissa henkilötiedoissa. Jotkin liittymät ovat merkitty _lapselle_. Lapsen liittymä edellyttää pelkästään uuden puhelinnumeron ottamista.
+Voit joutua syöttämään puhelinnumeron ennen tarjousta.
 
+<!-- taulukko
+[Perinteinen taulukko (suurelle näytölle) <i class="fas fa-arrow-right"></i>](/liittymat/puhelin-v1) -->
+
+{{< faq "Huolettaako määräaikaisuus?" >}}
+Tarkista nykyisen liittymäsi määräaika helposti:
+
+Lähetä maksuton viesti **SOPIMUS** numeroon **18321**. Saat paluuviestinä tiedon määräaikaisuudesta ja sen kestosta. Viesti kertoo myös, jos liittymäsopimus on toistaiseksi voimassa.
+
+Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
+
+[1]: https://www.traficom.fi/fi/ajankohtaista/kuluttajille-mahdollisuus-tarkastaa-tekstiviestilla-matkapuhelinsopimuksensa
+{{</ faq >}}
+
+{{< faq "Huolettaako määräaikaisuus?" >}}
+Tarkista nykyisen liittymäsi määräaika helposti:
+
+Lähetä maksuton viesti **SOPIMUS** numeroon **18321**. Saat paluuviestinä tiedon määräaikaisuudesta ja sen kestosta. Viesti kertoo myös, jos liittymäsopimus on toistaiseksi voimassa.
+
+Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
+
+[1]: https://www.traficom.fi/fi/ajankohtaista/kuluttajille-mahdollisuus-tarkastaa-tekstiviestilla-matkapuhelinsopimuksensa
+{{</ faq >}}
 
 <hr>
 
 <a name="5g"></a>
 ### 5G-liittymät
 
-4 liittymää
+5 liittymää
+
+<!-- Elisa Saunalahti 5G -->
+
+{{< sim-elisa "Saunalahti Huoleton 5G 300M" >}}
+#### 29,99 1v (34,99)
+* Rajaton netti
+* Rajaton puhe
+* 50€ S-ryhmän lahjakortti
+
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
+
+[1]: https://elisa.fi/kauppa/erikoistarjous
+{{</ sim-elisa >}}
 
 <!-- DNA 5G -->
+
 {{< sim-dna "DNA Rajaton 5G 400M" >}}
 #### 29,90 1v (36,90)
 * Rajaton netti
 * Rajaton puhe
 
-Kaksi hintaa, valitse ylempi _Lisää koriin_.
+Huom. Kaksi hintaa, valitse ylempi _Lisää koriin_.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-5G-400M/p/MCAMP-G4-QVS000014
+
+[2]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-5G-400M/p/MCAMP-SH-QVS000014
 {{</ sim-dna >}}
 
 <!-- tarjolla nopeampi
@@ -76,12 +100,15 @@ Kaksi hintaa, valitse ylempi _Lisää koriin_.
 * Rajaton netti
 * Rajaton puhe
 
+Huom. Samaan hintaan tarjolla myös nopeampi 400M.
+
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://kauppa4.dna.fi/Puhelinliittymät/Kiinteä-hinta,-rajaton-käyttö/DNA-Rajaton-5G-200M/p/QVS000017
 {{</ sim-dna >}} -->
 
 <!-- Telia 5G -->
+
 <!-- Piilotettu: nyt liian kallis
 {{< sim-telia "Telia Rajaton 5G 450M" >}}
 #### 32,90 1v (44,90)
@@ -95,7 +122,6 @@ Kaksi hintaa, valitse ylempi _Lisää koriin_.
 
 [1b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G450M&kampanja=R5G450M21103LK
 {{</ sim-telia >}} -->
-
 
 {{< sim-telia "Telia Rajaton 5G 300M" >}}
 #### 29,90 2v (34,90)
@@ -131,10 +157,11 @@ Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 {{</ sim-telia >}}
 
 <!-- Moi 5G -->
+
 {{< sim-moi "Moi Reilu 5G 400M" >}}
 #### 19,00–27,00
 * Rajaton netti
-* Puh/sms 0,055€/min/kpl, maks. +4€
+* Puh/sms +0,055€/min/kpl, maks. +4€
 * Hinta käytetyn verkon mukaan (4G/5G)
 
 Laskut veloitetaan kortilta.
@@ -151,58 +178,59 @@ Laskut veloitetaan kortilta.
 <a name="4g"></a>
 ### 4G-liittymät
 
+<!-- Elisa Saunalahti 4G -->
+
 <a name="4g-elisa"></a>
 ### Elisa Saunalahti
 
-3 liittymää. Puhelinnumeron muoto 045&nbsp;xxx&nbsp;xxxx.
+2 liittymää
+
+<!-- vanhentunut
+{{< sim-elisa "Huoleton 200M" >}}
+#### 19,90 2v (31,90)
+* Rajaton netti
+* Rajaton puhe
+* 50€ S-ryhmän lahjakortti
+
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
+
+[1]: https://elisa.fi/kauppa/erikoistarjous
+{{</ sim-elisa >}} -->
 
 {{< sim-elisa "Huoleton 150M" >}}
 #### 19,99 1v (29,99)
-* Lapselle
 * Rajaton netti
 * Rajaton puhe
+* 50€ S-ryhmän lahjakortti
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
-[1]: https://elisa.fi/kauppa/liittyma-lapselle
+[1]: https://elisa.fi/kauppa/erikoistarjous
 {{</ sim-elisa >}}
-
 
 {{< sim-elisa "Huoleton 10M" >}}
 #### 17,99 1v (26,99)
-* Lapselle
 * Rajaton netti
 * Rajaton puhe
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
-[1]: https://elisa.fi/kauppa/liittyma-lapselle
+[1]: https://elisa.fi/kauppa/erikoistarjous
 {{</ sim-elisa >}}
+<!-- /liittymat -->
 
-
-{{< sim-elisa "Tarkka 1M" >}}
-#### 9,99 1v (12,99)
-* Lapselle
-* Rajaton netti
-* Puh/sms +0,069€/min/kpl
-
-[Tutustu <i class="fas fa-external-link-alt"></i>][1]
-
-[1]: https://elisa.fi/kauppa/liittyma-lapselle
-{{</ sim-elisa >}}
-
-
-[elapsi]: https://elisa.fi/kauppa/liittyma-lapselle
+[enum]: https://elisa.fi/kauppa/erikoistarjous
 
 [Takaisin ylös](#)
 
 <hr>
 
+<!-- DNA 4G -->
+
 <a name="4g-dna"></a>
 ### DNA
 
-4 liittymää. Puhelinnumeron muoto 044&nbsp;xxx&nbsp;xxxx.
-
+3 liittymää
 
 {{< sim-dna "Super 4G Rajaton 300M" >}}
 #### 19,90 1v (39,90)
@@ -214,8 +242,9 @@ Laskut veloitetaan kortilta.
 [1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta%2C-rajaton-k%C3%A4ytt%C3%B6/DNA-Super-4G-Rajaton/p/MCAMP-YO1-QVS000005
 
 [2]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Super-4G-Rajaton/p/MCAMP-SH-QVS000005
-{{</ sim-dna >}}
 
+[3]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Super-4G-Rajaton/p/MCAMP-PP-QVS000005
+{{</ sim-dna >}}
 
 {{< sim-dna "Nopea 4G Rajaton Plus 150M" >}}
 #### 18,90 1v (34,90)
@@ -228,8 +257,8 @@ Laskut veloitetaan kortilta.
 
 [2]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Nopea-4G-Rajaton-Plus-/p/MCAMP-SH-QVS000012
 
-<!-- 19,99 1v (34,90) -->
-[3]: https://www.dna.fi/kouluun/liittymat
+<!-- 17,90 1v määräaika -->
+[3]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Nopea-4G-Rajaton-Plus-/p/MCAMP-PP-QVS000012
 {{</ sim-dna >}}
 
 {{< sim-dna "Rajaton 4G 10M" >}}
@@ -241,36 +270,26 @@ Laskut veloitetaan kortilta.
 
 [1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta%2C-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-PP4-QVS000016
 
-<!-- 15,99 1v (26,90) -->
-[2]: https://www.dna.fi/kouluun/liittymat
+[2]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-SH-QVS000016
+
+[3]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-PP5-QVS000016
+
+<!-- 14,90 1v määräaika -->
+[4]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-PP3-QVS000016
 {{</ sim-dna >}}
-
-{{< sim-dna "Jämpti 1M" >}}
-#### 9,99 1v (12,90)
-* Lapselle
-* Rajaton netti
-* Puh/sms +0,07€/min/kpl
-
-Huom. Tilaus vahvistetaan puhelulla, joten hetkellinen pääsy olemassa olevaan numeroon vaaditaan.
-
-[Tutustu <i class="fas fa-external-link-alt"></i>][1]
-
-[1]: https://www.dna.fi/kouluun/liittymat
-{{</ sim-dna >}}
-
 
 [dnum]: https://www.dna.fi/sinunhintasi
-[dlapsi]: https://www.dna.fi/kouluun/liittymat
 
 [Takaisin ylös](#)
 
 <hr>
 
+<!-- Telia 4G -->
+
 <a name="4g-telia"></a>
 ### Telia
 
-3 liittymää. Puhelinnumeron muoto 040&nbsp;xxx&nbsp;xxxx.
-
+3 liittymää
 
 {{< sim-telia "Rajaton 200M" >}}
 #### 19,90 1v (32,90)
@@ -301,6 +320,7 @@ Huom. Tilaus vahvistetaan puhelulla, joten hetkellinen pääsy olemassa olevaan 
 [1b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton150M&kampanja=R150M21103LK
 {{</ sim-telia >}} -->
 
+
 {{< sim-telia "Rajaton 20M" >}}
 #### 16,90 1v (26,90)
 * Rajaton netti
@@ -325,29 +345,45 @@ Huom. Tilaus vahvistetaan puhelulla, joten hetkellinen pääsy olemassa olevaan 
 [4b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M22017LK
 {{</ sim-telia >}}
 
-
 {{< sim-telia "Rajaton Lite 0,5M" >}}
 #### 9,90
 * Rajaton netti
 * Puh/sms +0,07€/min/kpl
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1b]
 
-[1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=RajatonLite05M
+[1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=RajatonLite05M
+
+[1b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=RajatonLite05MLK
 {{</ sim-telia >}}
 
+{{< faq "Sama liittymä toiseen laitteeseen?" >}}
+* Sama netti, maks. 300M
+* Puhelut ja viestit
+
+**Telia Yhteys Multi** -liittymällä saat nykyisen numerosi toiseen laitteeseen, kuten kelloon, puhelimeen tai tablettiin, jopa halvemmalla kuin erillisen liittymän.
+
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
+
+[1]: https://www.telia.fi/kauppa/liittymat/yhteysmulti
+{{</ faq >}}
 
 [tnum]: https://www.telia.fi/kampanjat/liittymat/huippudiili
-[tlapsi]: https://www.telia.fi/kauppa/liittymat/liittyma-lapselle
+
+[taloyhtiolle]: https://www.telia.fi/kampanjat/liittymat/liittymaetu
+
+[taloyhtiolle2]: https://telia.fi/liittymaetu
 
 [Takaisin ylös](#)
 
 <hr>
 
+<!-- Telia Dot 4G -->
+
 <a name="4g-dot"></a>
 ### Telia Dot
 
-3 liittymää. Puhelinnumeron muoto 040&nbsp;22x&nbsp;xxxx.
+3 liittymää
 
 {{< sim-telia "4G Rajaton+ 200M" >}}
 #### 0,00 1kk (26,00)
@@ -397,16 +433,20 @@ Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
 <hr>
 
+<!-- Moi 4G -->
+
 <a name="4g-moi"></a>
 ### Moi
 
-3 liittymää. Puhelinnumeron muoto 045&nbsp;7xx&nbsp;xxxxx.
+3 liittymää
 
 {{< sim-moi "Reilu 5G 400M" >}}
 #### 19,00
 * Rajaton netti
 * Puh/sms +0,055€/min/kpl, maks. +4€
-* Hinta pelkästään 4G-verkossa
+* Hinta 4G-verkossa
+
+Huom. Netti ei välttämättä yllä 400M nopeuteen 4G-verkossa.
 
 Laskut veloitetaan kortilta.
 
@@ -444,14 +484,16 @@ Laskut veloitetaan kortilta. Samanlaisten liittymien data kasvaa yhdeksi potiksi
 
 <hr>
 
+<!-- Globetel 4G -->
+
 <a name="4g-globetel"></a>
 ### Globetel
 
-4 liittymää. Puhelinnumeron muoto 040&nbsp;952&nbsp;xxxx.
+4 liittymää
 
 {{< sim-globetel "Jätti" >}}
 #### 11,95
-* Netti lisämaksusta
+* Netti lisämaksusta, maks. 100M
 * Rajaton puhe
 
 Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
@@ -463,7 +505,7 @@ Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut
 
 {{< sim-globetel "Pieni" >}}
 #### 9,90
-* Netti lisämaksusta
+* Netti lisämaksusta, maks. 100M
 * Puh/sms 500min/kpl, ylimenevät +0,069€/min/kpl
 
 Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
@@ -475,7 +517,7 @@ Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut
 
 {{< sim-globetel "Mini" >}}
 #### 7,90
-* Netti lisämaksusta
+* Netti lisämaksusta, maks. 100M
 * Puh/sms 300min/kpl, ylimenevät +0,069€/min/kpl
 
 Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
@@ -487,7 +529,7 @@ Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut
 
 {{< sim-globetel "Perus" >}}
 #### 4,90
-* Netti lisämaksusta
+* Netti lisämaksusta, maks. 100M
 * Puh/sms +0,059€/min/kpl
 
 Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut).
@@ -500,6 +542,8 @@ Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut
 [Takaisin ylös](#)
 
 <hr>
+
+<a name="help"></a>
 
 {{< faq "Apua valintaan?" >}}
 Liikaa valinnanvaraa? Etkö ole varma, mitä kaikkea liittymältä tarvitset? Etsitään juuri sinulle sopiva ratkaisu!
