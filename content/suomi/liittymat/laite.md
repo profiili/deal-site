@@ -1,6 +1,6 @@
 ---
 title: "Laitenetti"
-subtitle: "Päivitetty 18.2.2022"
+subtitle: "Päivitetty 12.3.2022"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)

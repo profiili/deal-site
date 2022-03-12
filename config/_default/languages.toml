@@ -33,7 +33,7 @@ copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [
 ############################# Suomi ############################
 [fi]
 languageName = "Fi"
-title = "Laskut kuntoon – Laskutkuntoon.fi"
+title = "Laskut kuntoon helposti – Laskutkuntoon.fi"
 contentDir = "content/suomi" # content/finnish
 weight = 3
 ########### footer content ##########
@@ -42,6 +42,6 @@ footer_menu_middle = "Liittymät"
 footer_menu_right = "Tuki"
 footer_content = "Laskutkuntoon.fi on projekti, jonka tavoite on koota parhaat hinnat yhteen paikkaan."
 # copyright
-copyright = "&copy; 2021 Laskutkuntoon.fi | Teema: [Themefisher](https://themefisher.com/) &amp; [Gethugothemes](https://gethugothemes.com/)"
+copyright = "&copy; 2022 Laskutkuntoon.fi | Teema: [Themefisher](https://themefisher.com/) &amp; [Gethugothemes](https://gethugothemes.com/)"
 
 

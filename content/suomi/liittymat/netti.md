@@ -1,6 +1,6 @@
 ---
 title: "Netti kotiin ja mukaan"
-subtitle: "Päivitetty 28.2.2022"
+subtitle: "Päivitetty 12.3.2022"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -110,8 +110,6 @@ Vain numeronsiirto tai siirron ohella uusi liittymä.
 * Puhelinliittymä
 * Rajaton netti
 
-Kaksi hintaa, valitse ylempi _Lisää koriin_.
-
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-5G-400M/p/MCAMP-G4-QVS000014
@@ -161,8 +159,9 @@ Huom. Samaan hintaan tarjolla myös nopeampi 400M.
 #### 29,90 2v (34,90)
 * Puhelinliittymä
 * Rajaton netti
+* 30€ Lidlin lahjakortti
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][2a]
+[Tutustu <i class="fas fa-external-link-alt"></i>][2b]
 
 [1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M21103
 
@@ -225,7 +224,7 @@ Laskut veloitetaan kortilta.
 <a name="4g-elisa"></a>
 ### Elisa Saunalahti
 
-5 liittymää. Tarkista kotiosoitteesi tarjonta: [Elisa][e4gkoti]
+4 liittymää. Tarkista kotiosoitteesi tarjonta: [Elisa][e4gkoti]
 
 [e4gkoti]: https://elisa.fi/kauppa/nettiliittymat/kiinteat-laajakaistat
 
@@ -269,30 +268,25 @@ Vain numeronsiirto tai siirron ohella uusi liittymä.
 {{</ sim-elisa >}}
 
 {{< sim-elisa "Mobiililaajakaista 4G 100M" >}}
-#### 16,90 1v (27,90)
+#### 22,99 1v (27,99)
 * Mobiililaajakaista
 * Rajaton netti
-
-Vain numeronsiirron yhteydessä tilattuna.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
-[1]: https://elisa.fi/kauppa/erikoistarjous
-{{</ sim-elisa >}}
-
-{{< sim-elisa "Mobiililaajakaista 4G 100M" >}}
-#### 23,90 1v (27,90)
-* Mobiililaajakaista
-* Rajaton netti
+#### 14,99 1v (27,99)
+Vain numeronsiirron ohella tilattuna.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://elisa.fi/kauppa/nettiliittymat/mobiililaajakaista
+
+[2]: https://elisa.fi/kauppa/erikoistarjous
 {{</ sim-elisa >}}
 
 
 {{< sim-elisa "Mobiililaajakaista Tablet 4G 100M" >}}
-#### 4,90
+#### 4,99
 * Mobiililaajakaista
 * Netti käytön mukaan +0,99€/vrk
 
@@ -312,7 +306,7 @@ Vain numeronsiirron yhteydessä tilattuna.
 <a name="4g-dna"></a>
 ### DNA
 
-9 liittymää. Tarkista kotiosoitteesi tarjonta: [DNA][d4gkoti]
+8 liittymää. Tarkista kotiosoitteesi tarjonta: [DNA][d4gkoti]
 
 [d4gkoti]: https://kauppa4.dna.fi/laajakaista
 
@@ -356,7 +350,7 @@ Vain numeronsiirron yhteydessä tilattuna.
 
 
 {{< sim-dna "Liikkuva 4G 200M" >}}
-#### 25,90 1v (29,90)
+#### 25,99 1v (29,90)
 * Mobiililaajakaista
 * Rajaton netti
 
@@ -379,25 +373,20 @@ Vain keskittäjille.
 {{</ sim-dna >}}
 
 {{< sim-dna "Liikkuva 4G 100M" >}}
-#### 17,99 2v (24,90)
+#### 23,99 1v (24,90)
 * Mobiililaajakaista
 * Rajaton netti
 
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
+
+#### 17,99 2v (24,90)
 Vain keskittäjille.
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][1]
-
-[1]: https://kauppa4.dna.fi/c/Keskitt%C3%A4misetu:-DNA-Liikkuva-4G-100M/p/MCAMP00020-VT4G000002
-{{</ sim-dna >}}
-
-{{< sim-dna "Liikkuva 4G 100M" >}}
-#### 23,90 1v (24,90)
-* Mobiililaajakaista
-* Rajaton netti
-
-[Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][2]
 
 [1]: https://kauppa4.dna.fi/c/DNA-Liikkuva-4G-100M/p/VT4G000002
+
+[2]: https://kauppa4.dna.fi/c/Keskitt%C3%A4misetu:-DNA-Liikkuva-4G-100M/p/MCAMP00020-VT4G000002
 {{</ sim-dna >}}
 
 {{< sim-dna "Matkanetti 4G 50M" >}}
@@ -460,8 +449,9 @@ Vain keskittäjille.
 #### 19,90 1v (32,90)
 * Puhelinliittymä
 * Rajaton netti
+* 30€ Lidlin lahjakortti
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][2a]
+[Tutustu <i class="fas fa-external-link-alt"></i>][2b]
 
 [1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21103
 

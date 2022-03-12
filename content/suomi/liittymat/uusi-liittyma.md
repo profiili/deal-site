@@ -1,6 +1,6 @@
 ---
 title: "Uusi liittymä puhelimeen"
-subtitle: "Päivitetty 28.2.2022"
+subtitle: "Päivitetty 12.3.2022"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -47,7 +47,7 @@ Olipa tarve lapsen ensiliittymälle tai maiseman vaihdokselle, täältä löytyy
 
 Me uskomme, että puhelinliittymästä saa maksaa aivan korkeintaan 30&nbsp;euroa kuukaudessa (360&nbsp;euroa vuodessa!), joten sitä kalliimpia liittymiä emme listaa.
 
-> Uuden liittymän tilaaminen voi vaatia olemassa olevaa puhelinnumeroa esim. omissa henkilötiedoissa. Jotkin liittymät ovat merkitty _lapselle_. Lapsen liittymä edellyttää pelkästään uuden puhelinnumeron ottamista.
+> Uuden liittymän tilaaminen voi vaatia olemassa olevaa puhelinnumeroa tilaajan henkilötietoihin. Jotkin liittymät ovat merkitty _lapselle_. Lapsen liittymä edellyttää pelkästään uuden puhelinnumeron ottamista.
 
 
 <hr>
@@ -62,8 +62,6 @@ Me uskomme, että puhelinliittymästä saa maksaa aivan korkeintaan 30&nbsp;euro
 #### 29,90 1v (36,90)
 * Rajaton netti
 * Rajaton puhe
-
-Kaksi hintaa, valitse ylempi _Lisää koriin_.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -101,8 +99,9 @@ Kaksi hintaa, valitse ylempi _Lisää koriin_.
 #### 29,90 2v (34,90)
 * Rajaton netti
 * Rajaton puhe
+* 30€ Lidlin lahjakortti
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][2a]
+[Tutustu <i class="fas fa-external-link-alt"></i>][2b]
 
 [1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M21103
 
@@ -224,9 +223,16 @@ Laskut veloitetaan kortilta.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
+#### 17,90 1v (34,90)
+* 1v määräaika
+
+[Tutustu <i class="fas fa-external-link-alt"></i>][3]
+
 [1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta%2C-rajaton-k%C3%A4ytt%C3%B6/DNA-Nopea-4G-Rajaton-Plus-/p/MCAMP-PP2-QVS000012
 
 [2]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Nopea-4G-Rajaton-Plus-/p/MCAMP-SH-QVS000012
+
+[3]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Nopea-4G-Rajaton-Plus-/p/MCAMP-PP-QVS000012
 
 <!-- 19,99 1v (34,90) -->
 [3]: https://www.dna.fi/kouluun/liittymat
@@ -239,7 +245,14 @@ Laskut veloitetaan kortilta.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
+#### 14,90 1v (34,90)
+* 1v määräaika
+
+[Tutustu <i class="fas fa-external-link-alt"></i>][2]
+
 [1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta%2C-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-PP4-QVS000016
+
+[2]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-PP3-QVS000016
 
 <!-- 15,99 1v (26,90) -->
 [2]: https://www.dna.fi/kouluun/liittymat
@@ -250,8 +263,6 @@ Laskut veloitetaan kortilta.
 * Lapselle
 * Rajaton netti
 * Puh/sms +0,07€/min/kpl
-
-Huom. Tilaus vahvistetaan puhelulla, joten hetkellinen pääsy olemassa olevaan numeroon vaaditaan.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -276,8 +287,9 @@ Huom. Tilaus vahvistetaan puhelulla, joten hetkellinen pääsy olemassa olevaan 
 #### 19,90 1v (32,90)
 * Rajaton netti
 * Rajaton puhe
+* 30€ Lidlin lahjakortti
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][2a]
+[Tutustu <i class="fas fa-external-link-alt"></i>][2b]
 
 [1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21103
 

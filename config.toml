@@ -1,5 +1,5 @@
 baseURL = "https://www.laskutkuntoon.fi"
-title = "Laskut kuntoon – Laskutkuntoon.fi"
+title = "Laskut kuntoon helposti – Laskutkuntoon.fi"
 theme = "bigspring-light"
 # post pagination
 paginate = "6"
