@@ -39,6 +39,8 @@ Ideoita saa lähettää laskutkuntoon.fi/ota-yhteytta.
 
 -->
 
+> **Huom. Päivitetty 12.3.** Tarjoukset päivitetään mahdollisimman pian. Pahoittelemme viivästystä.
+
 Hyppää: [Elisa](#elisa) | [DNA](#dna) | [Telia](#telia) | [Moi](#moi) | [Globetel](#globetel)
 
 Etsitkö [mobiililaajakaistaa](/liittymat/netti)?

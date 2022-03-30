@@ -1,8 +1,6 @@
 ---
 title: "Avaamassa uutta liittymää? Lue vinkit ja säästä"
 date: 2022-02-05T12:00:00+02:00
-# publishDate: 
-# expiryDate: 
 # post image
 image: "images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -23,7 +21,7 @@ Nopein tapa avata uusi liittymä on tarkistaa listamme [uusista liittymistä](/l
 
 ### Suurin hyöty
 
-Jos sinulla on käytössäsi älypuhelin ja maksukortti, kätevä valinta on [Telia Dot](/liittymat/uusi-liittyma#4g-dot). Kirjoitushetkellä liittymissä ei ole avausmaksua, saat kuukauden ilmaista peruskäyttöä sekä vielä 30&nbsp;euroa ostosrahaa Lidliin per liittymä. Lue ja noudata ehtoja huolellisesti.
+Jos sinulla on käytössäsi älypuhelin ja maksukortti, kätevä valinta on [Telia Dot](/liittymat/uusi-liittyma#4g-dot). Kirjoitushetkellä liittymissä ei ole avausmaksua, saat kuukauden ilmaista peruskäyttöä sekä vielä 30&nbsp;euroa ostosrahaa Lidliin per liittymä. Lue ja noudata ehtoja huolellisesti. Uuden numeron muoto 040&nbsp;22x&nbsp;xxxx.
 
 Kun lahjakortit saapuvat, vilkaise [numeronsiirron vaativat liittymät](/liittymat/puhelin). Liittymän voi siirtää normaalisti toiselle operaattorille. Vaikka Telia ja Telia Dot ovat erillisiä, suoraan Telialle siirtäminen saattaa tuottaa ongelmia. Telialle siirto onnistuu kuitenkin siirtämällä liittymä välissä toiselle operaattorille.
 

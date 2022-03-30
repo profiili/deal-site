@@ -39,6 +39,8 @@ Ideoita saa lähettää laskutkuntoon.fi/ota-yhteytta.
 
 -->
 
+> **Huom. Päivitetty 12.3.** Tuoreimmat puhelinliittymätarjoukset löydät [täältä](/liittymat/puhelin). Muut tarjoukset päivitetään mahdollisimman pian. Pahoittelemme viivästystä.
+
 Hyppää: [5G-netti](#5g) | [4G-netti](#4g) | [Elisa](#4g-elisa) | [DNA](#4g-dna) | [Telia](#4g-telia) | [Telia Dot](#4g-dot) | [Moi](#4g-moi) | [Globetel](#4g-globetel)
 
 Etsitkö [laitenettiä?](/liittymat/laite)

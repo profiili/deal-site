@@ -1,6 +1,6 @@
 ---
 title: "Liittymät puhelimeen"
-subtitle: "Päivitetty 12.3.2022"
+subtitle: "Päivitetty 30.3.2022"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -75,7 +75,7 @@ Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
 #### 29,99 1v (34,99)
 * Rajaton netti
 * Rajaton puhe
-* 50€ S-ryhmän lahjakortti
+* 30€ S-ryhmän lahjakortti
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -129,9 +129,8 @@ Huom. Samaan hintaan tarjolla myös nopeampi 400M.
 #### 29,90 2v (34,90)
 * Rajaton netti
 * Rajaton puhe
-* 30€ Lidlin lahjakortti
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][2b]
+[Tutustu <i class="fas fa-external-link-alt"></i>][2a]
 
 [1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M21103
 
@@ -204,7 +203,7 @@ Laskut veloitetaan kortilta.
 #### 19,99 1v (29,99)
 * Rajaton netti
 * Rajaton puhe
-* 50€ S-ryhmän lahjakortti
+* 30€ S-ryhmän lahjakortti
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -308,9 +307,8 @@ Laskut veloitetaan kortilta.
 #### 19,90 1v (32,90)
 * Rajaton netti
 * Rajaton puhe
-* 30€ Lidlin lahjakortti
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][2b]
+[Tutustu <i class="fas fa-external-link-alt"></i>][2a]
 
 [1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21103
 

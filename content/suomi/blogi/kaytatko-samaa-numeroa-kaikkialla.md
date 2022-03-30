@@ -1,8 +1,6 @@
 ---
 title: "Käytätkö samaa numeroa kaikkialla? Ei ehkä kannattaisi"
 date: 2021-11-29T12:09:06+02:00
-# publishDate: 
-# expiryDate: 
 # post image
 image: "images/blog/post-2.jpg"
 # post type (regular/featured)
@@ -13,6 +11,8 @@ description: "This is meta description"
 draft: true
 ---
 
-Yritykset ja palvelut keräävät jatkuvasti lisää tietoa asiakkaistaan. Nykyään tv-suoratoistopalvelu vaatii kotiosoitteesi ja puhelinnumerosi, ja pizzaravintolan verkkokauppa sukupuolesi. Uuden sähköpostiosoitteen voi luoda noin vaan, mutta muita tietoja ei ihan tuulesta temmatakaan.
+x.x.2022
 
-Tänään mietitään puhelinnumeroa, sillä se on varmasti sähköpostin jälkeen pakollisin tieto.
+Yritykset ja palvelut keräävät jatkuvasti lisää tietoa asiakkaistaan. Nykyään tv-suoratoistopalvelu vaatii kotiosoitteesi ja puhelinnumerosi, ja pizzerian verkkokauppa sukupuolesi. Uuden sähköpostiosoitteen voi luoda pienellä vaivalla, mutta muita tietoja ei ihan tuulesta temmatakaan.
+
+Tänään mietitään puhelinnumeroa, sillä se on varmasti sähköpostin ohella usein vaadittu tieto.
