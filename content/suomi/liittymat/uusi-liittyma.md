@@ -1,6 +1,6 @@
 ---
 title: "Uusi liittymä puhelimeen"
-subtitle: "Päivitetty 12.3.2022"
+subtitle: "Päivitetty 8.4.2022"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -38,8 +38,6 @@ Ideoita saa lähettää laskutkuntoon.fi/ota-yhteytta.
 
 
 -->
-
-> **Huom. Päivitetty 12.3.** Tarjoukset päivitetään mahdollisimman pian. Pahoittelemme viivästystä.
 
 Hyppää: [5G-liittymät](#5g) | [4G-liittymät](#4g) | [Elisa](#4g-elisa) | [DNA](#4g-dna) | [Telia](#4g-telia) | [Telia Dot](#4g-dot) | [Moi](#4g-moi) | [Globetel](#4g-globetel)
 
@@ -103,7 +101,7 @@ Me uskomme, että puhelinliittymästä saa maksaa aivan korkeintaan 30&nbsp;euro
 * Rajaton puhe
 * 30€ Lidlin lahjakortti
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][2b]
+[Tutustu <i class="fas fa-external-link-alt"></i>][3b]
 
 [1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M21103
 
@@ -112,6 +110,10 @@ Me uskomme, että puhelinliittymästä saa maksaa aivan korkeintaan 30&nbsp;euro
 [2a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M22032
 
 [2b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M22032LK
+
+[3a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M22053
+
+[3b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M22053LK
 {{</ sim-telia >}}
 
 <!-- Telia Dot 5G -->
@@ -291,7 +293,7 @@ Laskut veloitetaan kortilta.
 * Rajaton puhe
 * 30€ Lidlin lahjakortti
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][2b]
+[Tutustu <i class="fas fa-external-link-alt"></i>][3b]
 
 [1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21103
 
@@ -300,6 +302,10 @@ Laskut veloitetaan kortilta.
 [2a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M22017
 
 [2b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M22017LK
+
+[3a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M22053
+
+[3b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M22053LK
 {{</ sim-telia >}}
 
 <!-- vanhentunut
@@ -316,11 +322,11 @@ Laskut veloitetaan kortilta.
 {{</ sim-telia >}} -->
 
 {{< sim-telia "Rajaton 20M" >}}
-#### 16,90 1v (26,90)
+#### 17,99 1v (26,90)
 * Rajaton netti
 * Rajaton puhe
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][3a]
+[Tutustu <i class="fas fa-external-link-alt"></i>][5a]
 
 [1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M21146
 
@@ -337,6 +343,10 @@ Laskut veloitetaan kortilta.
 [4a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M22017
 
 [4b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M22017LK
+
+[5a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M22053
+
+[5b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M22053LK
 {{</ sim-telia >}}
 
 
@@ -345,9 +355,11 @@ Laskut veloitetaan kortilta.
 * Rajaton netti
 * Puh/sms +0,07€/min/kpl
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1b]
 
-[1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=RajatonLite05M
+[1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=RajatonLite05M
+
+[1b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=RajatonLite05MLK
 {{</ sim-telia >}}
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Laitenetti"
-subtitle: "Päivitetty 12.3.2022"
+subtitle: "Päivitetty 8.4.2022"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -38,8 +38,6 @@ Ideoita saa lähettää laskutkuntoon.fi/ota-yhteytta.
 
 
 -->
-
-> **Huom. Päivitetty 12.3.** Tarjoukset päivitetään mahdollisimman pian. Pahoittelemme viivästystä.
 
 Hyppää: [Elisa](#elisa) | [DNA](#dna) | [Telia](#telia) | [Moi](#moi) | [Globetel](#globetel)
 
@@ -92,12 +90,14 @@ Keskittäjille:
 * [Yhteys Mukaan laitteeseen 0,256M (5M)][tl2m-keski]: 3,90
 
 Kaikille:
-* [Rajaton Lite 0,512M (5M)][tl5m]: 9,90
+* [Yhteys Mukaan kotimaa 50M][tl50m]: 9,99
+* [Rajaton Lite 0,512M (5M)][tl5m]: 11,90
 * [Yhteys Mukaan laitteeseen 0,256M (5M)][tl2m]: 6,90
 
 [tl2m-keski]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysLaitteeseenKeskittajalle
 [tl5m]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=RajatonLite05M
 [tl2m]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysLaitteeseen
+[tl50m]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKotimaassa&Kampanja=YMK50M22054
 
 [TL]: https://www.telia.fi/kauppa/liittymat/laitenetti
 
