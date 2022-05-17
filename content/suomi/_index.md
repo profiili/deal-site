@@ -7,11 +7,11 @@ banner:
   
   **Ajankohtaista**
 
-  ### Avaamassa uutta liittymää? Lue vinkit ja säästä"
+  ### Viikon liittymätarjoukset ovat täällä!"
   button:
     enable : true
     label : "Blogiin"
-    link : "blogi/uusi-liittyma-vinkit"
+    link : "blogi/viikon-liittymatarjoukset"
 
 ##################### Feature ##########################
 feature:

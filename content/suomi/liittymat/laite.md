@@ -1,6 +1,6 @@
 ---
 title: "Laitenetti"
-subtitle: "Päivitetty 8.4.2022"
+subtitle: "Päivitetty 17.5.2022"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -43,7 +43,7 @@ Hyppää: [Elisa](#elisa) | [DNA](#dna) | [Telia](#telia) | [Moi](#moi) | [Globe
 
 Etsitkö [mobiililaajakaistaa](/liittymat/netti)?
 
-Netin lähetysnopeus ilmoitettu suluissa mikäli eri kuin latausnopeus.
+Kaikkiin liittymiin sisältyy rajaton netti. Netin lähetysnopeus ilmoitettu suluissa mikäli se eroaa latausnopeudesta.
 
 <hr>
 
@@ -67,12 +67,12 @@ Elisan Laitenetti-liittymässä puhelut +0,14€/min. Sisältää 100 viestiä, 
 DNA:n Laitenetti-liittymässä puhelut +0,14€/min. Sisältää 100 viestiä, yli menevät +0,09€/kpl. Multimediaviestit +0,40€/kpl.
 
 Keskittäjille:
-* [Laitenetti Plus 0,512M (5M)][dl3]: 4,90 5v (9,90)
-* [Laitenetti 0,128M][dl4]: 1,90 5v (4,90)
+* [Laitenetti Plus 0,512M (5M)][dl3]: 4,90 60kk (5v) (9,90)
+* [Laitenetti 0,128M][dl4]: 1,90 60kk (5v) (4,90)
 
 Kaikille:
-* [Laitenetti Plus 0,512M (5M)][dl1]: 8,90 1v (9,90)
-* [Laitenetti 0,128M][dl2]: 3,90 1v (4,90)
+* [Laitenetti Plus 0,512M (5M)][dl1]: 8,90 12kk (9,90)
+* [Laitenetti 0,128M][dl2]: 3,90 12kk (4,90)
 
 [dl1]: https://kauppa4.dna.fi/c/DNA-Laitenetti-Plus/p/QDS00002
 [dl2]: https://kauppa4.dna.fi/c/DNA-Laitenetti/p/QDS00001
@@ -95,8 +95,11 @@ Kaikille:
 * [Yhteys Mukaan laitteeseen 0,256M (5M)][tl2m]: 6,90
 
 [tl2m-keski]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysLaitteeseenKeskittajalle
+
 [tl5m]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=RajatonLite05M
+
 [tl2m]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysLaitteeseen
+
 [tl50m]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKotimaassa&Kampanja=YMK50M22054
 
 [TL]: https://www.telia.fi/kauppa/liittymat/laitenetti
