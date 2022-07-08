@@ -3,15 +3,15 @@
 banner:
   title : "Laskut kuntoon helposti"
   #image : "images/banner-art.svg"
-  content : "Erikoistunut tiimimme kaivaa käsiinsä parhaat hinnat, joita ei aina heti etusivuilta löydy.<hr> 
-  
+  content : "Erikoistunut tiimimme kaivaa käsiinsä parhaat hinnat, joita ei aina heti etusivuilta löydy.<hr>
+
   **Ajankohtaista**
 
-  ### Viikon liittymätarjoukset ovat täällä!"
+  ### Hyvää kesää!"
   button:
     enable : true
-    label : "Blogiin"
-    link : "blogi/viikon-liittymatarjoukset"
+    label : "Liittymiin"
+    link : "liittymat/puhelin"
 
 ##################### Feature ##########################
 feature:
@@ -21,43 +21,43 @@ feature:
     # feature item loop
     - name : "Liittymä puhelimeen"
       icon : "fas fa-mobile-alt"
-      content : "Yksi liittymä ei sovi jokaiselle. Puhuit sitten paljon tai vähän, sopiva paketti löytyy kyllä. 
+      content : "Yksi liittymä ei sovi jokaiselle. Puhuit sitten paljon tai vähän, sopiva paketti löytyy kyllä.
       <hr>
       <a href='liittymat/puhelin'>**Puhelinliittymiin**</i></a>"
-      
+
     # feature item loop
     - name : "Netti kotiin ja mukaan"
       icon : "fas fa-laptop-house"
       content : "Liikkuva laajakaista, mutta varaa jää myös siihen liikkumiseen. Myös laitenetit.
       <hr>
       <a href='liittymat/netti'>**Nettiliittymiin**</a>"
-      
+
     # feature item loop
     - name : "Uusi liittymä"
       icon : "fas fa-sim-card"
       content : "Olipa tarve lapsen ensiliittymälle tai maiseman vaihdokselle, täältä löytyy liittymät uusilla numeroilla.
       <hr>
       <a href='liittymat/uusi-liittyma'>**Uusiin liittymiin**</a>"
-      
+
     # feature item loop
     - name : "Ajankohtaista"
       icon : "fas fa-clock"
       content : "Ajankohtaiset tarjoukset ja rahanarvoiset vinkit yhdessä paikassa.
       <hr>
       <a href='blogi'>**Blogiin**</a>"
-      
+
     # feature item loop
     - name : "Usein kysyttyä"
       icon : "fas fa-question-circle"
       content : "Mitä teemme? Miksi teemme? Vastaukset yleisimpiin kysymyksiin täältä.
       <hr>
       <a href='ukk'>**Meistä**</a>"
-      
+
     # feature item loop
     #- name : "Cloud Support"
     #  icon : "fas fa-cloud"
     #  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
+
 
 
 ######################### Service #####################
@@ -75,7 +75,7 @@ service:
         enable : true
         label : "Blogiin"
         link : "/blogi"
-        
+
     # service item loop
     - title : "Liittymät puhelimeen"
       images:
@@ -85,7 +85,7 @@ service:
         enable : true
         label : "Puhelinliittymiin"
         link : "/liittymat/puhelin"
-        
+
     # service item loop
     - title : "Netti kotiin ja mukaan"
       images:
@@ -95,7 +95,7 @@ service:
         enable : true
         label : "Nettiliittymiin"
         link : "/liittymat/netti"
-        
+
     # service item loop
     - title : "Myös uudet liittymät"
       images:
@@ -105,14 +105,14 @@ service:
         enable : true
         label : "Uusiin liittymiin"
         link : "/liittymat/uusi-liittyma"
-        
+
 ################### Screenshot ########################
 screenshot:
   enable : false
   title : "Experience the best <br> workflow with us"
   image : "images/screenshot.svg"
 
-  
+
 
 ##################### Call to action #####################
 call_to_action:

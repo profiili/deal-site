@@ -9,7 +9,7 @@ type: "regular"
 # meta description
 description: "This is meta description"
 # post draft
-draft: false
+draft: true
 ---
 
 17.5.2022 – viikko 20/2022 (arkistoitu)

@@ -1,6 +1,6 @@
 ---
 title: "Laitenetti"
-subtitle: "Päivitetty 17.5.2022"
+subtitle: "Päivitetty 8.7.2022 | <a href='/ota-yhteytta'>Pyydä päivittämistä</a>"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -21,7 +21,7 @@ call_to_action:
     link : "/ota-yhteytta"
 ---
 
-<!-- 
+<!--
 
 
 *    *   ** * * * * *** * * * * *** *** *** *** ***   *** *
@@ -32,11 +32,16 @@ call_to_action:
 
 Tervetuloa lukemaan koodia!
 
-Täältä saattaa löytää vanhentuneita tarjouksia, tuskinpa muuta ihmeellistä. 
+Täältä saattaa löytää vanhentuneita tarjouksia, tuskinpa muuta ihmeellistä.
 
 Ideoita saa lähettää laskutkuntoon.fi/ota-yhteytta.
 
 
+-->
+
+<!--
+<i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i>
+<i title="Hinta laskenut" class="fas fa-chevron-down" style="color:lime"></i>
 -->
 
 Hyppää: [Elisa](#elisa) | [DNA](#dna) | [Telia](#telia) | [Moi](#moi) | [Globetel](#globetel)

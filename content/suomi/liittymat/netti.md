@@ -1,6 +1,6 @@
 ---
 title: "Netti kotiin ja mukaan"
-subtitle: "Päivitetty 17.5.2022"
+subtitle: "Päivitetty 8.7.2022 | <a href='/ota-yhteytta'>Pyydä päivittämistä</a>"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -21,7 +21,7 @@ call_to_action:
     link : "/ota-yhteytta"
 ---
 
-<!-- 
+<!--
 
 
 *    *   ** * * * * *** * * * * *** *** *** *** ***   *** *
@@ -32,11 +32,16 @@ call_to_action:
 
 Tervetuloa lukemaan koodia!
 
-Täältä saattaa löytää vanhentuneita tarjouksia, tuskinpa muuta ihmeellistä. 
+Täältä saattaa löytää vanhentuneita tarjouksia, tuskinpa muuta ihmeellistä.
 
 Ideoita saa lähettää laskutkuntoon.fi/ota-yhteytta.
 
 
+-->
+
+<!--
+<i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i>
+<i title="Hinta laskenut" class="fas fa-chevron-down" style="color:lime"></i>
 -->
 
 Tällä sivulla on listattuna vain alle 30€/kk liittymät.
@@ -45,7 +50,7 @@ Hyppää: [5G-netti](#5g) | [4G-netti](#4g) | [Elisa](#elisa4g) | [DNA](#dna4g) 
 
 Etsitkö [laitenettiä?](/liittymat/laite)
 
-<hr>
+---
 
 #### Tiesitkö?
 
@@ -55,7 +60,7 @@ Olemassa olevan mobiililaajakaistan voi siirtää kuten normaalin liittymän, jo
 
 [Siispä vilkaise myös puhelinliittymät!](/liittymat/puhelin)
 
-<hr>
+---
 
 {{< faq "Huolettaako määräaikaisuus?" >}}
 Tarkista nykyisen liittymäsi määräaika helposti:
@@ -67,7 +72,7 @@ Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
 [1]: https://www.traficom.fi/fi/ajankohtaista/kuluttajille-mahdollisuus-tarkastaa-tekstiviestilla-matkapuhelinsopimuksensa
 {{</ faq >}}
 
-<hr>
+---
 
 <a name="5g"></a>
 ### 5G-netti
@@ -107,17 +112,20 @@ Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
 
 <!-- Telia 5G -->
 
-<!--
 {{< sim-telia "Telia Yhteys mukaan 5G 300M" >}}
-#### 26,90 12kk (31,90)
+#### 26,99 12kk (31,90)
 * Rajaton netti
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][1a]
+[Tutustu <i class="fas fa-external-link-alt"></i>][2b]
 
 [1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=Yhteysmukaan5G300M&kampanja=5G300MBT22031
 
 [1b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=Yhteysmukaan5G300M&kampanja=5G300MBT22031LK
-{{< /sim-telia >}} -->
+
+[2a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=Yhteysmukaan5G300M&kampanja=5G300MBT22086
+
+[2b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=Yhteysmukaan5G300M&kampanja=5G300MBT22086LK
+{{< /sim-telia >}}
 
 <!-- Telia Dot 5G -->
 
@@ -125,7 +133,7 @@ Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
 #### 0,00 3vk (29,90)
 * Rajaton netti
 * Keskitysetu –10%
-* 30€ Lidlin lahjakortti per liittymä (31.5. asti)
+* 30€ Lidlin lahjakortti / liittymä (31.7. asti)
 
 Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
@@ -146,7 +154,7 @@ Laskut veloitetaan kortilta.
 
 [Takaisin ylös](#)
 
-<hr>
+---
 
 <a name="4g"></a>
 ### 4G-netti
@@ -166,10 +174,10 @@ Laskut veloitetaan kortilta.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
-#### 16,99 12kk (27,99)
-> Numeronsiirron ohella tilattuna. [Puhelinliittymät](/liittymat/puhelin)
+---
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][2]
+#### 16,99 12kk (27,99)
+**Vain [numeronsiirron <i class="fas fa-external-link-alt"></i>][2] ohella tilattuna.**
 
 [1]: https://elisa.fi/kauppa/nettiliittymat/mobiililaajakaista
 
@@ -201,7 +209,7 @@ Laskut veloitetaan kortilta.
 
 [Takaisin ylös](#)
 
-<hr>
+---
 
 <!-- DNA 4G -->
 
@@ -225,7 +233,8 @@ Laskut veloitetaan kortilta.
 #### 10,00 12kk (15,00)
 * Rajaton netti
 * **12kk määräaika**
-> Keskittäjille.
+
+**Vain keskittäjille.**
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -238,8 +247,11 @@ Laskut veloitetaan kortilta.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
+---
+
 #### 17,99 24kk (24,90)
-> Keskittäjille.
+
+**Vain keskittäjille.**
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][2]
 
@@ -249,10 +261,11 @@ Laskut veloitetaan kortilta.
 {{</ sim-dna >}}
 
 {{< sim-dna "Matkanetti 4G 50M" >}}
-#### 5,00 12kk (10,00)
+#### <i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i> 7,50 12kk (10,00)
 * Rajaton netti
 * **12kk määräaika**
-> Keskittäjille.
+
+**Vain keskittäjille.**
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -274,22 +287,22 @@ Laskut veloitetaan kortilta.
 
 [Takaisin ylös](#)
 
-<hr>
+---
 
 <!-- Telia 4G -->
 
 <a name="telia4g"></a>
 ### Telia 4G
 
-1 liittymä. Tarkista kotiosoitteesi tarjonta: [Telia (keskittäjille)][t5gkoti2] | [Telia (kaikille)][t4gkoti]
+3 liittymää. Tarkista kotiosoitteesi tarjonta: [Telia (keskittäjille)][t5gkoti2] | [Telia (kaikille)][t4gkoti]
 
 [t4gkoti]: https://www.telia.fi/kauppa/kodin-netti/netti-kotiin
 
-<!-- 
 {{< sim-telia "Yhteys Mukaan 200M" >}}
-#### 16,90 12kk (21,90)
+#### 21,90
 * Rajaton netti
-> Keskittäjille.
+
+**Vain keskittäjille.**
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][2a]
 
@@ -300,15 +313,15 @@ Laskut veloitetaan kortilta.
 [2a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKeskittajalle200M&kampanja=200MBT22016
 
 [2b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKeskittajalle200M&kampanja=200MBT22016LK
-{{</ sim-telia >}} -->
+{{</ sim-telia >}}
 
-<!--
 {{< sim-telia "Yhteys Mukaan 100M" >}}
-#### 14,90 12kk (18,90)
+#### 18,90
 * Rajaton netti
-> Keskittäjille.
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][2a]
+**Vain keskittäjille.**
+
+[Tutustu <i class="fas fa-external-link-alt"></i>][2b]
 
 [1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=Asiakasetu&kampanja=keskittajaMBT21103
 
@@ -317,13 +330,13 @@ Laskut veloitetaan kortilta.
 [2a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=Asiakasetu&kampanja=100MBT22016
 
 [2b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=Asiakasetu&kampanja=100MBT22016LK
-{{</ sim-telia >}} -->
+{{</ sim-telia >}}
 
 {{< sim-telia "Yhteys Mukaan kotimaa 50M" >}}
-#### 9,99 12kk (18,90)
+#### <i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i> 12,99 12kk (18,90)
 * Rajaton netti
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][4a]
+[Tutustu <i class="fas fa-external-link-alt"></i>][5a]
 
 [1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKotimaassa&Kampanja=NMK50M21103
 
@@ -340,6 +353,10 @@ Laskut veloitetaan kortilta.
 [4a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKotimaassa&Kampanja=YMK50M22054
 
 [4b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKotimaassa&Kampanja=YMK50M22054LK
+
+[5a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKotimaassa&Kampanja=NMK50M22086
+
+[5b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKotimaassa&Kampanja=NMK50M22086LK
 {{</ sim-telia >}}
 
 {{< faq "Sama liittymä toiseen laitteeseen?" >}}
@@ -358,7 +375,7 @@ Laskut veloitetaan kortilta.
 
 [Takaisin ylös](#)
 
-<hr>
+---
 
 <!-- Telia Dot 4G -->
 
@@ -371,7 +388,7 @@ Laskut veloitetaan kortilta.
 #### 0,00 3vk (26,00)
 * Rajaton netti
 * Keskitysetu –10%
-* 30€ Lidlin lahjakortti per liittymä (31.5. asti)
+* 30€ Lidlin lahjakortti / liittymä (31.7. asti)
 
 Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
@@ -384,7 +401,7 @@ Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 #### 0,00 3vk (23,00)
 * Rajaton netti
 * Keskitysetu –10%
-* 30€ Lidlin lahjakortti per liittymä (31.5. asti)
+* 30€ Lidlin lahjakortti / liittymä (31.7. asti)
 
 Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
@@ -398,7 +415,7 @@ Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 #### 0,00 3vk (5,00–25,00)
 * Rajaton netti
 * Keskitysetu –10%
-* 30€ Lidlin lahjakortti per liittymä (31.5. asti)
+* 30€ Lidlin lahjakortti / liittymä (31.7. asti)
 
 Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
@@ -409,7 +426,7 @@ Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
 [Takaisin ylös](#)
 
-<hr>
+---
 
 <!-- Moi 4G -->
 
@@ -422,7 +439,8 @@ Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 #### 19,00
 * Rajaton netti
 * Hinta 4G-verkossa
-> 4G-verkon huippunopeus saattaa olla alle 400M.
+
+**4G-verkon huippunopeus saattaa olla alle 400M.**
 
 Laskut veloitetaan kortilta.
 
@@ -456,7 +474,7 @@ Laskut veloitetaan kortilta.
 
 [Takaisin ylös](#)
 
-<hr>
+---
 
 <!-- Globetel 4G -->
 
@@ -513,7 +531,7 @@ Globetelillä rakennat oman liittymän. Alla esimerkkihintoja edullisimmasta puh
 
 [Takaisin ylös](#)
 
-<hr>
+---
 
 {{< faq "Apua valintaan?" >}}
 Liikaa valinnanvaraa? Etkö ole varma, mitä kaikkea liittymältä tarvitset? Etsitään juuri sinulle sopiva ratkaisu!
@@ -521,6 +539,6 @@ Liikaa valinnanvaraa? Etkö ole varma, mitä kaikkea liittymältä tarvitset? Et
 [Ota yhteyttä <i class="fas fa-arrow-right"></i>](/ota-yhteytta)
 {{< /faq >}}
 
-<hr>
+---
 
 Huomioithan: Sivun tarjoukset eivät välttämättä ole kaikkien hyödynnettävissä. Liittymien ehdot ja ominaisuudet voivat muuttua ilman eri ilmoitusta. Tutustu tuotteeseen huolella ja varmista mahdollinen lisäetu, kuten lahjakortti, suoraan operaattorilta.

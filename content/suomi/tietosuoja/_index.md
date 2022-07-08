@@ -6,12 +6,7 @@ description: "This is meta description"
 draft: false
 ---
 
-> Vielä työn alla, tässä luonnos.
+#### Vielä työn alla, mutta tässä perusidea:
 
-#### Tietosuojaseloste, lyhyt versio:
-
-* Emme seuraa sinua.
-
-#### Tietosuojaseloste, täysi versio:
-
-* Emme seuraa sinua. Piste.
+* Emme seuraa sinua. Tämä sivusto ei käytä evästeitä tai analytiikkaa.
+* Emme kerää tai säilytä sinusta sellaista tietoa, mitä et erikseen meille tarjoa.

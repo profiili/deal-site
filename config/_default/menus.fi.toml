@@ -34,26 +34,32 @@ hasChildren = true
   weight = 4
 
 [[main]]
-name = "Blogi"
-url = "blogi"
+name = "Meistä"
+url = "ukk"
 weight = 3
 
 [[main]]
-name = "Meistä"
-url = "ukk"
+name = "Blogi"
+url = "blogi"
 weight = 4
+
+# footer menu left
+[[footer_left]]
+name = "Etusivu"
+url = "/"
+weight = 1
 
 # footer menu left
 [[footer_left]]
 name = "Meistä"
 url = "/ukk"
-weight = 1
+weight = 2
 
 # footer menu left
 [[footer_left]]
 name = "Blogi"
 url = "/blogi"
-weight = 2
+weight = 3
 
 # footer menu middle
 [[footer_middle]]
