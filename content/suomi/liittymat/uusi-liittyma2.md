@@ -144,7 +144,7 @@ Laskut veloitetaan kortilta.
 [1]: https://www.moi.fi/5g
 {{</ sim-moi >}}
 
-[Takaisin ylös](#)
+[<i class="fas fa-arrow-up"></i> Takaisin ylös](#)
 
 <hr>
 
@@ -194,7 +194,7 @@ Laskut veloitetaan kortilta.
 
 [elapsi]: https://elisa.fi/kauppa/liittyma-lapselle
 
-[Takaisin ylös](#)
+[<i class="fas fa-arrow-up"></i> Takaisin ylös](#)
 
 <hr>
 
@@ -298,7 +298,7 @@ Laskut veloitetaan kortilta.
 [dnum]: https://www.dna.fi/sinunhintasi
 [dlapsi]: https://www.dna.fi/kouluun/liittymat
 
-[Takaisin ylös](#)
+[<i class="fas fa-arrow-up"></i> Takaisin ylös](#)
 
 <hr>
 
@@ -396,7 +396,7 @@ Laskut veloitetaan kortilta.
 [tnum]: https://www.telia.fi/kampanjat/liittymat/huippudiili
 [tlapsi]: https://www.telia.fi/kauppa/liittymat/liittyma-lapselle
 
-[Takaisin ylös](#)
+[<i class="fas fa-arrow-up"></i> Takaisin ylös](#)
 
 <hr>
 
@@ -446,7 +446,7 @@ Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 [1]: https://www.telia.fi/dot/lidlplus
 {{</ sim-telia >}}
 
-[Takaisin ylös](#)
+[<i class="fas fa-arrow-up"></i> Takaisin ylös](#)
 
 <hr>
 
@@ -494,7 +494,7 @@ Laskut veloitetaan kortilta.
 [1]: https://www.moi.fi/moipotti
 {{</ sim-moi >}}
 
-[Takaisin ylös](#)
+[<i class="fas fa-arrow-up"></i> Takaisin ylös](#)
 
 <hr>
 
@@ -551,7 +551,7 @@ Ulkomaanpuhelut jopa –80 % [(Lue lisää)](https://globetel.fi/ulkomaanpuhelut
 [1]: https://www.globetel.fi/tilaa-liittyma?liittyma=globetel-perus
 {{</ sim-globetel >}}
 
-[Takaisin ylös](#)
+[<i class="fas fa-arrow-up"></i> Takaisin ylös](#)
 
 <hr>
 

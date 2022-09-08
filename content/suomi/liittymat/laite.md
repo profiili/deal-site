@@ -55,11 +55,11 @@ Kaikkiin liittymiin sisältyy rajaton netti. Netin lähetysnopeus ilmoitettu sul
 <a name="elisa"></a>
 ### Elisa
 
-Elisan Laitenetti-liittymässä puhelut +0,14€/min. Sisältää 100 viestiä, yli menevät +0,091€/kpl (Saunalahti-liittymiin +0,06€/kpl). Multimediaviestit 0,192€/kpl.
+Elisan Laitenetti-liittymässä puhelut +0,14€/min. Sisältää 100 viestiä, yli menevät +0,091€/kpl (Saunalahti-liittymiin +0,06€/kpl). Multimediaviestit 0,192€/kpl. Avausmaksu 7,99€.
 
-* [Laitenetti L 0,512M (5M)][EL]: 8,99
-* [Laitenetti M 0,256M (2M)][EL]: 6,99
-* [Laitenetti S 0,128M][EL]: 3,99
+* [Laitenetti L 0,512M (5M)][EL]: 8,99€
+* [Laitenetti M 0,256M (2M)][EL]: 6,99€
+* [Laitenetti S 0,128M][EL]: 3,99€
 
 [EL]: https://elisa.fi/laitesim
 [ELT]: https://elisa.fi/kauppa/tarjoukset#services
@@ -69,15 +69,15 @@ Elisan Laitenetti-liittymässä puhelut +0,14€/min. Sisältää 100 viestiä, 
 <a name="dna"></a>
 ### DNA
 
-DNA:n Laitenetti-liittymässä puhelut +0,14€/min. Sisältää 100 viestiä, yli menevät +0,09€/kpl. Multimediaviestit +0,40€/kpl.
+DNA:n Laitenetti-liittymässä puhelut +0,14€/min. Sisältää 100 viestiä, yli menevät +0,09€/kpl. Multimediaviestit +0,40€/kpl. Ei avausmaksua.
 
 Keskittäjille:
-* [Laitenetti Plus 0,512M (5M)][dl3]: 4,90 60kk (5v) (9,90)
-* [Laitenetti 0,128M][dl4]: 1,90 60kk (5v) (4,90)
+* [Laitenetti Plus 0,512M (5M)][dl3]: 4,90€ 60kk/5v (9,90€)
+* [Laitenetti 0,128M][dl4]: 1,90€ 60kk/5v (4,90€)
 
 Kaikille:
-* [Laitenetti Plus 0,512M (5M)][dl1]: 8,90 12kk (9,90)
-* [Laitenetti 0,128M][dl2]: 3,90 12kk (4,90)
+* [Laitenetti Plus 0,512M (5M)][dl1]: 8,90€ 12kk (9,90€)
+* [Laitenetti 0,128M][dl2]: 3,90€ 12kk (4,90€)
 
 [dl1]: https://kauppa4.dna.fi/c/DNA-Laitenetti-Plus/p/QDS00002
 [dl2]: https://kauppa4.dna.fi/c/DNA-Laitenetti/p/QDS00001
@@ -89,23 +89,20 @@ Kaikille:
 <a name="telia"></a>
 ### Telia
 
-Telian Yhteys Mukaan laitteeseen -liittymässä puhelut ja viestit +0,09€/min/kpl. Rajaton Litessä +0,07€/min/kpl.
+Telian Yhteys Mukaan laitteeseen -liittymässä puhelut ja viestit +0,09€/min/kpl. Rajaton Litessä +0,07€/min/kpl. Avausmaksu 6,90€.
 
 Keskittäjille:
-* [Yhteys Mukaan laitteeseen 0,256M (5M)][tl2m-keski]: 3,90
+* [Yhteys Mukaan laitteeseen 0,256M (5M)][tl2m-keski]: 3,90€
 
 Kaikille:
-* [Yhteys Mukaan kotimaa 50M][tl50m]: 9,99
-* [Rajaton Lite 0,512M (5M)][tl5m]: 11,90
-* [Yhteys Mukaan laitteeseen 0,256M (5M)][tl2m]: 6,90
+* [Rajaton Lite 0,512M (5M)][tl5m]: 11,90€
+* [Yhteys Mukaan laitteeseen 0,256M (5M)][tl2m]: 6,90€
 
 [tl2m-keski]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysLaitteeseenKeskittajalle
 
 [tl5m]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=RajatonLite05M
 
 [tl2m]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysLaitteeseen
-
-[tl50m]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKotimaassa&Kampanja=YMK50M22054
 
 [TL]: https://www.telia.fi/kauppa/liittymat/laitenetti
 
@@ -114,9 +111,9 @@ Kaikille:
 <a name="moi"></a>
 ### Moi
 
-Moin Laitenetti-liittymässä viestit +0,055€/kpl.
+Moin Laitenetti-liittymässä viestit +0,055€/kpl. Avausmaksu 5€.
 
-* [Laitenetti 0,512M (5M)][ML]: 4,00
+* [Laitenetti 0,512M (5M)][ML]: 4,00€
 
 [ML]: https://www.moi.fi/laitenetti
 
@@ -125,9 +122,9 @@ Moin Laitenetti-liittymässä viestit +0,055€/kpl.
 <a name="globetel"></a>
 ### Globetel
 
-Globetelin Laite-liittymä sisältää rajattomasti viestejä. Puhelut +0,069€/min.
+Globetelin Laite-liittymä sisältää rajattomasti viestejä. Puhelut +0,069€/min. Avausmaksu 2,90€.
 
-* [Globetel Laite 0,256M][GL]: 6,90
+* [Globetel Laite 0,256M][GL]: 6,90€
 
 [GL]: https://globetel.fi/tilaa-liittyma?liittyma=globetel-laite
 
