@@ -1,6 +1,6 @@
 ---
 title: "Laitenetti"
-subtitle: "Päivitetty 8.7.2022 | <a href='/ota-yhteytta'>Pyydä päivittämistä</a>"
+subtitle: "Päivitetty 28.9.2022 | <a href='/ota-yhteytta'>Pyydä päivittämistä</a>"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -69,7 +69,7 @@ Elisan Laitenetti-liittymässä puhelut +0,14€/min. Sisältää 100 viestiä, 
 <a name="dna"></a>
 ### DNA
 
-DNA:n Laitenetti-liittymässä puhelut +0,14€/min. Sisältää 100 viestiä, yli menevät +0,09€/kpl. Multimediaviestit +0,40€/kpl. Ei avausmaksua.
+DNA:n Laitenetti-liittymässä puhelut +0,14€/min. Sisältää 100 viestiä, yli menevät +0,09€/kpl. Multimediaviestit +0,40€/kpl. Avausmaksu 6,90€.
 
 Keskittäjille:
 * [Laitenetti Plus 0,512M (5M)][dl3]: 4,90€ 60kk/5v (9,90€)

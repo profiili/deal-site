@@ -1,6 +1,6 @@
 ---
 title: "Liittymät puhelimeen"
-subtitle: "Päivitetty 8.9.2022 | <a href='/ota-yhteytta'>Pyydä päivittämistä</a>"
+subtitle: "Päivitetty 28.9.2022 | <a href='/ota-yhteytta'>Pyydä päivittämistä</a>"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -82,7 +82,8 @@ Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
 #### 29,99€ 24kk (34,99€)
 * Rajaton netti ja puhe
 * Avausmaksu 7,99€
-* 50€ Elisan lahjakortti (2vko)
+
+<i title="Arvo laskenut" class="fas fa-chevron-down" style="color:crimson"></i> 20€ Elisan lahjakortti
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -94,7 +95,7 @@ Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
 {{< sim-dna "DNA Rajaton 5G 400M" >}}
 #### 29,90€ 12kk (36,90€)
 * Rajaton netti ja puhe
-* Ei avausmaksua
+* Avausmaksu 6,90€
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -102,22 +103,24 @@ Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
 
 #### 29,99€ 12kk (36,90€)
 * **12kk määräaika**
-* 75€ DNA:n lahjakortti (2vko)
+
+75€ DNA:n lahjakortti
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][3]
 
 [1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-5G-400M/p/MCAMP-G4-QVS000014
 
+<!-- 31,99 12kk -->
 [2]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-5G-400M/p/MCAMP-SH-QVS000014
 
-<!-- 29,99 12kk ma + 75€ DNA -->
+<!-- 29,99 12kk + 75€ DNA -->
 [3]: https://kauppa.dna.fi/liittymat/puhelinliittymat/dna-rajaton-5g-400m/s/MCAMP-SH1-QVS000014
 {{</ sim-dna >}}
 
 {{< sim-dna "DNA Rajaton 5G 200M" >}}
 #### 29,90€ 12kk (33,90€)
 * Rajaton netti ja puhe
-* Ei avausmaksua
+* Avausmaksu 6,90€
 
 **Samaan hintaan tarjolla myös nopeampi 400M.**
 
@@ -128,14 +131,13 @@ Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
 
 <!-- Telia 5G -->
 
-<!-- Piilotettu: nyt liian kallis
+<!--
 {{< sim-telia "Telia Rajaton 5G 450M" >}}
 #### 32,90€ 12kk (44,90€)
-* Rajaton netti
-* Rajaton puhe
+* Rajaton netti ja puhe
 * 30€ S-ryhmän lahjakortti
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][1b]
+[Tutustu <i class="fas fa-external-link-alt"></i>][999]
 
 [1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G450M&kampanja=R5G450M21103
 
@@ -146,7 +148,8 @@ Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
 #### 29,99€ 24kk (34,90€)
 * Rajaton netti ja puhe
 * Avausmaksu 6,90€
-* 30€ Lidlin lahjakortti (2kk)
+
+30€ Lidlin lahjakortti
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][4b]
 
@@ -170,18 +173,19 @@ Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
 
 <!-- Telia Dot 5G -->
 
-{{< sim-telia "Telia Dot 5G 300M" >}}
+{{< sim-telia "Telia Dot 5G & C&nbsp;More 300M" >}}
 #### 0,00€ 3vko (29,90€/kk)
 * Rajaton netti ja puhe
 * Ei avausmaksua
-* Keskitysetu –10%
-* 30€ Lidlin lahjakortti/liittymä (2kk, 30.10. asti)
 
-Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
+30€ Lidlin lahjakortti/liittymä (maks. 4kpl, 30.10. asti)
+
+Keskittäjäetu –10%. Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.telia.fi/dot/lidlplus
+[2]: https://www.telia.fi/dot/5g?product=5g
 {{</ sim-telia >}}
 
 <!-- Moi 5G -->
@@ -211,13 +215,14 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 <a name="elisa4g"></a>
 ### Elisa Saunalahti 4G
 
-1 liittymä
+2 liittymää
 
 {{< sim-elisa "Huoleton 200M" >}}
 #### 19,99€ 12kk (31,99€)
 * Rajaton netti ja puhe
 * Avausmaksu 7,99€
-* 50€ Elisan lahjakortti (2vko)
+
+<i title="Arvo laskenut" class="fas fa-chevron-down" style="color:crimson"></i> 20€ Elisan lahjakortti
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -231,21 +236,20 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 * Rajaton puhe
 * 30€ Elisan lahjakortti
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][999]
 
 [1]: https://elisa.fi/kauppa/erikoistarjous
 {{</ sim-elisa >}} -->
 
-<!--
 {{< sim-elisa "Huoleton 10M" >}}
-#### 17,99 12kk (26,99)
-* Rajaton netti
-* Rajaton puhe
+#### 15,99€ 12kk (26,99€)
+* Rajaton netti ja puhe
+* Avausmaksu 7,99€
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://elisa.fi/kauppa/erikoistarjous
-{{</ sim-elisa >}} -->
+{{</ sim-elisa >}}
 
 {{< faq "Liittymä älykelloon?" >}}
 * Rajaton netti, maks. 10M
@@ -275,7 +279,7 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 {{< sim-dna "Super 4G Rajaton 300M" >}}
 #### 19,90€ 12kk (39,90€)
 * Rajaton netti ja puhe
-* Ei avausmaksua
+* Avausmaksu 6,90€
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -283,7 +287,8 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 
 #### 19,99€ 12kk (39,90€)
 * **12kk määräaika**
-* 50€ DNA:n lahjakortti (2vko)
+
+50€ DNA:n lahjakortti
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][4]
 
@@ -305,7 +310,7 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 {{< sim-dna "Rajaton 200M" >}}
 #### 18,99€ 12kk (31,90€)
 * Rajaton netti ja puhe
-* Ei avausmaksua
+* Avausmaksu 6,90€
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -313,7 +318,8 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 
 #### 18,99€ 12kk (31,90€)
 * **12kk määräaika**
-* 50€ DNA:n lahjakortti (2vko)
+
+50€ DNA:n lahjakortti
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][2]
 
@@ -334,7 +340,7 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 
 **Samaan hintaan tarjolla myös nopeampi 200M.**
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][999]
 
 ---
 
@@ -342,7 +348,7 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 * **12kk määräaika**
 * 30€ DNA:n lahjakortti
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][3]
+[Tutustu <i class="fas fa-external-link-alt"></i>][999]
 
 [1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta%2C-rajaton-k%C3%A4ytt%C3%B6/DNA-Nopea-4G-Rajaton-Plus-/p/MCAMP-PP2-QVS000012
 
@@ -354,7 +360,7 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 {{< sim-dna "Rajaton 4G 10M" >}}
 #### 15,90€ 12kk (26,90€)
 * Rajaton netti ja puhe
-* Ei avausmaksua
+* Avausmaksu 6,90€
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -362,7 +368,8 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 
 #### 14,90 12kk (26,90)
 * **12kk määräaika**
-* 30€ DNA:n lahjakortti (2vko)
+
+30€ DNA:n lahjakortti
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][4]
 
@@ -374,6 +381,7 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 
 [4]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-PP3-QVS000016
 
+<!-- 15,99 12kk jos 1 ei toimi -->
 [5]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-KO2-QVS000016
 {{</ sim-dna >}}
 
@@ -388,13 +396,14 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 <a name="telia4g"></a>
 ### Telia 4G
 
-3 liittymää
+2 liittymää
 
 {{< sim-telia "Rajaton 200M" >}}
 #### 19,99€ 12kk (32,90€)
 * Rajaton netti ja puhe
 * Avausmaksu 6,90€
-* 30€ Lidlin lahjakortti (2kk)
+
+30€ Lidlin lahjakortti
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][4b]
 
@@ -419,7 +428,7 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 {{< sim-telia "Rajaton 150M" >}}
 #### 17,99€ 24kk (29,90€)
 * Rajaton netti ja puhe
-* Avausmaksu
+* Avausmaksu 6,90
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1b]
 
@@ -432,9 +441,7 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 {{< sim-telia "Rajaton 20M" >}}
 #### 17,99€ 12kk (26,90€)
 * Rajaton netti ja puhe
-* Avausmaksu
-
-**Samaan hintaan tarjolla myös nopeampi 150M.**
+* Avausmaksu 6,90€
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][6a]
 
@@ -474,6 +481,7 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 [1]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton10M
 {{</ sim-telia >}}
 
+<!--
 {{< sim-telia "Rajaton Lite 0,5M" >}}
 #### 11,90€
 * Rajaton netti
@@ -486,7 +494,7 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 [1b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=RajatonLite05MLK
 
 [2]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton10MLK
-{{</ sim-telia >}}
+{{</ sim-telia >}} -->
 
 {{< faq "Sama liittymä toiseen laitteeseen?" >}}
 * Sama netti, maks. 300M
@@ -520,41 +528,45 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 #### 0,00€ 3vko (26,00€/kk)
 * Rajaton netti ja puhe
 * Ei avausmaksua
-* Keskitysetu –10%
-* 30€ Lidlin lahjakortti/liittymä (2kk, 30.10. asti)
 
-Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
+30€ Lidlin lahjakortti/liittymä (maks. 4kpl, 30.10. asti)
+
+Keskittäjäetu –10%. Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.telia.fi/dot/lidlplus
+[2]: https://www.telia.fi/dot/4g-rajaton?product=4g-rajaton-plus#product
 {{</ sim-telia >}}
 
 {{< sim-telia "4G Rajaton 100M" >}}
 #### 0,00€ 3vko (23,00€/kk)
 * Rajaton netti ja puhe
 * Ei avausmaksua
-* Keskitysetu –10%
-* 30€ Lidlin lahjakortti/liittymä (2kk, 30.10. asti)
 
-Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
+30€ Lidlin lahjakortti/liittymä (maks. 4kpl, 30.10. asti)
+
+Keskittäjäetu –10%. Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.telia.fi/dot/lidlplus
+[2]: https://www.telia.fi/dot/4g-rajaton#product
 {{</ sim-telia >}}
 
 {{< sim-telia "4G Käytön mukaan 100M" >}}
-#### 0,00€ 3vko (5,00–25,00€)
+#### 0,00€ 3vko (5,00–25,00€/kk)
 * Netti ja puhe käytön mukaan
-* Keskitysetu –10%
-* 30€ Lidlin lahjakortti/liittymä (2kk, 30.10. asti)
+* Ei avausmaksua
 
-Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
+30€ Lidlin lahjakortti/liittymä (maks. 4kpl, 30.10. asti)
+
+Keskittäjäetu –10%. Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.telia.fi/dot/lidlplus
+[2]: https://www.telia.fi/dot/4g?product=4g
 {{</ sim-telia >}}
 
 [<i class="fas fa-arrow-up"></i> Takaisin ylös](#)
@@ -593,7 +605,7 @@ Laskut veloitetaan kortilta.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
-[1]: https://www.moi.fi/tilaa
+[1]: https://www.moi.fi/4g/
 {{</ sim-moi >}}
 
 {{< sim-moi "Potti 100M" >}}
@@ -602,11 +614,12 @@ Laskut veloitetaan kortilta.
 * Puh/sms +0,055€/min/kpl, maks. +4€
 * Avausmaksu 5€
 
-Laskut veloitetaan kortilta.
+Useampi liittymä = enemmän dataa ([Lue lisää][potti]). Laskut veloitetaan kortilta.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.moi.fi/moipotti
+[potti]: https://www.moi.fi/moipotti/#hinnasto
 {{</ sim-moi >}}
 
 [<i class="fas fa-arrow-up"></i> Takaisin ylös](#)

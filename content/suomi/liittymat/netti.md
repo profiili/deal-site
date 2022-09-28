@@ -1,6 +1,6 @@
 ---
 title: "Netti kotiin ja mukaan"
-subtitle: "Päivitetty 8.9.2022 | <a href='/ota-yhteytta'>Pyydä päivittämistä</a>"
+subtitle: "Päivitetty 28.9.2022 | <a href='/ota-yhteytta'>Pyydä päivittämistä</a>"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -105,7 +105,7 @@ Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
 {{< sim-dna "DNA Liikkuva 5G 400M" >}}
 #### 29,99€ 12kk (34,90€)
 * Rajaton netti
-* Ei avausmaksua
+* Avausmaksu 6,90€
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -143,29 +143,31 @@ Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
 
 <!-- Telia Dot 5G -->
 
+{{< sim-telia "Telia Dot 5G & C&nbsp;More 300M" >}}
+#### 0,00€ 3vko (29,90€/kk)
+* Rajaton netti ja puhe
+* Ei avausmaksua
+
+30€ Lidlin lahjakortti/liittymä (maks. 4kpl, 30.10. asti)
+
+Keskittäjäetu –10%. Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
+
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
+
+[1]: https://www.telia.fi/dot/lidlplus
+[2]: https://www.telia.fi/dot/5g?product=5g
+{{</ sim-telia >}}
+
 {{< sim-telia "Telia Dot Yhteys kotiin 5G 300M" >}}
 #### 0,00€ 2vko (29,00€/kk)
 * Rajaton netti
 * Avausmaksu 5€
-* Keskitysetu –10%
 
 Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>](1)
 
 [1]: https://www.telia.fi/dot/laajakaistaliittymat/?product=5g-kotiin
-{{</ sim-telia >}}
-
-{{< sim-telia "Telia Dot 5G 300M" >}}
-#### 0,00€ 3vko (29,90€/kk)
-* Rajaton netti
-* Ei avausmaksua
-* Keskitysetu –10%
-* 30€ Lidlin lahjakortti/liittymä (2kk, 30.10. asti)
-
-Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
-
-[Tutustu <i class="fas fa-external-link-alt"></i>](https://www.telia.fi/dot/lidlplus)
 {{</ sim-telia >}}
 
 <!-- Moi 5G -->
@@ -204,11 +206,10 @@ Laskut veloitetaan kortilta.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
-<!--
 ---
 
-#### 16,99€ 12kk (27,99€)
-**Vain [numeronsiirron <i class="fas fa-external-link-alt"></i>][2] ohella tilattuna.** -->
+#### <i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i> 17,99€ 12kk (27,99€)
+Vain [numeronsiirron <i class="fas fa-external-link-alt"></i>][2] ohella tilattuna.
 
 [1]: https://elisa.fi/kauppa/nettiliittymat/mobiililaajakaista
 
@@ -253,17 +254,18 @@ Laskut veloitetaan kortilta.
 [d4gkoti]: https://kauppa4.dna.fi/laajakaista
 
 {{< sim-dna "Liikkuva 4G 200M" >}}
-#### <i title="Hinta laskenut" class="fas fa-chevron-down" style="color:green"></i> 18,99€ 12kk (29,90€)
+#### 18,99€ 12kk (29,90€)
 * Rajaton netti
-* Ei avausmaksua
+* Avausmaksu 6,90€
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][3]
 
+<!--
 ---
 
 #### 25,99€ 12kk (29,90€)
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][1] -->
 
 [1]: https://kauppa4.dna.fi/c/DNA-Liikkuva-4G-200M/p/VS4G000002
 
@@ -299,7 +301,7 @@ Laskut veloitetaan kortilta.
 {{< sim-dna "Liikkuva 4G 100M" >}}
 #### 23,99€ 12kk (24,90€)
 * Rajaton netti
-* Ei avausmaksua
+* Avausmaksu 6,90€
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -317,7 +319,7 @@ Laskut veloitetaan kortilta.
 {{</ sim-dna >}}
 
 {{< sim-dna "Matkanetti 4G 50M" >}}
-#### <i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i> 7,50€ 12kk (10,00€)
+#### 7,50€ 12kk (10,00€)
 * Rajaton netti
 * Avausmaksu 4,90€
 * **12kk määräaika**
@@ -332,7 +334,7 @@ Laskut veloitetaan kortilta.
 {{< sim-dna "Tablettinetti 4G 50M" >}}
 #### 2,90€
 * Netti käytön mukaan +0,99€/pv
-* Ei avausmaksua
+* Avausmaksu 6,90€
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -363,7 +365,7 @@ Laskut veloitetaan kortilta.
 
 **Vain keskittäjille.**
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][2a]
+[Tutustu <i class="fas fa-external-link-alt"></i>][2b]
 
 [1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Data&Plan=YhteysMukaanKeskittajalle200M&kampanja=200MBT21103
 
@@ -397,7 +399,7 @@ Laskut veloitetaan kortilta.
 {{</ sim-telia >}}
 
 {{< sim-telia "Yhteys Mukaan kotimaa 50M" >}}
-#### <i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i> 12,99€ 12kk (18,90€)
+#### 12,99€ 12kk (18,90€)
 * Rajaton netti
 * Avausmaksu 6,90€
 
@@ -447,63 +449,66 @@ Laskut veloitetaan kortilta.
 <a name="dot4g"></a>
 ### Telia Dot 4G
 
-3 liittymää. Tarkista kotiosoitteesi tarjonta: [Telia Dot](https://www.telia.fi/dot/laajakaistaliittymat)
+4 liittymää. Tarkista kotiosoitteesi tarjonta: [Telia Dot](https://www.telia.fi/dot/laajakaistaliittymat)
 
 {{< sim-telia "4G Rajaton+ 200M" >}}
-#### 0,00€ 3vk (26,00€/kk)
+#### 0,00€ 3vko (26,00€/kk)
 * Rajaton netti
 * Ei avausmaksua
-* Keskitysetu –10%
-* 30€ Lidlin lahjakortti/liittymä (2kk, 30.10. asti)
 
-Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
+30€ Lidlin lahjakortti/liittymä (maks. 4kpl, 30.10. asti)
+
+Keskittäjäetu –10%. Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.telia.fi/dot/lidlplus
-{{</ sim-telia >}}
-
-{{< sim-telia "4G Rajaton 100M" >}}
-#### 0,00€ 3vk (23,00€/kk)
-* Rajaton netti
-* Ei avausmaksua
-* Keskitysetu –10%
-* 30€ Lidlin lahjakortti/liittymä (2kk, 30.10. asti)
-
-Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
-
-[Tutustu <i class="fas fa-external-link-alt"></i>][1]
-
-[1]: https://www.telia.fi/dot/lidlplus
+[2]: https://www.telia.fi/dot/4g-rajaton?product=4g-rajaton-plus#product
 {{</ sim-telia >}}
 
 {{< sim-telia "Yhteys kotiin 4G 100M" >}}
 #### 0,00€ 2vko (24,00€/kk)
 * Rajaton netti
 * Avausmaksu 5€
-* Keskitysetu –10%
-
-Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
-
-[Tutustu <i class="fas fa-external-link-alt"></i>](1)
-
-[1]: https://www.telia.fi/dot/laajakaistaliittymat/?product=4g-kotiin
-{{</ sim-telia >}}
-
-
-{{< sim-telia "4G Käytön mukaan 100M" >}}
-#### 0,00€ 3vk (5,00–25,00€/kk)
-* Rajaton netti
-* Ei avausmaksua
-* Keskitysetu –10%
-* 30€ Lidlin lahjakortti/liittymä (2kk, 30.10. asti)
 
 Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
-[1]: https://www.telia.fi/dot/lidlplus
+[1]: https://www.telia.fi/dot/laajakaistaliittymat/?product=4g-kotiin
 {{</ sim-telia >}}
+
+{{< sim-telia "4G Rajaton 100M" >}}
+#### 0,00€ 3vko (23,00€/kk)
+* Rajaton netti
+* Ei avausmaksua
+
+30€ Lidlin lahjakortti/liittymä (maks. 4kpl, 30.10. asti)
+
+Keskittäjäetu –10%. Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
+
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
+
+[1]: https://www.telia.fi/dot/lidlplus
+[1]: https://www.telia.fi/dot/4g-rajaton?product=4g-rajaton#product
+{{</ sim-telia >}}
+
+{{< sim-telia "4G Käytön mukaan 100M" >}}
+#### 0,00€ 3vko (5,00–25,00€/kk)
+* Netti käytön mukaan
+* Ei avausmaksua
+
+30€ Lidlin lahjakortti/liittymä (maks. 4kpl, 30.10. asti)
+
+Keskittäjäetu –10%. Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
+
+[Tutustu <i class="fas fa-external-link-alt"></i>][1]
+
+[1]: https://www.telia.fi/dot/lidlplus
+[2]: https://www.telia.fi/dot/4g#product
+{{</ sim-telia >}}
+
+
 
 [<i class="fas fa-arrow-up"></i> Takaisin ylös](#)
 
@@ -546,13 +551,16 @@ Laskut veloitetaan kortilta.
 
 {{< sim-moi "Potti 100M" >}}
 #### 9,00€
-* Dataa 6Gt/liittymä (jaettu)
-* Yli menevä data +1,50€/Gt, maks. +15€
+* Dataa 6Gt/liittymä (jaettu), yli menevä +1,50€/Gt, maks. +15€
+* Puh/sms +0,055€/min/kpl, maks. +4€
 * Avausmaksu 5€
+
+Useampi liittymä = enemmän dataa ([Lue lisää][potti]). Laskut veloitetaan kortilta.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
 [1]: https://www.moi.fi/moipotti
+[potti]: https://www.moi.fi/moipotti/#hinnasto
 {{</ sim-moi >}}
 
 [<i class="fas fa-arrow-up"></i> Takaisin ylös](#)
