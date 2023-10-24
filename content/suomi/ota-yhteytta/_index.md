@@ -8,5 +8,3 @@ draft: false
 
 
 Esillä olevat tarjoukset sopivat monille, mutta juuri sinun tarpeesi mukaisen saa vain kysymällä. Myös useammalle liittymälle kerralla! Varaudu toimittamaan vanhoja laskujasi.
-
-> Yhteydenotot myös info@laskutkuntoon.fi
