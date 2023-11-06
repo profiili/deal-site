@@ -2,7 +2,7 @@
 title: "Avaamassa uutta liittymää? Lue vinkit ja säästä"
 date: 2022-02-05T12:00:00+02:00
 # post image
-image: "images/blog/post-1.jpg"
+image: "images/blog/post-3.jpg"
 # post type (regular/featured)
 type: "regular"
 # meta description
@@ -23,12 +23,12 @@ Nopein tapa avata uusi liittymä on tarkistaa listamme [uusista liittymistä](/l
 
 Jos sinulla on käytössäsi älypuhelin ja maksukortti, kätevä valinta on [Telia Dot](/liittymat/uusi-liittyma#4g-dot). Kirjoitushetkellä liittymissä ei ole avausmaksua, saat kuukauden ilmaista peruskäyttöä sekä vielä 30&nbsp;euroa ostosrahaa Lidliin per liittymä. Lue ja noudata ehtoja huolellisesti. Uuden numeron muoto 040&nbsp;22x&nbsp;xxxx.
 
-Kun lahjakortit saapuvat, vilkaise [numeronsiirron vaativat liittymät](/liittymat/puhelin). Liittymän voi siirtää normaalisti toiselle operaattorille. Vaikka Telia ja Telia Dot ovat erillisiä, suoraan Telialle siirtäminen saattaa tuottaa ongelmia. Telialle siirto onnistuu kuitenkin siirtämällä liittymä välissä toiselle operaattorille.
+Kun lahjakortit saapuvat, vilkaise [numeronsiirron vaativat liittymät](/liittymat/puhelin). Liittymän voi siirtää normaalisti toiselle operaattorille. Telia Dot on erillinen osa Teliaa, joten Telian liittymän avaaminen toimii kuten operaattoreiden välinen numeronsiirto.
 
 Yhteenveto hyödyistä:
 * Ilmainen kuukausi, jonka aikana näet oman käyttösi hinnan Telia Dotilla
 * 30&nbsp;euroa ostosrahaa Lidliin per liittymä
-* Seuraavassa numeronsiirrossa mahdollisesti uusi lahjakortti
+* Seuraavassa numeronsiirrossa mahdollisesti lahjakortti
 
 ### Uusi liittymä numeronsiirron eduilla
 
@@ -44,7 +44,7 @@ Prepaid-liittymän puhelinnumeron muoto:
 
 DNA: Kokeile numeron siirtämistä sellaisenaan. Mikäli siirto ei onnistu, lataa DNA Prepaid -sovellus ja rekisteröi liittymä sen avulla. Prepaid-liittymän tulee olla samassa laitteessa kuin sovellus. Yritä sitten siirtoa uudelleen.
 
-Telian prepaidin voi siirtää sellaisenaan. Mikäli siirto ei onnistu, liittymä pitää ensin siirtää Telialle itselleen. Tämä lisää tavoitteeseen heti ylimääräisen viikon. Jos näin käy, tavoiteliittymässa tulisi olla hyvä tarjous ollakseen vaivan arvoinen.
+Telian prepaidin voi siirtää sellaisenaan. Mikäli siirto ei onnistu, liittymä pitää ensin siirtää Telialle itselleen. Tämä lisää tavoitteeseen heti ylimääräisen viikon. Jos näin käy, tavoiteliittymän tarjous on toivon mukaan vaivan arvoinen.
 
 – Tiimi
 

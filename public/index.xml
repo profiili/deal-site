@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Laskut kuntoon helposti – Laskutkuntoon.fi</title>
+    <link>https://www.laskutkuntoon.fi/</link>
+    <description>Recent content on Laskut kuntoon helposti – Laskutkuntoon.fi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>fi</language>
+    <copyright>&amp;copy; 2023 Laskutkuntoon.fi | Teema: [Themefisher](https://themefisher.com/) &amp;amp; [Gethugothemes](https://gethugothemes.com/)</copyright>
+    <lastBuildDate>Sat, 05 Feb 2022 12:00:00 +0200</lastBuildDate>
+    <atom:link href="https://www.laskutkuntoon.fi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avaamassa uutta liittymää? Lue vinkit ja säästä</title>
+      <link>https://www.laskutkuntoon.fi/blogi/uusi-liittyma-vinkit/</link>
+      <pubDate>Sat, 05 Feb 2022 12:00:00 +0200</pubDate>
+      <guid>https://www.laskutkuntoon.fi/blogi/uusi-liittyma-vinkit/</guid>
+      <description>5.2.2022
+Onko haussa ensiliittymä lapselle? Oletko kenties käyttänyt pelkkää työpuhelinta, eikä se onnistu enää tulevaisuudessa?</description>
+    </item>
+    <item>
+      <title>Laskutkuntoon.fi on nyt julkaistu!</title>
+      <link>https://www.laskutkuntoon.fi/blogi/laskutkuntoon-julkaistu/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0200</pubDate>
+      <guid>https://www.laskutkuntoon.fi/blogi/laskutkuntoon-julkaistu/</guid>
+      <description>30.12.2021
+Tiimimme on loppuvuoden 2021 rakentaneet kaikessa hiljaisuudessa projektia, jonka tavoite on koota parhaat liittymätarjoukset yhteen paikkaan ja pitää ne ajan tasalla.</description>
+    </item>
+    <item>
+      <title>Cyber Mondayn liittymätarjoukset</title>
+      <link>https://www.laskutkuntoon.fi/blogi/cyber-monday-liittymat-2021/</link>
+      <pubDate>Mon, 29 Nov 2021 10:31:03 +0200</pubDate>
+      <guid>https://www.laskutkuntoon.fi/blogi/cyber-monday-liittymat-2021/</guid>
+      <description>29.11.2021
+Black Fridayn jälkeinen tarjousmaanantai on taas täällä. Jos et viikonloppuna ehtinyt päivittää liittymääsi, ei hätää!</description>
+    </item>
+    <item>
+      <title>Black Fridayn liittymätarjoukset</title>
+      <link>https://www.laskutkuntoon.fi/blogi/black-friday-liittymat-2021/</link>
+      <pubDate>Thu, 25 Nov 2021 16:07:03 +0200</pubDate>
+      <guid>https://www.laskutkuntoon.fi/blogi/black-friday-liittymat-2021/</guid>
+      <description>25.11.2021
+Jokavuotinen jo koko viikon pituiseksi venynyt Black Friday on taas täällä.</description>
+    </item>
+    <item>
+      <title>Laitenetti</title>
+      <link>https://www.laskutkuntoon.fi/liittymat/laite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.laskutkuntoon.fi/liittymat/laite/</guid>
+      <description>Hyppää: Elisa | DNA | Telia | Moi | Globetel</description>
+    </item>
+    <item>
+      <title>Liittymät puhelimeen</title>
+      <link>https://www.laskutkuntoon.fi/liittymat/puhelin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.laskutkuntoon.fi/liittymat/puhelin/</guid>
+      <description>Tällä sivulla on listattuna vain alle 30€/kk liittymät.
+Hyppää: 5G-liittymät | 4G-liittymät | Elisa | DNA | Telia | Telia Dot | Moi | Globetel</description>
+    </item>
+    <item>
+      <title>Liittymät puhelimeen</title>
+      <link>https://www.laskutkuntoon.fi/ukk/puhelin_testi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.laskutkuntoon.fi/ukk/puhelin_testi/</guid>
+      <description>Hyppää: 5G-liittymät | 4G-liittymät | Elisa | DNA | Telia | Telia Dot | Moi | Globetel</description>
+    </item>
+    <item>
+      <title>Netti kotiin ja mukaan</title>
+      <link>https://www.laskutkuntoon.fi/liittymat/netti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.laskutkuntoon.fi/liittymat/netti/</guid>
+      <description>Tällä sivulla on listattuna vain alle 30€/kk liittymät.
+Hyppää: 5G-netti | 4G-netti | Elisa | DNA | Telia | Telia Dot | Moi | Globetel</description>
+    </item>
+    <item>
+      <title>Uusi liittymä puhelimeen</title>
+      <link>https://www.laskutkuntoon.fi/liittymat/uusi-liittyma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.laskutkuntoon.fi/liittymat/uusi-liittyma/</guid>
+      <description>Pahus! Uudet liittymät ovat väliaikaisesti poistettu näkyvistä. Tutustu sen sijaan näihin:</description>
+    </item>
+    <item>
+      <title>Uusi liittymä puhelimeen</title>
+      <link>https://www.laskutkuntoon.fi/liittymat/uusi-liittyma2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.laskutkuntoon.fi/liittymat/uusi-liittyma2/</guid>
+      <description>Tällä sivulla on listattuna vain alle 30€/kk liittymät.
+Hyppää: 5G-liittymät | 4G-liittymät | Elisa | DNA | Telia | Telia Dot | Moi | Globetel</description>
+    </item>
   </channel>
 </rss>

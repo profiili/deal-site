@@ -7,11 +7,14 @@ banner:
 
   **Ajankohtaista**
 
-  ### Hyvää kesää!"
+  ### Liittymätarjoukset vko 45
+  
+  Singles' Day 11.11."
+  
   button:
     enable : true
-    label : "Liittymiin"
-    link : "liittymat/puhelin"
+    label : "Lue lisää"
+    link : "blogi/liittymat-2023-45"
 
 ##################### Feature ##########################
 feature:

@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on Laskut kuntoon helposti – Laskutkuntoon.fi</title>
+    <link>https://www.laskutkuntoon.fi/tags/</link>
+    <description>Recent content in Tags on Laskut kuntoon helposti – Laskutkuntoon.fi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>fi</language>
+    <copyright>&amp;copy; 2023 Laskutkuntoon.fi | Teema: [Themefisher](https://themefisher.com/) &amp;amp; [Gethugothemes](https://gethugothemes.com/)</copyright>
+    <atom:link href="https://www.laskutkuntoon.fi/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

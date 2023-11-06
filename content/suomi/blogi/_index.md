@@ -2,6 +2,6 @@
 title: "Blogi"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: ""
 draft: false
 ---
