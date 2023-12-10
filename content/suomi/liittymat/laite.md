@@ -1,6 +1,6 @@
 ---
 title: "Laitenetti"
-subtitle: "Päivitetty 6.11.2022 | <a href='/ota-yhteytta'>Pyydä päivittämistä</a>"
+subtitle: "Tarkistettu 6.11.2023"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -142,6 +142,6 @@ Liikaa valinnanvaraa? Etkö ole varma, mitä kaikkea liittymältä tarvitset? Et
 
 <hr>
 
-### Huomioitavaa
+#### Huomioitavaa
 
 Sivun tarjoukset eivät välttämättä ole kaikkien käytettävissä. Sivun tarjouksien ehdot ja ominaisuudet voivat muuttua ilman eri ilmoitusta. Tutustu tuotteeseen huolella ja varmista lisäedut (kuten lahjakortti) suoraan operaattorilta.

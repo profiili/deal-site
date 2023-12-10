@@ -7,14 +7,12 @@ banner:
 
   **Ajankohtaista**
 
-  ### Liittymätarjoukset vko 45
-  
-  Singles' Day 11.11."
+  ### Uutta: Prepaidit vertailussa"
   
   button:
     enable : true
     label : "Lue lisää"
-    link : "blogi/liittymat-2023-45"
+    link : "blogi/prepaidit-vertailussa-122023"
 
 ##################### Feature ##########################
 feature:

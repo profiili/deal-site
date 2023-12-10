@@ -1,6 +1,6 @@
 ---
 title: "Liittymät puhelimeen"
-subtitle: "Päivitetty 6.11.2023 | <a href='/ota-yhteytta'>Pyydä päivittämistä</a>"
+subtitle: "Tarkistettu 10.12.2023"
 # post image
 image: "/images/blog/post-1.jpg"
 # post type (regular/featured)
@@ -46,7 +46,7 @@ Ideoita saa lähettää laskutkuntoon.fi/ota-yhteytta.
 <i title="Arvo laskenut" class="fas fa-chevron-down" style="color:crimson"></i>
 -->
 
-Tällä sivulla on listattuna vain alle 35€/kk liittymät.
+Tällä sivulla on listattuna vain maks. 35€/kk liittymät.
 
 Hyppää: [5G-liittymät](#5g) | [4G-liittymät](#4g) | [Elisa](#elisa4g) | [DNA](#dna4g) | [Telia](#telia4g) | [Telia Dot](#dot4g) | [Moi](#moi4g) | [Globetel](#globetel4g)
 
@@ -80,7 +80,7 @@ Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
 {{< sim-elisa "Elisa Rajaton 5G 600M" >}}
 #### 33,99€ 24kk (39,99€)
 * Rajaton netti ja puhe
-* Avausmaksu 8,99€ <i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i>
+* Avausmaksu 8,99€
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -88,9 +88,9 @@ Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
 {{</ sim-elisa >}}
 
 {{< sim-elisa "Elisa Rajaton 5G 300M" >}}
-#### 31,99€ 24kk (34,99€) <i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i>
+#### 31,99€ 24kk (34,99€)
 * Rajaton netti ja puhe
-* Avausmaksu 8,99€ <i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i>
+* Avausmaksu 8,99€
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -106,11 +106,11 @@ Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
 * Avausmaksu 6,90€
 * **12kk määräaika**
 
-75€ DNA:n lahjakortti
-
-[Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][2]
 
 [1]: https://kauppa.dna.fi/liittymat/puhelinliittymat/dna-rajaton-5g-600m/s/MCAMP-HVES02-QVS000020
+
+[2]: https://kauppa.dna.fi/liittymat/puhelinliittymat/dna-rajaton-5g-600m/s/MCAMP-HV02-QVS000020
 {{</ sim-dna >}}
 
 {{< sim-dna "DNA Rajaton 5G 400M" >}}
@@ -119,11 +119,11 @@ Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
 * Avausmaksu 6,90€
 * **12kk määräaika**
 
-50€ DNA:n lahjakortti
-
-[Tutustu <i class="fas fa-external-link-alt"></i>][1]
+[Tutustu <i class="fas fa-external-link-alt"></i>][2]
 
 [1]: https://kauppa.dna.fi/liittymat/puhelinliittymat/dna-rajaton-5g-400m/s/MCAMP-HVES24-QVS000014
+
+[2]: https://kauppa.dna.fi/liittymat/puhelinliittymat/dna-rajaton-5g-400m/s/MCAMP-HV17-QVS000014
 {{</ sim-dna >}}
 
 <!--
@@ -145,26 +145,27 @@ Kaikille operaattoreille. Palvelua ohjaa ja valvoo [Traficom][1].
 {{< sim-telia "Telia Rajaton 5G 450M" >}}
 #### 32,99€ 24kk (44,99€)
 * Rajaton netti ja puhe
-* Avausmaksu 7,99€ <i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i>
+* Avausmaksu 7,99€
 
-Singles' Day: JBL Tune 770NC -vastamelukuulokkeet <i title="Arvo noussut" class="fas fa-chevron-up" style="color:green"></i>
+30€ Lidlin lahjakortti (10.12.2023 asti)
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][2]
+[Tutustu <i class="fas fa-external-link-alt"></i>][3]
 
 [1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G450M&kampanja=R5G450M21103
 
 [1b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G450M&kampanja=R5G450M21103LK
 
-<!-- JBL -->
 [2]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G450M&kampanja=R450M23089JBL
+
+[3]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G450M&Kampanja=R450M23089LK
 {{</ sim-telia >}}
 
 {{< sim-telia "Telia Rajaton 5G 300M" >}}
-#### 30,99€ 24kk (34,99€) <i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i>
+#### 30,99€ 24kk (34,99€)
 * Rajaton netti ja puhe
-* Avausmaksu 7,99€ <i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i>
+* Avausmaksu 7,99€
 
-Singles' Day: JBL Tune 770NC -vastamelukuulokkeet <i title="Arvo noussut" class="fas fa-chevron-up" style="color:green"></i>
+30€ Lidlin lahjakortti (10.12.2023 asti)
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][5]
 
@@ -182,21 +183,21 @@ Singles' Day: JBL Tune 770NC -vastamelukuulokkeet <i title="Arvo noussut" class=
 
 [4a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M22086
 
-<!-- 30€ lidl -->
 [4b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M22086LK
 
-<!-- JBL -->
 [5]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M23089JBL
+
+[6]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton5G300M&Kampanja=R300M23089LK
 {{</ sim-telia >}}
 
 <!-- Telia Dot 5G -->
 
 {{< sim-telia "Telia Dot 5G 300M" >}}
-#### 0€ 3vko (29,90€/kk)
+#### 0€ 3vko (29,90€)
 * Rajaton netti ja puhe
 * Ei avausmaksua
 
-30€ Lidlin lahjakortti/liittymä (maks. 4kpl)
+30€ Lidlin lahjakortti/liittymä (maks. 4kpl, vain uudet asiakkaat)
 
 Keskittäjäetu –10%. Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
@@ -222,7 +223,7 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 {{</ sim-moi >}}
 
 {{< sim-moi "Moi Reilu 5G 450M" >}}
-#### 22–28€ <i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i>
+#### 22–28€
 * Rajaton netti
 * Puh/sms 0,055€/min/kpl (maks. 4€)
 * Avausmaksu 5€
@@ -247,9 +248,9 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 ### Elisa 4G
 
 {{< sim-elisa "Rajaton 200M" >}}
-#### 29,99€ 24kk (31,99€) <i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i>
+#### 29,99€ 24kk (31,99€)
 * Rajaton netti ja puhe
-* Avausmaksu 8,99€ <i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i>
+* Avausmaksu 8,99€
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][1]
 
@@ -319,13 +320,13 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][4]
 
-[1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta%2C-rajaton-k%C3%A4ytt%C3%B6/DNA-Super-4G-Rajaton/p/MCAMP-YO1-QVS000005
+[1]: https://kauppa.dna.fi/liittymat/puhelinliittymat/dna-super-4G-rajaton/s/MCAMP-YO1-QVS000005
 
-[2]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Super-4G-Rajaton/p/MCAMP-SH-QVS000005
+[2]: https://kauppa.dna.fi/liittymat/puhelinliittymat/DNA-Super-4G-Rajaton/s/MCAMP-SH-QVS000005
 
-[3]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Super-4G-Rajaton/p/MCAMP-PP-QVS000005
+[3]: https://kauppa.dna.fi/liittymat/puhelinliittymat/DNA-Super-4G-Rajaton/p/MCAMP-PP-QVS000005
 
-[4]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Super-4G-Rajaton/p/MCAMP-HVES59-QVS000005
+[4]: https://kauppa.dna.fi/liittymat/puhelinliittymat/DNA-Super-4G-Rajaton/p/MCAMP-HVES59-QVS000005
 
 [5]: https://kauppa.dna.fi/liittymat/puhelinliittymat/dna-super-4g-rajaton/s/MCAMP-AP-QVS000005
 
@@ -354,6 +355,8 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 
 [3]: https://kauppa.dna.fi/liittymat/puhelinliittymat/dna-rajaton-200m/s/MCAMP-HVES01-QVS000018
 
+[4]: https://kauppa.dna.fi/liittymat/puhelinliittymat/dna-rajaton-200m/s/QVS000018
+
 {{</ sim-dna >}}
 -->
 
@@ -380,22 +383,25 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 [2]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Nopea-4G-Rajaton-Plus-/p/MCAMP-SH-QVS000012
 
 [3]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Nopea-4G-Rajaton-Plus-/p/MCAMP-PP-QVS000012
+
+[4]: https://kauppa.dna.fi/liittymat/puhelinliittymat/dna-nopea-4G-rajaton-plus-/s/QVS000012
 {{</ sim-dna >}} -->
 
 {{< sim-dna "Rajaton 4G 10M" >}}
-#### 24,99€ 12kk (26,90€) <i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i>
+#### 24,99€ 12kk (26,90€)
 * Rajaton netti ja puhe
 * Avausmaksu 6,90€
 * **12kk määräaika**
 
 [Tutustu <i class="fas fa-external-link-alt"></i>][6]
 
-[1]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta%2C-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-PP4-QVS000016
-[2]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-SH-QVS000016
-[3]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-PP5-QVS000016
-[4]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-PP3-QVS000016
-[5]: https://kauppa4.dna.fi/Puhelinliittym%C3%A4t/Kiinte%C3%A4-hinta,-rajaton-k%C3%A4ytt%C3%B6/DNA-Rajaton-4G-10M/p/MCAMP-KO2-QVS000016
+[1]: https://kauppa.dna.fi/liittymat/puhelinliittymat/dna-rajaton-4G-10m/s/MCAMP-PP4-QVS000016
+[2]: https://kauppa.dna.fi/liittymat/puhelinliittymat/dna-rajaton-4G-10m/s/MCAMP-SH-QVS000016
+[3]: https://kauppa.dna.fi/liittymat/puhelinliittymat/dna-rajaton-4G-10m/s/MCAMP-PP5-QVS000016
+[4]: https://kauppa.dna.fi/liittymat/puhelinliittymat/dna-rajaton-4G-10m/s/MCAMP-PP3-QVS000016
+[5]: https://kauppa.dna.fi/liittymat/puhelinliittymat/dna-rajaton-4G-10m/s/MCAMP-KO2-QVS000016
 [6]: https://kauppa.dna.fi/liittymat/puhelinliittymat/dna-rajaton-4g-10m/s/MCAMP-HV35-QVS000016
+[7]: https://kauppa.dna.fi/liittymat/puhelinliittymat/dna-rajaton-4g-10m/s/QVS000016
 {{</ sim-dna >}}
 
 {{< sim-dna "Jämpti 5M" >}}
@@ -421,13 +427,13 @@ Hinta käytetyn verkon mukaan (4G/5G). Laskut veloitetaan kortilta.
 ### Telia 4G
 
 {{< sim-telia "Rajaton 200M" >}}
-#### 29,99€ 24kk (31,90€) <i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i>
+#### 29,99€ 24kk (31,90€)
 * Rajaton netti ja puhe
-* Avausmaksu 7,99€ <i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i>
+* Avausmaksu 7,99€
 
-Singles' Day: JBL Tune 770NC -vastamelukuulokkeet <i title="Arvo noussut" class="fas fa-chevron-up" style="color:green"></i>
+30€ Lidlin lahjakortti
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][5]
+[Tutustu <i class="fas fa-external-link-alt"></i>][6]
 
 [1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21103
 [1b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M21103LK
@@ -438,6 +444,8 @@ Singles' Day: JBL Tune 770NC -vastamelukuulokkeet <i title="Arvo noussut" class=
 [4a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M22087
 [4b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M22087LK
 [5]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&kampanja=R200M23088JBL
+[6]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton200M&Kampanja=R200M23088LK
+[7]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M
 {{</ sim-telia >}}
 
 <!--
@@ -455,11 +463,11 @@ Singles' Day: JBL Tune 770NC -vastamelukuulokkeet <i title="Arvo noussut" class=
 
 
 {{< sim-telia "Rajaton 20M" >}}
-#### 24,99€ 12kk (26,99€) <i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i>
+#### 24,99€ 12kk (26,99€)
 * Rajaton netti ja puhe
-* Avausmaksu 7,99€ <i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i>
+* Avausmaksu 7,99€
 
-[Tutustu <i class="fas fa-external-link-alt"></i>][7a]
+[Tutustu <i class="fas fa-external-link-alt"></i>][7b]
 
 [1a]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M21146
 [1b]: https://kauppa.telia.fi/yksityisille/tuotteet/liittyma.aspx?Subscription=Voice&Plan=Rajaton20M&kampanja=R20M21146LK
@@ -539,7 +547,7 @@ Telia Dot on erillinen osa Teliaa, ja niiden välillä tulee tehdä numeronsiirt
 * Rajaton netti ja puhe
 * Ei avausmaksua
 
-30€ Lidlin lahjakortti/liittymä (maks. 4kpl)
+30€ Lidlin lahjakortti/liittymä (maks. 4kpl, vain uudet asiakkaat)
 
 Keskittäjäetu –10%. Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
@@ -554,7 +562,7 @@ Keskittäjäetu –10%. Kaikki asiointi sovelluksella. Laskut veloitetaan kortil
 * Rajaton netti ja puhe
 * Ei avausmaksua
 
-30€ Lidlin lahjakortti/liittymä (maks. 4kpl)
+30€ Lidlin lahjakortti/liittymä (maks. 4kpl, vain uudet asiakkaat)
 
 Keskittäjäetu –10%. Kaikki asiointi sovelluksella. Laskut veloitetaan kortilta.
 
@@ -608,7 +616,7 @@ Hinta 4G-verkossa. Laskut veloitetaan kortilta.
 {{</ sim-moi >}}
 
 {{< sim-moi "Reilu 5G 450M" >}}
-#### 22€ <i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i>
+#### 22€
 * Rajaton netti
 * Puh/sms 0,055€/min/kpl (maks. 4€)
 * Avausmaksu 5€
@@ -621,12 +629,12 @@ Hinta 4G-verkossa. Laskut veloitetaan kortilta.
 {{</ sim-moi >}}
 
 {{< sim-moi "Rajaton 4G 200M" >}}
-#### 22€ <i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i>
+#### 22€
 * Rajaton netti
 * Puh/sms 0,055€/min/kpl (maks. 4€)
 * Avausmaksu 5€
 
-**Tarjolla myös nopeampi 450M, jossa sama hinta 4G-verkossa.**
+**Tarjolla nopeampi 450M, jossa sama hinta 4G-verkossa.**
 
 Laskut veloitetaan kortilta.
 
@@ -636,7 +644,7 @@ Laskut veloitetaan kortilta.
 {{</ sim-moi >}}
 
 {{< sim-moi "Rento 4G 100M" >}}
-#### 15€ <i title="Hinta noussut" class="fas fa-chevron-up" style="color:crimson"></i>
+#### 15€
 * Dataa 8Gt
 * Lisädata 2€/Gt, (maks. 10€)
 * Puh/sms 0,055€/min/kpl (maks. 4€)
@@ -728,6 +736,6 @@ Liikaa valinnanvaraa? Etkö ole varma, mitä kaikkea liittymältä tarvitset? Et
 
 ---
 
-### Huomioitavaa
+#### Huomioitavaa
 
 Sivun tarjoukset eivät välttämättä ole kaikkien käytettävissä. Sivun tarjouksien ehdot ja ominaisuudet voivat muuttua ilman eri ilmoitusta. Tutustu tuotteeseen huolella ja varmista lisäedut (kuten lahjakortti) suoraan operaattorilta.

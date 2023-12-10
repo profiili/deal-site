@@ -27,10 +27,16 @@ hasChildren = true
   url = "liittymat/netti"
   weight = 3
 
+#  [[main]]
+#  parent = "Liittymät"
+#  name = "Uudet liittymät"
+#  url = "liittymat/uusi-liittyma"
+#  weight = 4
+
   [[main]]
   parent = "Liittymät"
-  name = "Uudet liittymät"
-  url = "liittymat/uusi-liittyma"
+  name = "Uutta: Prepaid-liittymät"
+  url = "blogi/prepaidit-vertailussa-122023"
   weight = 4
 
 [[main]]
